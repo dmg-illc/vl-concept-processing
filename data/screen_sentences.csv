@@ -1,0 +1,1081 @@
+Concept_ID,Concept,Sentence_Nr,Sentence_Screen,Concept_Word,Word_Start,Word_End,Screen_Img,Noise_Img
+1,Seafood,1,Shrimp is a kind of seafood.,seafood,20,27,stimuli/sentence_images/seafood/sentence1.jpg,stimuli/noise_images/seafood/noise1.jpg
+1,Seafood,2,She ordered scallops at the seafood restaurant.,seafood,28,35,stimuli/sentence_images/seafood/sentence2.jpg,stimuli/noise_images/seafood/noise2.jpg
+1,Seafood,3,Tempura is one popular way to prepare seafood.,seafood,38,45,stimuli/sentence_images/seafood/sentence3.jpg,stimuli/noise_images/seafood/noise3.jpg
+1,Seafood,4,He is happy to see flounder in the seafood section.,seafood,35,42,stimuli/sentence_images/seafood/sentence4.jpg,stimuli/noise_images/seafood/noise4.jpg
+1,Seafood,5,Caviar is a gourmet kind of seafood.,seafood,28,35,stimuli/sentence_images/seafood/sentence5.jpg,stimuli/noise_images/seafood/noise5.jpg
+1,Seafood,6,Chowder is made with different kinds of seafood.,seafood,40,47,stimuli/sentence_images/seafood/sentence6.jpg,stimuli/noise_images/seafood/noise6.jpg
+2,Bird,1,The bird flew around the cage.,bird,4,8,stimuli/sentence_images/bird/sentence1.jpg,stimuli/noise_images/bird/noise1.jpg
+2,Bird,2,The nest was just big enough for the bird.,bird,37,41,stimuli/sentence_images/bird/sentence2.jpg,stimuli/noise_images/bird/noise2.jpg
+2,Bird,3,The only bird she can see is the parrot.,bird,9,13,stimuli/sentence_images/bird/sentence3.jpg,stimuli/noise_images/bird/noise3.jpg
+2,Bird,4,The bird poked its head out of the hatch.,bird,4,8,stimuli/sentence_images/bird/sentence4.jpg,stimuli/noise_images/bird/noise4.jpg
+2,Bird,5,The bird holds the worm in its beak.,bird,4,8,stimuli/sentence_images/bird/sentence5.jpg,stimuli/noise_images/bird/noise5.jpg
+2,Bird,6,The bird preened itself for mating.,bird,4,8,stimuli/sentence_images/bird/sentence6.jpg,stimuli/noise_images/bird/noise6.jpg
+3,Beat,1,The beat of the music was soulful.,beat,4,8,stimuli/sentence_images/beat/sentence1.jpg,stimuli/noise_images/beat/noise1.jpg
+3,Beat,2,The song had a catchy beat.,beat,22,26,stimuli/sentence_images/beat/sentence2.jpg,stimuli/noise_images/beat/noise2.jpg
+3,Beat,3,She tapped her foot to the rhythmic beat.,beat,36,40,stimuli/sentence_images/beat/sentence3.jpg,stimuli/noise_images/beat/noise3.jpg
+3,Beat,4,He thought that the beat had a good vibe.,beat,20,24,stimuli/sentence_images/beat/sentence4.jpg,stimuli/noise_images/beat/noise4.jpg
+3,Beat,5,People thrashed their heads to the beat.,beat,35,39,stimuli/sentence_images/beat/sentence5.jpg,stimuli/noise_images/beat/noise5.jpg
+3,Beat,6,She can strum the beat on her guitar.,beat,18,22,stimuli/sentence_images/beat/sentence6.jpg,stimuli/noise_images/beat/noise6.jpg
+4,Vacation,1,The vacation started with a perfect sunset.,vacation,4,12,stimuli/sentence_images/vacation/sentence1.jpg,stimuli/noise_images/vacation/noise1.jpg
+4,Vacation,2,She can relax the rest of her vacation.,vacation,30,38,stimuli/sentence_images/vacation/sentence2.jpg,stimuli/noise_images/vacation/noise2.jpg
+4,Vacation,3,There's nothing like vacation in paradise.,vacation,21,29,stimuli/sentence_images/vacation/sentence3.jpg,stimuli/noise_images/vacation/noise3.jpg
+4,Vacation,4,The vacation in Hawaii was a luxury.,vacation,4,12,stimuli/sentence_images/vacation/sentence4.jpg,stimuli/noise_images/vacation/noise4.jpg
+4,Vacation,5,The vacation is a hideaway from home.,vacation,4,12,stimuli/sentence_images/vacation/sentence5.jpg,stimuli/noise_images/vacation/noise5.jpg
+4,Vacation,6,Their honeymoon was a vacation in France.,vacation,22,30,stimuli/sentence_images/vacation/sentence6.jpg,stimuli/noise_images/vacation/noise6.jpg
+5,Bar,1,The bar looked like an ancient tavern.,bar,4,7,stimuli/sentence_images/bar/sentence1.jpg,stimuli/noise_images/bar/noise1.jpg
+5,Bar,2,Cowboys go to saloons instead of bars.,bars,33,37,stimuli/sentence_images/bar/sentence2.jpg,stimuli/noise_images/bar/noise2.jpg
+5,Bar,3,He learned quickly that bars don't cater.,bars,24,28,stimuli/sentence_images/bar/sentence3.jpg,stimuli/noise_images/bar/noise3.jpg
+5,Bar,4,That bar was their new favorite venue.,bar,5,8,stimuli/sentence_images/bar/sentence4.jpg,stimuli/noise_images/bar/noise4.jpg
+5,Bar,5,The popular nightclub has added a bar.,bar,34,37,stimuli/sentence_images/bar/sentence5.jpg,stimuli/noise_images/bar/noise5.jpg
+5,Bar,6,The bar had an urban feel to it.,bar,4,7,stimuli/sentence_images/bar/sentence6.jpg,stimuli/noise_images/bar/noise6.jpg
+6,Taste,1,She says the hot chocolate had a rich taste.,taste,38,43,stimuli/sentence_images/taste/sentence1.jpg,stimuli/noise_images/taste/noise1.jpg
+6,Taste,2,The spicy taste lingered in her mouth.,taste,10,15,stimuli/sentence_images/taste/sentence2.jpg,stimuli/noise_images/taste/noise2.jpg
+6,Taste,3,The margarita has a zing to its taste.,taste,32,37,stimuli/sentence_images/taste/sentence3.jpg,stimuli/noise_images/taste/noise3.jpg
+6,Taste,4,Her delicate palate reacted strongly to the taste.,taste,44,49,stimuli/sentence_images/taste/sentence4.jpg,stimuli/noise_images/taste/noise4.jpg
+6,Taste,5,The distinctive taste of the cereal is gross.,taste,16,21,stimuli/sentence_images/taste/sentence5.jpg,stimuli/noise_images/taste/noise5.jpg
+6,Taste,6,She enjoyed the mousse's aroma and taste.,taste,35,40,stimuli/sentence_images/taste/sentence6.jpg,stimuli/noise_images/taste/noise6.jpg
+7,Useless,1,Useless help desks are frustrating.,Useless,0,7,stimuli/sentence_images/useless/sentence1.jpg,stimuli/noise_images/useless/noise1.jpg
+7,Useless,2,The useless task was just busywork.,useless,4,11,stimuli/sentence_images/useless/sentence2.jpg,stimuli/noise_images/useless/noise2.jpg
+7,Useless,3,The presentation is useless and irritating.,useless,20,27,stimuli/sentence_images/useless/sentence3.jpg,stimuli/noise_images/useless/noise3.jpg
+7,Useless,4,The trip was agonizing and quite useless.,useless,33,40,stimuli/sentence_images/useless/sentence4.jpg,stimuli/noise_images/useless/noise4.jpg
+7,Useless,5,The grueling process is just useless.,useless,29,36,stimuli/sentence_images/useless/sentence5.jpg,stimuli/noise_images/useless/noise5.jpg
+7,Useless,6,The excruciating demands seemed useless.,useless,32,39,stimuli/sentence_images/useless/sentence6.jpg,stimuli/noise_images/useless/noise6.jpg
+8,Beer,1,Guys tend to like beer more than wine.,beer,18,22,stimuli/sentence_images/beer/sentence1.jpg,stimuli/noise_images/beer/noise1.jpg
+8,Beer,2,He can grab a bottle of beer from here.,beer,24,28,stimuli/sentence_images/beer/sentence2.jpg,stimuli/noise_images/beer/noise2.jpg
+8,Beer,3,The bartender served her a cold beer.,beer,32,36,stimuli/sentence_images/beer/sentence3.jpg,stimuli/noise_images/beer/noise3.jpg
+8,Beer,4,She ordered a margarita after the beer.,beer,34,38,stimuli/sentence_images/beer/sentence4.jpg,stimuli/noise_images/beer/noise4.jpg
+8,Beer,5,All she wants today is a pint of beer.,beer,33,37,stimuli/sentence_images/beer/sentence5.jpg,stimuli/noise_images/beer/noise5.jpg
+8,Beer,6,He was thirsty for the beer in the fridge.,beer,23,27,stimuli/sentence_images/beer/sentence6.jpg,stimuli/noise_images/beer/noise6.jpg
+9,Road,1,The bus blocked the entire road.,road,27,31,stimuli/sentence_images/road/sentence1.jpg,stimuli/noise_images/road/noise1.jpg
+9,Road,2,The tunnel cut through the main road.,road,32,36,stimuli/sentence_images/road/sentence2.jpg,stimuli/noise_images/road/noise2.jpg
+9,Road,3,The sidewalk runs alongside the road.,road,32,36,stimuli/sentence_images/road/sentence3.jpg,stimuli/noise_images/road/noise3.jpg
+9,Road,4,The road pileup didn't clear for hours.,road,4,8,stimuli/sentence_images/road/sentence4.jpg,stimuli/noise_images/road/noise4.jpg
+9,Road,5,"Surprisingly, the main road only has one lane.",road,23,27,stimuli/sentence_images/road/sentence5.jpg,stimuli/noise_images/road/noise5.jpg
+9,Road,6,The tollbooth was at the end of the road.,road,36,40,stimuli/sentence_images/road/sentence6.jpg,stimuli/noise_images/road/noise6.jpg
+10,Dog,1,The man was able to rescue the dog.,dog,31,34,stimuli/sentence_images/dog/sentence1.jpg,stimuli/noise_images/dog/noise1.jpg
+10,Dog,2,The shelter worker took care of the dog.,dog,36,39,stimuli/sentence_images/dog/sentence2.jpg,stimuli/noise_images/dog/noise2.jpg
+10,Dog,3,Her dog's temperament matched her own.,dog,4,7,stimuli/sentence_images/dog/sentence3.jpg,stimuli/noise_images/dog/noise3.jpg
+10,Dog,4,A dog is a great companion.,dog,2,5,stimuli/sentence_images/dog/sentence4.jpg,stimuli/noise_images/dog/noise4.jpg
+10,Dog,5,The spaniel was a terrible dog.,dog,27,30,stimuli/sentence_images/dog/sentence5.jpg,stimuli/noise_images/dog/noise5.jpg
+10,Dog,6,The vet didn't want a dog of her own.,dog,22,25,stimuli/sentence_images/dog/sentence6.jpg,stimuli/noise_images/dog/noise6.jpg
+11,Collection,1,She loves her collection of antiques.,collection,14,24,stimuli/sentence_images/collection/sentence1.jpg,stimuli/noise_images/collection/noise1.jpg
+11,Collection,2,He hoarded a collection of autographs.,collection,13,23,stimuli/sentence_images/collection/sentence2.jpg,stimuli/noise_images/collection/noise2.jpg
+11,Collection,3,Her souvenir collection began in childhood.,collection,13,23,stimuli/sentence_images/collection/sentence3.jpg,stimuli/noise_images/collection/noise3.jpg
+11,Collection,4,He stole a stamp to complete his collection.,collection,33,43,stimuli/sentence_images/collection/sentence4.jpg,stimuli/noise_images/collection/noise4.jpg
+11,Collection,5,The item isn't worth adding to the collection.,collection,35,45,stimuli/sentence_images/collection/sentence5.jpg,stimuli/noise_images/collection/noise5.jpg
+11,Collection,6,She assembled a collection of auction items.,collection,16,26,stimuli/sentence_images/collection/sentence6.jpg,stimuli/noise_images/collection/noise6.jpg
+12,Dedication,1,His dedication shows how passionate he is.,dedication,4,14,stimuli/sentence_images/dedication/sentence1.jpg,stimuli/noise_images/dedication/noise1.jpg
+12,Dedication,2,His dedication makes him so succesful.,dedication,4,14,stimuli/sentence_images/dedication/sentence2.jpg,stimuli/noise_images/dedication/noise2.jpg
+12,Dedication,3,Her dedication spurred her pursuit.,dedication,4,14,stimuli/sentence_images/dedication/sentence3.jpg,stimuli/noise_images/dedication/noise3.jpg
+12,Dedication,4,Her dedication mirrored her commitment.,dedication,4,14,stimuli/sentence_images/dedication/sentence4.jpg,stimuli/noise_images/dedication/noise4.jpg
+12,Dedication,5,His dedication to her shows how faithful he is.,dedication,4,14,stimuli/sentence_images/dedication/sentence5.jpg,stimuli/noise_images/dedication/noise5.jpg
+12,Dedication,6,Her loyal dedication is indisputable.,dedication,10,20,stimuli/sentence_images/dedication/sentence6.jpg,stimuli/noise_images/dedication/noise6.jpg
+13,Great,1,The great experience became irresistible.,great,4,9,stimuli/sentence_images/great/sentence1.jpg,stimuli/noise_images/great/noise1.jpg
+13,Great,2,You are great but aim to be terrific.,great,8,13,stimuli/sentence_images/great/sentence2.jpg,stimuli/noise_images/great/noise2.jpg
+13,Great,3,The great waiter took care of his guests.,great,4,9,stimuli/sentence_images/great/sentence3.jpg,stimuli/noise_images/great/noise3.jpg
+13,Great,4,The spectacular view made the room so great.,great,38,43,stimuli/sentence_images/great/sentence4.jpg,stimuli/noise_images/great/noise4.jpg
+13,Great,5,The food is great and the service exceptional.,great,12,17,stimuli/sentence_images/great/sentence5.jpg,stimuli/noise_images/great/noise5.jpg
+13,Great,6,It is amazing how great of a runner she is.,great,18,23,stimuli/sentence_images/great/sentence6.jpg,stimuli/noise_images/great/noise6.jpg
+14,Illness,1,The illness spread across the country.,illness,4,11,stimuli/sentence_images/illness/sentence1.jpg,stimuli/noise_images/illness/noise1.jpg
+14,Illness,2,His illness turned out to be the flu.,illness,4,11,stimuli/sentence_images/illness/sentence2.jpg,stimuli/noise_images/illness/noise2.jpg
+14,Illness,3,The penicillin won't cure her illness.,illness,30,37,stimuli/sentence_images/illness/sentence3.jpg,stimuli/noise_images/illness/noise3.jpg
+14,Illness,4,She contracted a stomach illness from the food.,illness,25,32,stimuli/sentence_images/illness/sentence4.jpg,stimuli/noise_images/illness/noise4.jpg
+14,Illness,5,Typhoid is an illness that affected many people.,illness,14,21,stimuli/sentence_images/illness/sentence5.jpg,stimuli/noise_images/illness/noise5.jpg
+14,Illness,6,He isn't susceptible to the illness.,illness,28,35,stimuli/sentence_images/illness/sentence6.jpg,stimuli/noise_images/illness/noise6.jpg
+15,Prison,1,Another word for jail is prison.,prison,25,31,stimuli/sentence_images/prison/sentence1.jpg,stimuli/noise_images/prison/noise1.jpg
+15,Prison,2,He got out of prison early on parole.,prison,14,20,stimuli/sentence_images/prison/sentence2.jpg,stimuli/noise_images/prison/noise2.jpg
+15,Prison,3,"No longer a juvenile, he was sent to prison.",prison,37,43,stimuli/sentence_images/prison/sentence3.jpg,stimuli/noise_images/prison/noise3.jpg
+15,Prison,4,She got probation and didn't go to prison.,prison,35,41,stimuli/sentence_images/prison/sentence4.jpg,stimuli/noise_images/prison/noise4.jpg
+15,Prison,5,Sobriety is enforced in the prison.,prison,28,34,stimuli/sentence_images/prison/sentence5.jpg,stimuli/noise_images/prison/noise5.jpg
+15,Prison,6,The interrogation took place in prison.,prison,32,38,stimuli/sentence_images/prison/sentence6.jpg,stimuli/noise_images/prison/noise6.jpg
+16,Protection,1,She found security in his protection.,protection,26,36,stimuli/sentence_images/protection/sentence1.jpg,stimuli/noise_images/protection/noise1.jpg
+16,Protection,2,Privacy means protection around here.,protection,14,24,stimuli/sentence_images/protection/sentence2.jpg,stimuli/noise_images/protection/noise2.jpg
+16,Protection,3,He avoids calling protection services.,protection,18,28,stimuli/sentence_images/protection/sentence3.jpg,stimuli/noise_images/protection/noise3.jpg
+16,Protection,4,The shield provided little protection.,protection,27,37,stimuli/sentence_images/protection/sentence4.jpg,stimuli/noise_images/protection/noise4.jpg
+16,Protection,5,She feels safe with the given protection.,protection,30,40,stimuli/sentence_images/protection/sentence5.jpg,stimuli/noise_images/protection/noise5.jpg
+16,Protection,6,He finds protection inside of the house.,protection,9,19,stimuli/sentence_images/protection/sentence6.jpg,stimuli/noise_images/protection/noise6.jpg
+17,Crazy,1,His nightmare drove him crazy.,crazy,24,29,stimuli/sentence_images/crazy/sentence1.jpg,stimuli/noise_images/crazy/noise1.jpg
+17,Crazy,2,The crazy taxi driver was freaky.,crazy,4,9,stimuli/sentence_images/crazy/sentence2.jpg,stimuli/noise_images/crazy/noise2.jpg
+17,Crazy,3,The crazy animal looked bloodthirsty.,crazy,4,9,stimuli/sentence_images/crazy/sentence3.jpg,stimuli/noise_images/crazy/noise3.jpg
+17,Crazy,4,The crazy demon was just grotesque.,crazy,4,9,stimuli/sentence_images/crazy/sentence4.jpg,stimuli/noise_images/crazy/noise4.jpg
+17,Crazy,5,The ritual felt crazy and animalistic.,crazy,16,21,stimuli/sentence_images/crazy/sentence5.jpg,stimuli/noise_images/crazy/noise5.jpg
+17,Crazy,6,This crazy dystopia was his new life.,crazy,5,10,stimuli/sentence_images/crazy/sentence6.jpg,stimuli/noise_images/crazy/noise6.jpg
+18,Silly,1,The unrealistic proposal was just silly.,silly,34,39,stimuli/sentence_images/silly/sentence1.jpg,stimuli/noise_images/silly/noise1.jpg
+18,Silly,2,The silly rumor was just absurd.,silly,4,9,stimuli/sentence_images/silly/sentence2.jpg,stimuli/noise_images/silly/noise2.jpg
+18,Silly,3,The unsubstantiated claims are just silly.,silly,36,41,stimuli/sentence_images/silly/sentence3.jpg,stimuli/noise_images/silly/noise3.jpg
+18,Silly,4,The play was ridiculous and silly.,silly,28,33,stimuli/sentence_images/silly/sentence4.jpg,stimuli/noise_images/silly/noise4.jpg
+18,Silly,5,The overblown statistics sounded silly.,silly,33,38,stimuli/sentence_images/silly/sentence5.jpg,stimuli/noise_images/silly/noise5.jpg
+18,Silly,6,The news story was silly and unfounded.,silly,19,24,stimuli/sentence_images/silly/sentence6.jpg,stimuli/noise_images/silly/noise6.jpg
+19,Bed,1,She enjoyed sleeping in her own bed.,bed,32,35,stimuli/sentence_images/bed/sentence1.jpg,stimuli/noise_images/bed/noise1.jpg
+19,Bed,2,The cot replaced the bed for the night.,bed,21,24,stimuli/sentence_images/bed/sentence2.jpg,stimuli/noise_images/bed/noise2.jpg
+19,Bed,3,Napping in bed can be good for you.,bed,11,14,stimuli/sentence_images/bed/sentence3.jpg,stimuli/noise_images/bed/noise3.jpg
+19,Bed,4,The toddler crawled onto the bed.,bed,29,32,stimuli/sentence_images/bed/sentence4.jpg,stimuli/noise_images/bed/noise4.jpg
+19,Bed,5,The bed cushions sagged quickly.,bed,4,7,stimuli/sentence_images/bed/sentence5.jpg,stimuli/noise_images/bed/noise5.jpg
+19,Bed,6,He took the blanket off of the bed.,bed,31,34,stimuli/sentence_images/bed/sentence6.jpg,stimuli/noise_images/bed/noise6.jpg
+20,Challenge,1,This problem proved to be a challenge.,challenge,28,37,stimuli/sentence_images/challenge/sentence1.jpg,stimuli/noise_images/challenge/noise1.jpg
+20,Challenge,2,The hardship is a challenge she will defeat.,challenge,18,27,stimuli/sentence_images/challenge/sentence2.jpg,stimuli/noise_images/challenge/noise2.jpg
+20,Challenge,3,A challenge is an obstacle to overcome.,challenge,2,11,stimuli/sentence_images/challenge/sentence3.jpg,stimuli/noise_images/challenge/noise3.jpg
+20,Challenge,4,The challenge's burden scared her.,challenge,4,13,stimuli/sentence_images/challenge/sentence4.jpg,stimuli/noise_images/challenge/noise4.jpg
+20,Challenge,5,This challenge is critical for the team.,challenge,5,14,stimuli/sentence_images/challenge/sentence5.jpg,stimuli/noise_images/challenge/noise5.jpg
+20,Challenge,6,Passing the challenge is a formidable feat.,challenge,12,21,stimuli/sentence_images/challenge/sentence6.jpg,stimuli/noise_images/challenge/noise6.jpg
+21,Sign,1,The sign marked the entrance.,sign,4,8,stimuli/sentence_images/sign/sentence1.jpg,stimuli/noise_images/sign/noise1.jpg
+21,Sign,2,The graffiti was a sign of his presence.,sign,19,23,stimuli/sentence_images/sign/sentence2.jpg,stimuli/noise_images/sign/noise2.jpg
+21,Sign,3,This was a telltale sign of love.,sign,20,24,stimuli/sentence_images/sign/sentence3.jpg,stimuli/noise_images/sign/noise3.jpg
+21,Sign,4,The sign was inscribed with rules.,sign,4,8,stimuli/sentence_images/sign/sentence4.jpg,stimuli/noise_images/sign/noise4.jpg
+21,Sign,5,The sign fell from the roof with a swoosh.,sign,4,8,stimuli/sentence_images/sign/sentence5.jpg,stimuli/noise_images/sign/noise5.jpg
+21,Sign,6,The sign hung from the billboard.,sign,4,8,stimuli/sentence_images/sign/sentence6.jpg,stimuli/noise_images/sign/noise6.jpg
+22,Applause,1,The cheering drowned out the applause.,applause,29,37,stimuli/sentence_images/applause/sentence1.jpg,stimuli/noise_images/applause/noise1.jpg
+22,Applause,2,The ruckus of the applause hurt her ears.,applause,18,26,stimuli/sentence_images/applause/sentence2.jpg,stimuli/noise_images/applause/noise2.jpg
+22,Applause,3,The commotion of applause is infectious.,applause,17,25,stimuli/sentence_images/applause/sentence3.jpg,stimuli/noise_images/applause/noise3.jpg
+22,Applause,4,Her applause was inhibited.,applause,4,12,stimuli/sentence_images/applause/sentence4.jpg,stimuli/noise_images/applause/noise4.jpg
+22,Applause,5,He caught an earful of applause as he left.,applause,23,31,stimuli/sentence_images/applause/sentence5.jpg,stimuli/noise_images/applause/noise5.jpg
+22,Applause,6,The rowdy crowd burst into applause.,applause,27,35,stimuli/sentence_images/applause/sentence6.jpg,stimuli/noise_images/applause/noise6.jpg
+23,Broken,1,The broken mirror went missing.,broken,4,10,stimuli/sentence_images/broken/sentence1.jpg,stimuli/noise_images/broken/noise1.jpg
+23,Broken,2,The broken leg made the table unstable.,broken,4,10,stimuli/sentence_images/broken/sentence2.jpg,stimuli/noise_images/broken/noise2.jpg
+23,Broken,3,She dangerously teeters on the broken chair.,broken,31,37,stimuli/sentence_images/broken/sentence3.jpg,stimuli/noise_images/broken/noise3.jpg
+23,Broken,4,The disorganized room is full of broken things.,broken,33,39,stimuli/sentence_images/broken/sentence4.jpg,stimuli/noise_images/broken/noise4.jpg
+23,Broken,5,The computer was hopelessly broken.,broken,28,34,stimuli/sentence_images/broken/sentence5.jpg,stimuli/noise_images/broken/noise5.jpg
+23,Broken,6,The door hung crooked after being broken.,broken,34,40,stimuli/sentence_images/broken/sentence6.jpg,stimuli/noise_images/broken/noise6.jpg
+24,Garbage,1,The dumpster was full of garbage.,garbage,25,32,stimuli/sentence_images/garbage/sentence1.jpg,stimuli/noise_images/garbage/noise1.jpg
+24,Garbage,2,He threw the rotten apple into the garbage.,garbage,35,42,stimuli/sentence_images/garbage/sentence2.jpg,stimuli/noise_images/garbage/noise2.jpg
+24,Garbage,3,Trash is another word for garbage.,garbage,26,33,stimuli/sentence_images/garbage/sentence3.jpg,stimuli/noise_images/garbage/noise3.jpg
+24,Garbage,4,The garbage begain to reek in the sun.,garbage,4,11,stimuli/sentence_images/garbage/sentence4.jpg,stimuli/noise_images/garbage/noise4.jpg
+24,Garbage,5,The landfill is brimming with garbage.,garbage,30,37,stimuli/sentence_images/garbage/sentence5.jpg,stimuli/noise_images/garbage/noise5.jpg
+24,Garbage,6,The sewer bubbled over into the garbage.,garbage,32,39,stimuli/sentence_images/garbage/sentence6.jpg,stimuli/noise_images/garbage/noise6.jpg
+25,Poor,1,The young people were poor.,poor,22,26,stimuli/sentence_images/poor/sentence1.jpg,stimuli/noise_images/poor/noise1.jpg
+25,Poor,2,The poor man felt powerless.,poor,4,8,stimuli/sentence_images/poor/sentence2.jpg,stimuli/noise_images/poor/noise2.jpg
+25,Poor,3,The poor orphan wished for his parents.,poor,4,8,stimuli/sentence_images/poor/sentence3.jpg,stimuli/noise_images/poor/noise3.jpg
+25,Poor,4,The poor woman is tormented by her faults.,poor,4,8,stimuli/sentence_images/poor/sentence4.jpg,stimuli/noise_images/poor/noise4.jpg
+25,Poor,5,The poor girl became dependent again.,poor,4,8,stimuli/sentence_images/poor/sentence5.jpg,stimuli/noise_images/poor/noise5.jpg
+25,Poor,6,The unlucky man quickly became poor.,poor,31,35,stimuli/sentence_images/poor/sentence6.jpg,stimuli/noise_images/poor/noise6.jpg
+26,Bag,1,She wants to pack a bag for the day trip.,bag,20,23,stimuli/sentence_images/bag/sentence1.jpg,stimuli/noise_images/bag/noise1.jpg
+26,Bag,2,He put is wallet in her bag.,bag,24,27,stimuli/sentence_images/bag/sentence2.jpg,stimuli/noise_images/bag/noise2.jpg
+26,Bag,3,The leather bag fell from the shelf.,bag,12,15,stimuli/sentence_images/bag/sentence3.jpg,stimuli/noise_images/bag/noise3.jpg
+26,Bag,4,He had a bag and a laptop to put in it.,bag,9,12,stimuli/sentence_images/bag/sentence4.jpg,stimuli/noise_images/bag/noise4.jpg
+26,Bag,5,The trusty satchel was her favorite bag.,bag,36,39,stimuli/sentence_images/bag/sentence5.jpg,stimuli/noise_images/bag/noise5.jpg
+26,Bag,6,The umbrella was too big for her bag.,bag,33,36,stimuli/sentence_images/bag/sentence6.jpg,stimuli/noise_images/bag/noise6.jpg
+27,Show,1,The show was still on television.,show,4,8,stimuli/sentence_images/show/sentence1.jpg,stimuli/noise_images/show/noise1.jpg
+27,Show,2,The show has one more episode next week.,show,4,8,stimuli/sentence_images/show/sentence2.jpg,stimuli/noise_images/show/noise2.jpg
+27,Show,3,He thinks the show is a bit melodramatic.,show,14,18,stimuli/sentence_images/show/sentence3.jpg,stimuli/noise_images/show/noise3.jpg
+27,Show,4,The humor of the show is slapstick comedy.,show,17,21,stimuli/sentence_images/show/sentence4.jpg,stimuli/noise_images/show/noise4.jpg
+27,Show,5,She wants to reenact the storyline of the show.,show,42,46,stimuli/sentence_images/show/sentence5.jpg,stimuli/noise_images/show/noise5.jpg
+27,Show,6,This show is older than that sitcom.,show,5,9,stimuli/sentence_images/show/sentence6.jpg,stimuli/noise_images/show/noise6.jpg
+28,Food,1,She eats junk food on the weekends.,food,14,18,stimuli/sentence_images/food/sentence1.jpg,stimuli/noise_images/food/noise1.jpg
+28,Food,2,He felt fat after eating that much food.,food,35,39,stimuli/sentence_images/food/sentence2.jpg,stimuli/noise_images/food/noise2.jpg
+28,Food,3,The cat food today consisted of kibble.,food,8,12,stimuli/sentence_images/food/sentence3.jpg,stimuli/noise_images/food/noise3.jpg
+28,Food,4,Her food has a lot of nutritional value.,food,4,8,stimuli/sentence_images/food/sentence4.jpg,stimuli/noise_images/food/noise4.jpg
+28,Food,5,He was devouring his food as she spoke.,food,21,25,stimuli/sentence_images/food/sentence5.jpg,stimuli/noise_images/food/noise5.jpg
+28,Food,6,The steakhouse serves vegetarian food.,food,33,37,stimuli/sentence_images/food/sentence6.jpg,stimuli/noise_images/food/noise6.jpg
+29,Marriage,1,She got pregnant before her marriage.,marriage,28,36,stimuli/sentence_images/marriage/sentence1.jpg,stimuli/noise_images/marriage/noise1.jpg
+29,Marriage,2,Dating sometimes leads to marriage.,marriage,26,34,stimuli/sentence_images/marriage/sentence2.jpg,stimuli/noise_images/marriage/noise2.jpg
+29,Marriage,3,Girls fantasize about marriage after puberty.,marriage,22,30,stimuli/sentence_images/marriage/sentence3.jpg,stimuli/noise_images/marriage/noise3.jpg
+29,Marriage,4,"She wants marriage, he wants to breakup.",marriage,10,18,stimuli/sentence_images/marriage/sentence4.jpg,stimuli/noise_images/marriage/noise4.jpg
+29,Marriage,5,The newlywed talks about marriage for hours.,marriage,25,33,stimuli/sentence_images/marriage/sentence5.jpg,stimuli/noise_images/marriage/noise5.jpg
+29,Marriage,6,You should get some marriage advice.,marriage,20,28,stimuli/sentence_images/marriage/sentence6.jpg,stimuli/noise_images/marriage/noise6.jpg
+30,Kindness,1,He had respect for her kindness.,kindness,23,31,stimuli/sentence_images/kindness/sentence1.jpg,stimuli/noise_images/kindness/noise1.jpg
+30,Kindness,2,You need kindness and loyalty in a friend.,kindness,9,17,stimuli/sentence_images/kindness/sentence2.jpg,stimuli/noise_images/kindness/noise2.jpg
+30,Kindness,3,His manliness and kindness are irresistible.,kindness,18,26,stimuli/sentence_images/kindness/sentence3.jpg,stimuli/noise_images/kindness/noise3.jpg
+30,Kindness,4,Her meekness outweighed her kindness.,kindness,28,36,stimuli/sentence_images/kindness/sentence4.jpg,stimuli/noise_images/kindness/noise4.jpg
+30,Kindness,5,The direct nature of his kindness is gentlemanly.,kindness,25,33,stimuli/sentence_images/kindness/sentence5.jpg,stimuli/noise_images/kindness/noise5.jpg
+30,Kindness,6,The school teachers piety and kindness.,kindness,30,38,stimuli/sentence_images/kindness/sentence6.jpg,stimuli/noise_images/kindness/noise6.jpg
+31,Cook,1,Defrost the fish before you cook it.,cook,28,32,stimuli/sentence_images/cook/sentence1.jpg,stimuli/noise_images/cook/noise1.jpg
+31,Cook,2,"If she wants to cook, she needs a fridge.",cook,16,20,stimuli/sentence_images/cook/sentence2.jpg,stimuli/noise_images/cook/noise2.jpg
+31,Cook,3,He thought a pan was all he needed to cook.,cook,38,42,stimuli/sentence_images/cook/sentence3.jpg,stimuli/noise_images/cook/noise3.jpg
+31,Cook,4,The steaming pot holds all she can cook.,cook,35,39,stimuli/sentence_images/cook/sentence4.jpg,stimuli/noise_images/cook/noise4.jpg
+31,Cook,5,He thought you had to cook the dough.,cook,22,26,stimuli/sentence_images/cook/sentence5.jpg,stimuli/noise_images/cook/noise5.jpg
+31,Cook,6,Warm up the stove to cook the stew.,cook,21,25,stimuli/sentence_images/cook/sentence6.jpg,stimuli/noise_images/cook/noise6.jpg
+32,Dance,1,Just shuffle through the dance steps.,dance,25,30,stimuli/sentence_images/dance/sentence1.jpg,stimuli/noise_images/dance/noise1.jpg
+32,Dance,2,She can dance in the ballroom course.,dance,8,13,stimuli/sentence_images/dance/sentence2.jpg,stimuli/noise_images/dance/noise2.jpg
+32,Dance,3,Juggling dance and gymnastics was hard.,dance,9,14,stimuli/sentence_images/dance/sentence3.jpg,stimuli/noise_images/dance/noise3.jpg
+32,Dance,4,Irish folk dance requires fast footwork.,dance,11,16,stimuli/sentence_images/dance/sentence4.jpg,stimuli/noise_images/dance/noise4.jpg
+32,Dance,5,He is found dancing the dance all the time.,dance,24,29,stimuli/sentence_images/dance/sentence5.jpg,stimuli/noise_images/dance/noise5.jpg
+32,Dance,6,Walking the dance helped him learn it.,dance,12,17,stimuli/sentence_images/dance/sentence6.jpg,stimuli/noise_images/dance/noise6.jpg
+33,Magic,1,The spell proved magic exists.,magic,17,22,stimuli/sentence_images/magic/sentence1.jpg,stimuli/noise_images/magic/noise1.jpg
+33,Magic,2,He doesn't believe in magic or witchcraft.,magic,22,27,stimuli/sentence_images/magic/sentence2.jpg,stimuli/noise_images/magic/noise2.jpg
+33,Magic,3,They psychic performed magic tricks.,magic,23,28,stimuli/sentence_images/magic/sentence3.jpg,stimuli/noise_images/magic/noise3.jpg
+33,Magic,4,Tarot cards are make-believe magic.,magic,29,34,stimuli/sentence_images/magic/sentence4.jpg,stimuli/noise_images/magic/noise4.jpg
+33,Magic,5,The mythical story made magic seem real.,magic,24,29,stimuli/sentence_images/magic/sentence5.jpg,stimuli/noise_images/magic/noise5.jpg
+33,Magic,6,The magician cast his magic on her.,magic,22,27,stimuli/sentence_images/magic/sentence6.jpg,stimuli/noise_images/magic/noise6.jpg
+34,Invisible,1,The ghost was invisible.,invisible,14,23,stimuli/sentence_images/invisible/sentence1.jpg,stimuli/noise_images/invisible/noise1.jpg
+34,Invisible,2,The girl felt insignificant and invisible.,invisible,32,41,stimuli/sentence_images/invisible/sentence2.jpg,stimuli/noise_images/invisible/noise2.jpg
+34,Invisible,3,The web is almost invisible to the naked eye.,invisible,18,27,stimuli/sentence_images/invisible/sentence3.jpg,stimuli/noise_images/invisible/noise3.jpg
+34,Invisible,4,The wind is invisible and odorless.,invisible,12,21,stimuli/sentence_images/invisible/sentence4.jpg,stimuli/noise_images/invisible/noise4.jpg
+34,Invisible,5,It's inexplicable how the boy became invisible.,invisible,37,46,stimuli/sentence_images/invisible/sentence5.jpg,stimuli/noise_images/invisible/noise5.jpg
+34,Invisible,6,She was virtually invisible in the dark.,invisible,18,27,stimuli/sentence_images/invisible/sentence6.jpg,stimuli/noise_images/invisible/noise6.jpg
+35,Charming,1,The ambitious salesman was quite charming.,charming,33,41,stimuli/sentence_images/charming/sentence1.jpg,stimuli/noise_images/charming/noise1.jpg
+35,Charming,2,Her loveable laugh was charming.,charming,23,31,stimuli/sentence_images/charming/sentence2.jpg,stimuli/noise_images/charming/noise2.jpg
+35,Charming,3,His charming smile was beguiling.,charming,4,12,stimuli/sentence_images/charming/sentence3.jpg,stimuli/noise_images/charming/noise3.jpg
+35,Charming,4,The speaker's charismatic nature is charming.,charming,36,44,stimuli/sentence_images/charming/sentence4.jpg,stimuli/noise_images/charming/noise4.jpg
+35,Charming,5,The toddler's mischievousness toddler is charming.,charming,41,49,stimuli/sentence_images/charming/sentence5.jpg,stimuli/noise_images/charming/noise5.jpg
+35,Charming,6,The charming proposal was gutsy.,charming,4,12,stimuli/sentence_images/charming/sentence6.jpg,stimuli/noise_images/charming/noise6.jpg
+36,Emotionally,1,He felt emotionally and mentally secure.,emotionally,8,19,stimuli/sentence_images/emotionally/sentence1.jpg,stimuli/noise_images/emotionally/noise1.jpg
+36,Emotionally,2,"Morally and emotionally, it is difficult.",emotionally,12,23,stimuli/sentence_images/emotionally/sentence2.jpg,stimuli/noise_images/emotionally/noise2.jpg
+36,Emotionally,3,"Objectively, he gets her emotionally.",emotionally,25,36,stimuli/sentence_images/emotionally/sentence3.jpg,stimuli/noise_images/emotionally/noise3.jpg
+36,Emotionally,4,An unsound choice destroyed her emotionally.,emotionally,32,43,stimuli/sentence_images/emotionally/sentence4.jpg,stimuli/noise_images/emotionally/noise4.jpg
+36,Emotionally,5,The family solidly pumps him up emotionally.,emotionally,32,43,stimuli/sentence_images/emotionally/sentence5.jpg,stimuli/noise_images/emotionally/noise5.jpg
+36,Emotionally,6,The kid is successful and emotionally in tune.,emotionally,26,37,stimuli/sentence_images/emotionally/sentence6.jpg,stimuli/noise_images/emotionally/noise6.jpg
+37,Cockroach,1,The pest control killed the cockroach.,cockroach,28,37,stimuli/sentence_images/cockroach/sentence1.jpg,stimuli/noise_images/cockroach/noise1.jpg
+37,Cockroach,2,The cockroach fed off the mold.,cockroach,4,13,stimuli/sentence_images/cockroach/sentence2.jpg,stimuli/noise_images/cockroach/noise2.jpg
+37,Cockroach,3,The cockroach ate the ant.,cockroach,4,13,stimuli/sentence_images/cockroach/sentence3.jpg,stimuli/noise_images/cockroach/noise3.jpg
+37,Cockroach,4,The grasshopper and the cockroach are friends.,cockroach,24,33,stimuli/sentence_images/cockroach/sentence4.jpg,stimuli/noise_images/cockroach/noise4.jpg
+37,Cockroach,5,The cockroach infestation overwhelmed her.,cockroach,4,13,stimuli/sentence_images/cockroach/sentence5.jpg,stimuli/noise_images/cockroach/noise5.jpg
+37,Cockroach,6,The pesky cockroach managed to survive.,cockroach,10,19,stimuli/sentence_images/cockroach/sentence6.jpg,stimuli/noise_images/cockroach/noise6.jpg
+38,Sew,1,You need an eye for detail to sew.,sew,30,33,stimuli/sentence_images/sew/sentence1.jpg,stimuli/noise_images/sew/noise1.jpg
+38,Sew,2,The pattern was too hard to sew by hand.,sew,28,31,stimuli/sentence_images/sew/sentence2.jpg,stimuli/noise_images/sew/noise2.jpg
+38,Sew,3,He is quite crafty and likes to sew.,sew,32,35,stimuli/sentence_images/sew/sentence3.jpg,stimuli/noise_images/sew/noise3.jpg
+38,Sew,4,She forgot to sew the last stitch.,sew,14,17,stimuli/sentence_images/sew/sentence4.jpg,stimuli/noise_images/sew/noise4.jpg
+38,Sew,5,He chose woodcarving over learning to sew.,sew,38,41,stimuli/sentence_images/sew/sentence5.jpg,stimuli/noise_images/sew/noise5.jpg
+38,Sew,6,The artisan can sew the most beautiful gowns.,sew,16,19,stimuli/sentence_images/sew/sentence6.jpg,stimuli/noise_images/sew/noise6.jpg
+39,Sad,1,The reminder of her sad past hurt her.,sad,20,23,stimuli/sentence_images/sad/sentence1.jpg,stimuli/noise_images/sad/noise1.jpg
+39,Sad,2,The future could be happy or sad for her.,sad,29,32,stimuli/sentence_images/sad/sentence2.jpg,stimuli/noise_images/sad/noise2.jpg
+39,Sad,3,The perplexing situation made him sad.,sad,34,37,stimuli/sentence_images/sad/sentence3.jpg,stimuli/noise_images/sad/noise3.jpg
+39,Sad,4,It was upsetting how sad she was.,sad,21,24,stimuli/sentence_images/sad/sentence4.jpg,stimuli/noise_images/sad/noise4.jpg
+39,Sad,5,The depressing movie made everyone sad.,sad,35,38,stimuli/sentence_images/sad/sentence5.jpg,stimuli/noise_images/sad/noise5.jpg
+39,Sad,6,The moment was noteworthy yet sad.,sad,30,33,stimuli/sentence_images/sad/sentence6.jpg,stimuli/noise_images/sad/noise6.jpg
+40,Star,1,The star looked like an incoming meteor.,star,4,8,stimuli/sentence_images/star/sentence1.jpg,stimuli/noise_images/star/noise1.jpg
+40,Star,2,The star is light years away from Earth.,star,4,8,stimuli/sentence_images/star/sentence2.jpg,stimuli/noise_images/star/noise2.jpg
+40,Star,3,Her star sign is Gemini.,star,4,8,stimuli/sentence_images/star/sentence3.jpg,stimuli/noise_images/star/noise3.jpg
+40,Star,4,The microcosmic star still shines bright.,star,16,20,stimuli/sentence_images/star/sentence4.jpg,stimuli/noise_images/star/noise4.jpg
+40,Star,5,The spaceflight uncovered a new star.,star,32,36,stimuli/sentence_images/star/sentence5.jpg,stimuli/noise_images/star/noise5.jpg
+40,Star,6,She likes that Capricorn is her star sign.,star,32,36,stimuli/sentence_images/star/sentence6.jpg,stimuli/noise_images/star/noise6.jpg
+41,Angry,1,He was both angry and frightened.,angry,12,17,stimuli/sentence_images/angry/sentence1.jpg,stimuli/noise_images/angry/noise1.jpg
+41,Angry,2,He panicked at how angry his boss was.,angry,19,24,stimuli/sentence_images/angry/sentence2.jpg,stimuli/noise_images/angry/noise2.jpg
+41,Angry,3,She's angry because I offended her.,angry,6,11,stimuli/sentence_images/angry/sentence3.jpg,stimuli/noise_images/angry/noise3.jpg
+41,Angry,4,I am displeased with how angry he was.,angry,25,30,stimuli/sentence_images/angry/sentence4.jpg,stimuli/noise_images/angry/noise4.jpg
+41,Angry,5,"Dissatisfied and angry, he began to sulk.",angry,17,22,stimuli/sentence_images/angry/sentence5.jpg,stimuli/noise_images/angry/noise5.jpg
+41,Angry,6,"Flabbergasted at her results, she got angry.",angry,38,43,stimuli/sentence_images/angry/sentence6.jpg,stimuli/noise_images/angry/noise6.jpg
+42,Experiment,1,This experiment aims to study human behavior.,experiment,5,15,stimuli/sentence_images/experiment/sentence1.jpg,stimuli/noise_images/experiment/noise1.jpg
+42,Experiment,2,The experiment is diagnostic of psychosis.,experiment,4,14,stimuli/sentence_images/experiment/sentence2.jpg,stimuli/noise_images/experiment/noise2.jpg
+42,Experiment,3,The experiment asks for a blood sample.,experiment,4,14,stimuli/sentence_images/experiment/sentence3.jpg,stimuli/noise_images/experiment/noise3.jpg
+42,Experiment,4,Debrief the participants in the experiment.,experiment,32,42,stimuli/sentence_images/experiment/sentence4.jpg,stimuli/noise_images/experiment/noise4.jpg
+42,Experiment,5,A recent experiment led to a new observation.,experiment,9,19,stimuli/sentence_images/experiment/sentence5.jpg,stimuli/noise_images/experiment/noise5.jpg
+42,Experiment,6,The experiment is built on initial expectations.,experiment,4,14,stimuli/sentence_images/experiment/sentence6.jpg,stimuli/noise_images/experiment/noise6.jpg
+43,Mountain,1,The trail ends halfway up the mountain.,mountain,30,38,stimuli/sentence_images/mountain/sentence1.jpg,stimuli/noise_images/mountain/noise1.jpg
+43,Mountain,2,I wanted to ski down the mountain faster.,mountain,25,33,stimuli/sentence_images/mountain/sentence2.jpg,stimuli/noise_images/mountain/noise2.jpg
+43,Mountain,3,The glacier is at the mountain top.,mountain,22,30,stimuli/sentence_images/mountain/sentence3.jpg,stimuli/noise_images/mountain/noise3.jpg
+43,Mountain,4,A snowboarder got stuck on the mountain.,mountain,31,39,stimuli/sentence_images/mountain/sentence4.jpg,stimuli/noise_images/mountain/noise4.jpg
+43,Mountain,5,The mountain had a beautiful summit.,mountain,4,12,stimuli/sentence_images/mountain/sentence5.jpg,stimuli/noise_images/mountain/noise5.jpg
+43,Mountain,6,The mountain had a steep slope.,mountain,4,12,stimuli/sentence_images/mountain/sentence6.jpg,stimuli/noise_images/mountain/noise6.jpg
+44,Pig,1,The pig and cattle do not get along well.,pig,4,7,stimuli/sentence_images/pig/sentence1.jpg,stimuli/noise_images/pig/noise1.jpg
+44,Pig,2,The horse shared its food with the pig.,pig,35,38,stimuli/sentence_images/pig/sentence2.jpg,stimuli/noise_images/pig/noise2.jpg
+44,Pig,3,The whinny frightened the pig.,pig,26,29,stimuli/sentence_images/pig/sentence3.jpg,stimuli/noise_images/pig/noise3.jpg
+44,Pig,4,The pig got stuck in the lasso.,pig,4,7,stimuli/sentence_images/pig/sentence4.jpg,stimuli/noise_images/pig/noise4.jpg
+44,Pig,5,The pig was sprawled in the hay.,pig,4,7,stimuli/sentence_images/pig/sentence5.jpg,stimuli/noise_images/pig/noise5.jpg
+44,Pig,6,The bigger pig was a stud.,pig,11,14,stimuli/sentence_images/pig/sentence6.jpg,stimuli/noise_images/pig/noise6.jpg
+45,Nation,1,The revolution restructured the nation.,nation,32,38,stimuli/sentence_images/nation/sentence1.jpg,stimuli/noise_images/nation/noise1.jpg
+45,Nation,2,Colonialism shaped the nation in no time.,nation,23,29,stimuli/sentence_images/nation/sentence2.jpg,stimuli/noise_images/nation/noise2.jpg
+45,Nation,3,Impoverishment left the nation crumbling.,nation,24,30,stimuli/sentence_images/nation/sentence3.jpg,stimuli/noise_images/nation/noise3.jpg
+45,Nation,4,Migration changed the population of the nation.,nation,40,46,stimuli/sentence_images/nation/sentence4.jpg,stimuli/noise_images/nation/noise4.jpg
+45,Nation,5,Globalization impacts some nations more.,nations,27,34,stimuli/sentence_images/nation/sentence5.jpg,stimuli/noise_images/nation/noise5.jpg
+45,Nation,6,The rebellion rocked the small nation.,nation,31,37,stimuli/sentence_images/nation/sentence6.jpg,stimuli/noise_images/nation/noise6.jpg
+46,Shape,1,A two dimensional shape is flat.,shape,18,23,stimuli/sentence_images/shape/sentence1.jpg,stimuli/noise_images/shape/noise1.jpg
+46,Shape,2,A circle is an elementary shape.,shape,26,31,stimuli/sentence_images/shape/sentence2.jpg,stimuli/noise_images/shape/noise2.jpg
+46,Shape,3,The pyramid is a three-dimensional shape.,shape,35,40,stimuli/sentence_images/shape/sentence3.jpg,stimuli/noise_images/shape/noise3.jpg
+46,Shape,4,Her body has the shape of an hourglass.,shape,17,22,stimuli/sentence_images/shape/sentence4.jpg,stimuli/noise_images/shape/noise4.jpg
+46,Shape,5,A typical cloud's shape is irregular.,shape,18,23,stimuli/sentence_images/shape/sentence5.jpg,stimuli/noise_images/shape/noise5.jpg
+46,Shape,6,The set dimensions created an odd shape.,shape,34,39,stimuli/sentence_images/shape/sentence6.jpg,stimuli/noise_images/shape/noise6.jpg
+47,Burn,1,The fire would burn slowly.,burn,15,19,stimuli/sentence_images/burn/sentence1.jpg,stimuli/noise_images/burn/noise1.jpg
+47,Burn,2,The cigarette could burn her skin.,burn,20,24,stimuli/sentence_images/burn/sentence2.jpg,stimuli/noise_images/burn/noise2.jpg
+47,Burn,3,A blowtorch will burn all night.,burn,17,21,stimuli/sentence_images/burn/sentence3.jpg,stimuli/noise_images/burn/noise3.jpg
+47,Burn,4,The inflammable jacket will never burn.,burn,34,38,stimuli/sentence_images/burn/sentence4.jpg,stimuli/noise_images/burn/noise4.jpg
+47,Burn,5,The heat of the stove can burn you.,burn,26,30,stimuli/sentence_images/burn/sentence5.jpg,stimuli/noise_images/burn/noise5.jpg
+47,Burn,6,The flashbulb may burn the curtain.,burn,18,22,stimuli/sentence_images/burn/sentence6.jpg,stimuli/noise_images/burn/noise6.jpg
+48,Solution,1,The best solution has the least loopholes.,solution,9,17,stimuli/sentence_images/solution/sentence1.jpg,stimuli/noise_images/solution/noise1.jpg
+48,Solution,2,The perfect solution isn't always simple.,solution,12,20,stimuli/sentence_images/solution/sentence2.jpg,stimuli/noise_images/solution/noise2.jpg
+48,Solution,3,A discrete ending to the affair is his solution.,solution,39,47,stimuli/sentence_images/solution/sentence3.jpg,stimuli/noise_images/solution/noise3.jpg
+48,Solution,4,The solution is straightforward and effective.,solution,4,12,stimuli/sentence_images/solution/sentence4.jpg,stimuli/noise_images/solution/noise4.jpg
+48,Solution,5,Find a viable solution for global warming.,solution,14,22,stimuli/sentence_images/solution/sentence5.jpg,stimuli/noise_images/solution/noise5.jpg
+48,Solution,6,Her solution is affordable for all parties.,solution,4,12,stimuli/sentence_images/solution/sentence6.jpg,stimuli/noise_images/solution/noise6.jpg
+49,Big,1,He wants to be a big fish in a small pond.,big,17,20,stimuli/sentence_images/big/sentence1.jpg,stimuli/noise_images/big/noise1.jpg
+49,Big,2,"While he isn't obese, he is quite big.",big,34,37,stimuli/sentence_images/big/sentence2.jpg,stimuli/noise_images/big/noise2.jpg
+49,Big,3,Cutting down the big tree is substantial.,big,17,20,stimuli/sentence_images/big/sentence3.jpg,stimuli/noise_images/big/noise3.jpg
+49,Big,4,His big feet are disproportionate.,big,4,7,stimuli/sentence_images/big/sentence4.jpg,stimuli/noise_images/big/noise4.jpg
+49,Big,5,There big selection is just a hodgepodge.,big,6,9,stimuli/sentence_images/big/sentence5.jpg,stimuli/noise_images/big/noise5.jpg
+49,Big,6,A bucketful of big strawberries awaits them.,big,15,18,stimuli/sentence_images/big/sentence6.jpg,stimuli/noise_images/big/noise6.jpg
+50,Hair,1,His blond hair looks good with blue.,hair,10,14,stimuli/sentence_images/hair/sentence1.jpg,stimuli/noise_images/hair/noise1.jpg
+50,Hair,2,His moustache hair is a strange color.,hair,14,18,stimuli/sentence_images/hair/sentence2.jpg,stimuli/noise_images/hair/noise2.jpg
+50,Hair,3,Her hair is droopy in the heat.,hair,4,8,stimuli/sentence_images/hair/sentence3.jpg,stimuli/noise_images/hair/noise3.jpg
+50,Hair,4,The model's hair was voluminous.,hair,12,16,stimuli/sentence_images/hair/sentence4.jpg,stimuli/noise_images/hair/noise4.jpg
+50,Hair,5,Don't straighten your hair if you want to keep it.,hair,22,26,stimuli/sentence_images/hair/sentence5.jpg,stimuli/noise_images/hair/noise5.jpg
+50,Hair,6,The cat's whiskers felt like human hair.,hair,35,39,stimuli/sentence_images/hair/sentence6.jpg,stimuli/noise_images/hair/noise6.jpg
+51,Investigation,1,The criminal is under investigation again.,investigation,22,35,stimuli/sentence_images/investigation/sentence1.jpg,stimuli/noise_images/investigation/noise1.jpg
+51,Investigation,2,An investigation can produce a charge.,investigation,3,16,stimuli/sentence_images/investigation/sentence2.jpg,stimuli/noise_images/investigation/noise2.jpg
+51,Investigation,3,The investigation is led with suspicion.,investigation,4,17,stimuli/sentence_images/investigation/sentence3.jpg,stimuli/noise_images/investigation/noise3.jpg
+51,Investigation,4,The investigation was unlawful.,investigation,4,17,stimuli/sentence_images/investigation/sentence4.jpg,stimuli/noise_images/investigation/noise4.jpg
+51,Investigation,5,The burglary didn't lead to an investigation.,investigation,31,44,stimuli/sentence_images/investigation/sentence5.jpg,stimuli/noise_images/investigation/noise5.jpg
+51,Investigation,6,The investigation uncovered a scandal.,investigation,4,17,stimuli/sentence_images/investigation/sentence6.jpg,stimuli/noise_images/investigation/noise6.jpg
+52,Tried,1,He tried again later.,tried,3,8,stimuli/sentence_images/tried/sentence1.jpg,stimuli/noise_images/tried/noise1.jpg
+52,Tried,2,Soon afterwards she tried to call him.,tried,20,25,stimuli/sentence_images/tried/sentence2.jpg,stimuli/noise_images/tried/noise2.jpg
+52,Tried,3,He tried to move the date to later.,tried,3,8,stimuli/sentence_images/tried/sentence3.jpg,stimuli/noise_images/tried/noise3.jpg
+52,Tried,4,He tried to close the door forcibly.,tried,3,8,stimuli/sentence_images/tried/sentence4.jpg,stimuli/noise_images/tried/noise4.jpg
+52,Tried,5,She hurriedly tried to run after the cat.,tried,14,19,stimuli/sentence_images/tried/sentence5.jpg,stimuli/noise_images/tried/noise5.jpg
+52,Tried,6,He abandoned the endeavor when she tried.,tried,35,40,stimuli/sentence_images/tried/sentence6.jpg,stimuli/noise_images/tried/noise6.jpg
+53,Dig,1,He can dig and discover all he wants.,dig,7,10,stimuli/sentence_images/dig/sentence1.jpg,stimuli/noise_images/dig/noise1.jpg
+53,Dig,2,The erosion made it difficult to dig.,dig,33,36,stimuli/sentence_images/dig/sentence2.jpg,stimuli/noise_images/dig/noise2.jpg
+53,Dig,3,He didn't want to dig in the excavation.,dig,18,21,stimuli/sentence_images/dig/sentence3.jpg,stimuli/noise_images/dig/noise3.jpg
+53,Dig,4,They want to dig for another fossil.,dig,13,16,stimuli/sentence_images/dig/sentence4.jpg,stimuli/noise_images/dig/noise4.jpg
+53,Dig,5,You can dig a ditch in a few hours.,dig,8,11,stimuli/sentence_images/dig/sentence5.jpg,stimuli/noise_images/dig/noise5.jpg
+53,Dig,6,He didn't want to dig underground.,dig,18,21,stimuli/sentence_images/dig/sentence6.jpg,stimuli/noise_images/dig/noise6.jpg
+54,Gun,1,A gun is a kind of weapon.,gun,2,5,stimuli/sentence_images/gun/sentence1.jpg,stimuli/noise_images/gun/noise1.jpg
+54,Gun,2,Firing a gun can kill someone.,gun,9,12,stimuli/sentence_images/gun/sentence2.jpg,stimuli/noise_images/gun/noise2.jpg
+54,Gun,3,The gun had one bullet left.,gun,4,7,stimuli/sentence_images/gun/sentence3.jpg,stimuli/noise_images/gun/noise3.jpg
+54,Gun,4,The shooter threw away his gun.,gun,27,30,stimuli/sentence_images/gun/sentence4.jpg,stimuli/noise_images/gun/noise4.jpg
+54,Gun,5,He aimed the gun at the target.,gun,13,16,stimuli/sentence_images/gun/sentence5.jpg,stimuli/noise_images/gun/noise5.jpg
+54,Gun,6,The blast from the gun was loud.,gun,19,22,stimuli/sentence_images/gun/sentence6.jpg,stimuli/noise_images/gun/noise6.jpg
+55,Argument,1,The new evidence helped his argument.,argument,28,36,stimuli/sentence_images/argument/sentence1.jpg,stimuli/noise_images/argument/noise1.jpg
+55,Argument,2,I will confirm the more valid argument.,argument,30,38,stimuli/sentence_images/argument/sentence2.jpg,stimuli/noise_images/argument/noise2.jpg
+55,Argument,3,The first argument has a better explanation.,argument,10,18,stimuli/sentence_images/argument/sentence3.jpg,stimuli/noise_images/argument/noise3.jpg
+55,Argument,4,This argument has no conclusion.,argument,5,13,stimuli/sentence_images/argument/sentence4.jpg,stimuli/noise_images/argument/noise4.jpg
+55,Argument,5,The statement supports the other argument.,argument,33,41,stimuli/sentence_images/argument/sentence5.jpg,stimuli/noise_images/argument/noise5.jpg
+55,Argument,6,There's no truth to this argument.,argument,25,33,stimuli/sentence_images/argument/sentence6.jpg,stimuli/noise_images/argument/noise6.jpg
+56,Business,1,Banking and business make no sense to me.,business,12,20,stimuli/sentence_images/business/sentence1.jpg,stimuli/noise_images/business/noise1.jpg
+56,Business,2,The company will improve its business sector.,business,29,37,stimuli/sentence_images/business/sentence2.jpg,stimuli/noise_images/business/noise2.jpg
+56,Business,3,He wants to invest in a better business.,business,31,39,stimuli/sentence_images/business/sentence3.jpg,stimuli/noise_images/business/noise3.jpg
+56,Business,4,Her business needed to take out a loan.,business,4,12,stimuli/sentence_images/business/sentence4.jpg,stimuli/noise_images/business/noise4.jpg
+56,Business,5,The business will expand its physical property.,business,4,12,stimuli/sentence_images/business/sentence5.jpg,stimuli/noise_images/business/noise5.jpg
+56,Business,6,The new business venture will make her rich.,business,8,16,stimuli/sentence_images/business/sentence6.jpg,stimuli/noise_images/business/noise6.jpg
+57,Fish,1,He wanted to see the fish in the ocean.,fish,21,25,stimuli/sentence_images/fish/sentence1.jpg,stimuli/noise_images/fish/noise1.jpg
+57,Fish,2,He plans to find sharks and other fish.,fish,34,38,stimuli/sentence_images/fish/sentence2.jpg,stimuli/noise_images/fish/noise2.jpg
+57,Fish,3,He wants more fish after catching the carp.,fish,14,18,stimuli/sentence_images/fish/sentence3.jpg,stimuli/noise_images/fish/noise3.jpg
+57,Fish,4,The gator eats fish like trout.,fish,15,19,stimuli/sentence_images/fish/sentence4.jpg,stimuli/noise_images/fish/noise4.jpg
+57,Fish,5,The divers weren't there for the fish.,fish,33,37,stimuli/sentence_images/fish/sentence5.jpg,stimuli/noise_images/fish/noise5.jpg
+57,Fish,6,You might see some fish when you surf.,fish,19,23,stimuli/sentence_images/fish/sentence6.jpg,stimuli/noise_images/fish/noise6.jpg
+58,Wash,1,"To make the counter sterile, wash it.",wash,29,33,stimuli/sentence_images/wash/sentence1.jpg,stimuli/noise_images/wash/noise1.jpg
+58,Wash,2,The dishwasher can wash all the dishes.,wash,19,23,stimuli/sentence_images/wash/sentence2.jpg,stimuli/noise_images/wash/noise2.jpg
+58,Wash,3,He likes to wash himself with bar soap.,wash,12,16,stimuli/sentence_images/wash/sentence3.jpg,stimuli/noise_images/wash/noise3.jpg
+58,Wash,4,She felt clean after she could wash herself.,wash,31,35,stimuli/sentence_images/wash/sentence4.jpg,stimuli/noise_images/wash/noise4.jpg
+58,Wash,5,You have to wash your laundry beforehand.,wash,12,16,stimuli/sentence_images/wash/sentence5.jpg,stimuli/noise_images/wash/noise5.jpg
+58,Wash,6,The maid was asked to wash the floor.,wash,22,26,stimuli/sentence_images/wash/sentence6.jpg,stimuli/noise_images/wash/noise6.jpg
+59,Science,1,The facility is used for science research.,science,25,32,stimuli/sentence_images/science/sentence1.jpg,stimuli/noise_images/science/noise1.jpg
+59,Science,2,The student studied many kinds of science.,science,34,41,stimuli/sentence_images/science/sentence2.jpg,stimuli/noise_images/science/noise2.jpg
+59,Science,3,This applied science is very different.,science,13,20,stimuli/sentence_images/science/sentence3.jpg,stimuli/noise_images/science/noise3.jpg
+59,Science,4,His dissertation is in material sciences.,sciences,32,40,stimuli/sentence_images/science/sentence4.jpg,stimuli/noise_images/science/noise4.jpg
+59,Science,5,Economics is a kind of social science.,science,30,37,stimuli/sentence_images/science/sentence5.jpg,stimuli/noise_images/science/noise5.jpg
+59,Science,6,The article is in a science journal.,science,20,27,stimuli/sentence_images/science/sentence6.jpg,stimuli/noise_images/science/noise6.jpg
+60,Body,1,The man had a very athletic body.,body,28,32,stimuli/sentence_images/body/sentence1.jpg,stimuli/noise_images/body/noise1.jpg
+60,Body,2,Her body was very skinny.,body,4,8,stimuli/sentence_images/body/sentence2.jpg,stimuli/noise_images/body/noise2.jpg
+60,Body,3,She felt like her body was frumpy.,body,18,22,stimuli/sentence_images/body/sentence3.jpg,stimuli/noise_images/body/noise3.jpg
+60,Body,4,The body of the dress is shapeless.,body,4,8,stimuli/sentence_images/body/sentence4.jpg,stimuli/noise_images/body/noise4.jpg
+60,Body,5,The midsection of his body is well trained.,body,22,26,stimuli/sentence_images/body/sentence5.jpg,stimuli/noise_images/body/noise5.jpg
+60,Body,6,The model's body is unimposing in reality.,body,12,16,stimuli/sentence_images/body/sentence6.jpg,stimuli/noise_images/body/noise6.jpg
+61,Bear,1,"Watch out, that bear will chase you.",bear,16,20,stimuli/sentence_images/bear/sentence1.jpg,stimuli/noise_images/bear/noise1.jpg
+61,Bear,2,The woodpecker was not afraid of the bear.,bear,37,41,stimuli/sentence_images/bear/sentence2.jpg,stimuli/noise_images/bear/noise2.jpg
+61,Bear,3,The caribou and the bear smell one another.,bear,20,24,stimuli/sentence_images/bear/sentence3.jpg,stimuli/noise_images/bear/noise3.jpg
+61,Bear,4,The bear found its next prey in the hare.,bear,4,8,stimuli/sentence_images/bear/sentence4.jpg,stimuli/noise_images/bear/noise4.jpg
+61,Bear,5,The swan was not bothered by the bear.,bear,33,37,stimuli/sentence_images/bear/sentence5.jpg,stimuli/noise_images/bear/noise5.jpg
+61,Bear,6,The bear ran from the rattlesnake.,bear,4,8,stimuli/sentence_images/bear/sentence6.jpg,stimuli/noise_images/bear/noise6.jpg
+62,Ball,1,He hit the ball out of the field.,ball,11,15,stimuli/sentence_images/ball/sentence1.jpg,stimuli/noise_images/ball/noise1.jpg
+62,Ball,2,She can't pass the ball for the life of her.,ball,19,23,stimuli/sentence_images/ball/sentence2.jpg,stimuli/noise_images/ball/noise2.jpg
+62,Ball,3,She could dunk the ball like a pro.,ball,19,23,stimuli/sentence_images/ball/sentence3.jpg,stimuli/noise_images/ball/noise3.jpg
+62,Ball,4,Getting a puck can be easier than a ball.,ball,36,40,stimuli/sentence_images/ball/sentence4.jpg,stimuli/noise_images/ball/noise4.jpg
+62,Ball,5,The ball bounced off the backboard.,ball,4,8,stimuli/sentence_images/ball/sentence5.jpg,stimuli/noise_images/ball/noise5.jpg
+62,Ball,6,He gave the ball a quick jab.,ball,12,16,stimuli/sentence_images/ball/sentence6.jpg,stimuli/noise_images/ball/noise6.jpg
+63,Economy,1,The boom gave the economy a big boost.,economy,18,25,stimuli/sentence_images/economy/sentence1.jpg,stimuli/noise_images/economy/noise1.jpg
+63,Economy,2,The economy spiked unexpectedly.,economy,4,11,stimuli/sentence_images/economy/sentence2.jpg,stimuli/noise_images/economy/noise2.jpg
+63,Economy,3,The economy was in a slump.,economy,4,11,stimuli/sentence_images/economy/sentence3.jpg,stimuli/noise_images/economy/noise3.jpg
+63,Economy,4,The economy didn't predict the carpool demand.,economy,4,11,stimuli/sentence_images/economy/sentence4.jpg,stimuli/noise_images/economy/noise4.jpg
+63,Economy,5,Unemployment still affects the economy.,economy,31,38,stimuli/sentence_images/economy/sentence5.jpg,stimuli/noise_images/economy/noise5.jpg
+63,Economy,6,The current economy is good for graduates.,economy,12,19,stimuli/sentence_images/economy/sentence6.jpg,stimuli/noise_images/economy/noise6.jpg
+64,Invention,1,The invention will comprise his integrity.,invention,4,13,stimuli/sentence_images/invention/sentence1.jpg,stimuli/noise_images/invention/noise1.jpg
+64,Invention,2,The invention involves an unexpected element.,invention,4,13,stimuli/sentence_images/invention/sentence2.jpg,stimuli/noise_images/invention/noise2.jpg
+64,Invention,3,The semiconductor was a crucial invention.,invention,32,41,stimuli/sentence_images/invention/sentence3.jpg,stimuli/noise_images/invention/noise3.jpg
+64,Invention,4,A push of a button rotated the invention.,invention,31,40,stimuli/sentence_images/invention/sentence4.jpg,stimuli/noise_images/invention/noise4.jpg
+64,Invention,5,The invention is schematically drawn.,invention,4,13,stimuli/sentence_images/invention/sentence5.jpg,stimuli/noise_images/invention/noise5.jpg
+64,Invention,6,The new invention has a reflective surface.,invention,8,17,stimuli/sentence_images/invention/sentence6.jpg,stimuli/noise_images/invention/noise6.jpg
+65,Dessert,1,Ice cream is her favorite dessert.,dessert,26,33,stimuli/sentence_images/dessert/sentence1.jpg,stimuli/noise_images/dessert/noise1.jpg
+65,Dessert,2,Candy is a good choice for dessert.,dessert,27,34,stimuli/sentence_images/dessert/sentence2.jpg,stimuli/noise_images/dessert/noise2.jpg
+65,Dessert,3,The dessert at the dinner was fruitcake.,dessert,4,11,stimuli/sentence_images/dessert/sentence3.jpg,stimuli/noise_images/dessert/noise3.jpg
+65,Dessert,4,"In her mind, yogurt doesn't replace dessert.",dessert,36,43,stimuli/sentence_images/dessert/sentence4.jpg,stimuli/noise_images/dessert/noise4.jpg
+65,Dessert,5,The jelly sandwich is practically dessert.,dessert,34,41,stimuli/sentence_images/dessert/sentence5.jpg,stimuli/noise_images/dessert/noise5.jpg
+65,Dessert,6,The filling of the dessert was marvelous.,dessert,19,26,stimuli/sentence_images/dessert/sentence6.jpg,stimuli/noise_images/dessert/noise6.jpg
+66,Weather,1,The cold weather almost ruined the trip.,weather,9,16,stimuli/sentence_images/weather/sentence1.jpg,stimuli/noise_images/weather/noise1.jpg
+66,Weather,2,Summer weather brightens everyone's mood.,weather,7,14,stimuli/sentence_images/weather/sentence2.jpg,stimuli/noise_images/weather/noise2.jpg
+66,Weather,3,The weather in autumn is bearable.,weather,4,11,stimuli/sentence_images/weather/sentence3.jpg,stimuli/noise_images/weather/noise3.jpg
+66,Weather,4,The weather report didn't predict the blizzard.,weather,4,11,stimuli/sentence_images/weather/sentence4.jpg,stimuli/noise_images/weather/noise4.jpg
+66,Weather,5,Typical summer weather is a monsoon.,weather,15,22,stimuli/sentence_images/weather/sentence5.jpg,stimuli/noise_images/weather/noise5.jpg
+66,Weather,6,The balmy weather is good for his skin.,weather,10,17,stimuli/sentence_images/weather/sentence6.jpg,stimuli/noise_images/weather/noise6.jpg
+67,King,1,The king is the head of the royal family.,king,4,8,stimuli/sentence_images/king/sentence1.jpg,stimuli/noise_images/king/noise1.jpg
+67,King,2,The king was wealthy beyond belief.,king,4,8,stimuli/sentence_images/king/sentence2.jpg,stimuli/noise_images/king/noise2.jpg
+67,King,3,This king does not wear a crown.,king,5,9,stimuli/sentence_images/king/sentence3.jpg,stimuli/noise_images/king/noise3.jpg
+67,King,4,A king and an emperor had similar roles.,king,2,6,stimuli/sentence_images/king/sentence4.jpg,stimuli/noise_images/king/noise4.jpg
+67,King,5,The king is a ruler of his land.,king,4,8,stimuli/sentence_images/king/sentence5.jpg,stimuli/noise_images/king/noise5.jpg
+67,King,6,The king is not a dictator.,king,4,8,stimuli/sentence_images/king/sentence6.jpg,stimuli/noise_images/king/noise6.jpg
+68,Spoke,1,"When she spoke, she stated the truth.",spoke,9,14,stimuli/sentence_images/spoke/sentence1.jpg,stimuli/noise_images/spoke/noise1.jpg
+68,Spoke,2,She candidly spoke about her experiences.,spoke,13,18,stimuli/sentence_images/spoke/sentence2.jpg,stimuli/noise_images/spoke/noise2.jpg
+68,Spoke,3,He spoke pessimistically over coffee.,spoke,3,8,stimuli/sentence_images/spoke/sentence3.jpg,stimuli/noise_images/spoke/noise3.jpg
+68,Spoke,4,He spoke conversationally without listening.,spoke,3,8,stimuli/sentence_images/spoke/sentence4.jpg,stimuli/noise_images/spoke/noise4.jpg
+68,Spoke,5,The child spoke engagingly in her presentation.,spoke,10,15,stimuli/sentence_images/spoke/sentence5.jpg,stimuli/noise_images/spoke/noise5.jpg
+68,Spoke,6,He tellingly spoke about the situation.,spoke,13,18,stimuli/sentence_images/spoke/sentence6.jpg,stimuli/noise_images/spoke/noise6.jpg
+69,Sugar,1,The recipe called for a cup of sugar.,sugar,31,36,stimuli/sentence_images/sugar/sentence1.jpg,stimuli/noise_images/sugar/noise1.jpg
+69,Sugar,2,Plain sugar is the only kind he uses.,sugar,6,11,stimuli/sentence_images/sugar/sentence2.jpg,stimuli/noise_images/sugar/noise2.jpg
+69,Sugar,3,Sugar and butter are his two big cravings.,Sugar,0,5,stimuli/sentence_images/sugar/sentence3.jpg,stimuli/noise_images/sugar/noise3.jpg
+69,Sugar,4,Unrefined sugar has a grittier taste.,sugar,10,15,stimuli/sentence_images/sugar/sentence4.jpg,stimuli/noise_images/sugar/noise4.jpg
+69,Sugar,5,The tapioca is soaked in sugar.,sugar,25,30,stimuli/sentence_images/sugar/sentence5.jpg,stimuli/noise_images/sugar/noise5.jpg
+69,Sugar,6,Powdered sugar can be very messy.,sugar,9,14,stimuli/sentence_images/sugar/sentence6.jpg,stimuli/noise_images/sugar/noise6.jpg
+70,Jungle,1,The monkey lives in the jungle.,jungle,24,30,stimuli/sentence_images/jungle/sentence1.jpg,stimuli/noise_images/jungle/noise1.jpg
+70,Jungle,2,The jungle appears giant from every angle.,jungle,4,10,stimuli/sentence_images/jungle/sentence2.jpg,stimuli/noise_images/jungle/noise2.jpg
+70,Jungle,3,Ferocious animals abound in the jungle.,jungle,32,38,stimuli/sentence_images/jungle/sentence3.jpg,stimuli/noise_images/jungle/noise3.jpg
+70,Jungle,4,The gazelle grazed outside of the jungle.,jungle,34,40,stimuli/sentence_images/jungle/sentence4.jpg,stimuli/noise_images/jungle/noise4.jpg
+70,Jungle,5,The lion does not live in the jungle.,jungle,30,36,stimuli/sentence_images/jungle/sentence5.jpg,stimuli/noise_images/jungle/noise5.jpg
+70,Jungle,6,The jungle houses a new species of frog.,jungle,4,10,stimuli/sentence_images/jungle/sentence6.jpg,stimuli/noise_images/jungle/noise6.jpg
+71,Noise,1,I could hear some noise last night.,noise,18,23,stimuli/sentence_images/noise/sentence1.jpg,stimuli/noise_images/noise/noise1.jpg
+71,Noise,2,The noise he heard was of crying.,noise,4,9,stimuli/sentence_images/noise/sentence2.jpg,stimuli/noise_images/noise/noise2.jpg
+71,Noise,3,The child's whispering made some noise.,noise,33,38,stimuli/sentence_images/noise/sentence3.jpg,stimuli/noise_images/noise/noise3.jpg
+71,Noise,4,The scariest noise ever was the rumble.,noise,13,18,stimuli/sentence_images/noise/sentence4.jpg,stimuli/noise_images/noise/noise4.jpg
+71,Noise,5,She suppressed her squeal to not make noise.,noise,38,43,stimuli/sentence_images/noise/sentence5.jpg,stimuli/noise_images/noise/noise5.jpg
+71,Noise,6,The noise was a low-pitched growl.,noise,4,9,stimuli/sentence_images/noise/sentence6.jpg,stimuli/noise_images/noise/noise6.jpg
+72,Lady,1,The queen was a classy lady.,lady,23,27,stimuli/sentence_images/lady/sentence1.jpg,stimuli/noise_images/lady/noise1.jpg
+72,Lady,2,The princess is a newly married young lady.,lady,38,42,stimuli/sentence_images/lady/sentence2.jpg,stimuli/noise_images/lady/noise2.jpg
+72,Lady,3,The weird lady needed a serious makeover.,lady,10,14,stimuli/sentence_images/lady/sentence3.jpg,stimuli/noise_images/lady/noise3.jpg
+72,Lady,4,The debutante was presented as a lady.,lady,33,37,stimuli/sentence_images/lady/sentence4.jpg,stimuli/noise_images/lady/noise4.jpg
+72,Lady,5,The lady has a keen suitor.,lady,4,8,stimuli/sentence_images/lady/sentence5.jpg,stimuli/noise_images/lady/noise5.jpg
+72,Lady,6,The lady was a darling of society.,lady,4,8,stimuli/sentence_images/lady/sentence6.jpg,stimuli/noise_images/lady/noise6.jpg
+73,Ability,1,His ability outshone his genius.,ability,4,11,stimuli/sentence_images/ability/sentence1.jpg,stimuli/noise_images/ability/noise1.jpg
+73,Ability,2,Her ability and knack for it got her here.,ability,4,11,stimuli/sentence_images/ability/sentence2.jpg,stimuli/noise_images/ability/noise2.jpg
+73,Ability,3,His ability and assertiveness are attractive.,ability,4,11,stimuli/sentence_images/ability/sentence3.jpg,stimuli/noise_images/ability/noise3.jpg
+73,Ability,4,He has the ability to cultivate creativity.,ability,11,18,stimuli/sentence_images/ability/sentence4.jpg,stimuli/noise_images/ability/noise4.jpg
+73,Ability,5,Forethought is an important ability.,ability,28,35,stimuli/sentence_images/ability/sentence5.jpg,stimuli/noise_images/ability/noise5.jpg
+73,Ability,6,His unwavering ability is unmatched.,ability,15,22,stimuli/sentence_images/ability/sentence6.jpg,stimuli/noise_images/ability/noise6.jpg
+74,Sell,1,Someone will buy the car if you sell it.,sell,32,36,stimuli/sentence_images/sell/sentence1.jpg,stimuli/noise_images/sell/noise1.jpg
+74,Sell,2,She will sell it for cheap.,sell,9,13,stimuli/sentence_images/sell/sentence2.jpg,stimuli/noise_images/sell/noise2.jpg
+74,Sell,3,The high supply changes what you sell it for.,sell,33,37,stimuli/sentence_images/sell/sentence3.jpg,stimuli/noise_images/sell/noise3.jpg
+74,Sell,4,His hobby is to buy and sell comic books.,sell,24,28,stimuli/sentence_images/sell/sentence4.jpg,stimuli/noise_images/sell/noise4.jpg
+74,Sell,5,The drugstore sells prescription drugs.,sells,14,19,stimuli/sentence_images/sell/sentence5.jpg,stimuli/noise_images/sell/noise5.jpg
+74,Sell,6,I sell secondhand clothes for a living.,sell,2,6,stimuli/sentence_images/sell/sentence6.jpg,stimuli/noise_images/sell/noise6.jpg
+75,Attitude,1,She has a negative attitude.,attitude,19,27,stimuli/sentence_images/attitude/sentence1.jpg,stimuli/noise_images/attitude/noise1.jpg
+75,Attitude,2,His selfish attitude won't get him far.,attitude,12,20,stimuli/sentence_images/attitude/sentence2.jpg,stimuli/noise_images/attitude/noise2.jpg
+75,Attitude,3,"Generally, her attitude is condescending.",attitude,15,23,stimuli/sentence_images/attitude/sentence3.jpg,stimuli/noise_images/attitude/noise3.jpg
+75,Attitude,4,He will work on his domineering attitude.,attitude,32,40,stimuli/sentence_images/attitude/sentence4.jpg,stimuli/noise_images/attitude/noise4.jpg
+75,Attitude,5,His humorless attitude is stereotypical.,attitude,14,22,stimuli/sentence_images/attitude/sentence5.jpg,stimuli/noise_images/attitude/noise5.jpg
+75,Attitude,6,He has a nonchalant attitude about it.,attitude,20,28,stimuli/sentence_images/attitude/sentence6.jpg,stimuli/noise_images/attitude/noise6.jpg
+76,Soul,1,The soul and spirit are closely related.,soul,4,8,stimuli/sentence_images/soul/sentence1.jpg,stimuli/noise_images/soul/noise1.jpg
+76,Soul,2,The goodness of his soul makes him glow.,soul,20,24,stimuli/sentence_images/soul/sentence2.jpg,stimuli/noise_images/soul/noise2.jpg
+76,Soul,3,The fact that he has a soul astounds him.,soul,23,27,stimuli/sentence_images/soul/sentence3.jpg,stimuli/noise_images/soul/noise3.jpg
+76,Soul,4,She hopes her soul will live on in eternity.,soul,14,18,stimuli/sentence_images/soul/sentence4.jpg,stimuli/noise_images/soul/noise4.jpg
+76,Soul,5,Her soul wisehd for something eternal.,soul,4,8,stimuli/sentence_images/soul/sentence5.jpg,stimuli/noise_images/soul/noise5.jpg
+76,Soul,6,His discovery of his soul was a blessing.,soul,21,25,stimuli/sentence_images/soul/sentence6.jpg,stimuli/noise_images/soul/noise6.jpg
+77,Charity,1,This group often volunteers for charity.,charity,32,39,stimuli/sentence_images/charity/sentence1.jpg,stimuli/noise_images/charity/noise1.jpg
+77,Charity,2,The organization has a new devotion to charity.,charity,39,46,stimuli/sentence_images/charity/sentence2.jpg,stimuli/noise_images/charity/noise2.jpg
+77,Charity,3,The charity is improving its allocations.,charity,4,11,stimuli/sentence_images/charity/sentence3.jpg,stimuli/noise_images/charity/noise3.jpg
+77,Charity,4,The charity event doubled the funding.,charity,4,11,stimuli/sentence_images/charity/sentence4.jpg,stimuli/noise_images/charity/noise4.jpg
+77,Charity,5,The charity is a resource for these families.,charity,4,11,stimuli/sentence_images/charity/sentence5.jpg,stimuli/noise_images/charity/noise5.jpg
+77,Charity,6,I encourage you to participate in the charity.,charity,38,45,stimuli/sentence_images/charity/sentence6.jpg,stimuli/noise_images/charity/noise6.jpg
+78,Event,1,Everyone was so happy at the event.,event,29,34,stimuli/sentence_images/event/sentence1.jpg,stimuli/noise_images/event/noise1.jpg
+78,Event,2,The event is a celebration of his life.,event,4,9,stimuli/sentence_images/event/sentence2.jpg,stimuli/noise_images/event/noise2.jpg
+78,Event,3,The tenth reunion was a spectacular event.,event,36,41,stimuli/sentence_images/event/sentence3.jpg,stimuli/noise_images/event/noise3.jpg
+78,Event,4,The housewarming event is heavily attended.,event,17,22,stimuli/sentence_images/event/sentence4.jpg,stimuli/noise_images/event/noise4.jpg
+78,Event,5,The impromptu event was special.,event,14,19,stimuli/sentence_images/event/sentence5.jpg,stimuli/noise_images/event/noise5.jpg
+78,Event,6,The headmaster's luncheon is a monthly event.,event,39,44,stimuli/sentence_images/event/sentence6.jpg,stimuli/noise_images/event/noise6.jpg
+79,Driver,1,The driver had a duty to take her home.,driver,4,10,stimuli/sentence_images/driver/sentence1.jpg,stimuli/noise_images/driver/noise1.jpg
+79,Driver,2,The driver can't lift the box out of the trunk.,driver,4,10,stimuli/sentence_images/driver/sentence2.jpg,stimuli/noise_images/driver/noise2.jpg
+79,Driver,3,The bulldozer needed a better driver.,driver,30,36,stimuli/sentence_images/driver/sentence3.jpg,stimuli/noise_images/driver/noise3.jpg
+79,Driver,4,The taxicab driver is tired of them.,driver,12,18,stimuli/sentence_images/driver/sentence4.jpg,stimuli/noise_images/driver/noise4.jpg
+79,Driver,5,The actress needed to hire a new driver.,driver,33,39,stimuli/sentence_images/driver/sentence5.jpg,stimuli/noise_images/driver/noise5.jpg
+79,Driver,6,The driver hates loading in at the airport.,driver,4,10,stimuli/sentence_images/driver/sentence6.jpg,stimuli/noise_images/driver/noise6.jpg
+80,Weak,1,She felt crummy and weak after the class.,weak,20,24,stimuli/sentence_images/weak/sentence1.jpg,stimuli/noise_images/weak/noise1.jpg
+80,Weak,2,The weak competition left her feeling mediocre.,weak,4,8,stimuli/sentence_images/weak/sentence2.jpg,stimuli/noise_images/weak/noise2.jpg
+80,Weak,3,He saw himself as weak and unattractive.,weak,18,22,stimuli/sentence_images/weak/sentence3.jpg,stimuli/noise_images/weak/noise3.jpg
+80,Weak,4,The poorly managed project has a weak foundation.,weak,33,37,stimuli/sentence_images/weak/sentence4.jpg,stimuli/noise_images/weak/noise4.jpg
+80,Weak,5,The dismal building looks weak in the wind.,weak,26,30,stimuli/sentence_images/weak/sentence5.jpg,stimuli/noise_images/weak/noise5.jpg
+80,Weak,6,His weak pitch is amateurish.,weak,4,8,stimuli/sentence_images/weak/sentence6.jpg,stimuli/noise_images/weak/noise6.jpg
+81,Plant,1,The plant was growing fast by springtime.,plant,4,9,stimuli/sentence_images/plant/sentence1.jpg,stimuli/noise_images/plant/noise1.jpg
+81,Plant,2,The artificial plant looked almost real.,plant,15,20,stimuli/sentence_images/plant/sentence2.jpg,stimuli/noise_images/plant/noise2.jpg
+81,Plant,3,The leafy plant looked better indoors.,plant,10,15,stimuli/sentence_images/plant/sentence3.jpg,stimuli/noise_images/plant/noise3.jpg
+81,Plant,4,The windowsill had acquired a new plant.,plant,34,39,stimuli/sentence_images/plant/sentence4.jpg,stimuli/noise_images/plant/noise4.jpg
+81,Plant,5,The garden could use a new plant.,plant,27,32,stimuli/sentence_images/plant/sentence5.jpg,stimuli/noise_images/plant/noise5.jpg
+81,Plant,6,He watered the plant after the reminder.,plant,15,20,stimuli/sentence_images/plant/sentence6.jpg,stimuli/noise_images/plant/noise6.jpg
+82,Willingly,1,"A happy kid, he willingly smiled.",willingly,16,25,stimuli/sentence_images/willingly/sentence1.jpg,stimuli/noise_images/willingly/noise1.jpg
+82,Willingly,2,"He incessantly complains, we willingly nod.",willingly,29,38,stimuli/sentence_images/willingly/sentence2.jpg,stimuli/noise_images/willingly/noise2.jpg
+82,Willingly,3,He willingly and earnestly commits the crime.,willingly,3,12,stimuli/sentence_images/willingly/sentence3.jpg,stimuli/noise_images/willingly/noise3.jpg
+82,Willingly,4,She openly and willingly answered the questions.,willingly,15,24,stimuli/sentence_images/willingly/sentence4.jpg,stimuli/noise_images/willingly/noise4.jpg
+82,Willingly,5,She is fiercely and willingly independent.,willingly,20,29,stimuli/sentence_images/willingly/sentence5.jpg,stimuli/noise_images/willingly/noise5.jpg
+82,Willingly,6,She consistently laughs willingly when he does.,willingly,24,33,stimuli/sentence_images/willingly/sentence6.jpg,stimuli/noise_images/willingly/noise6.jpg
+83,Professional,1,The worker is a veteran professional.,professional,24,36,stimuli/sentence_images/professional/sentence1.jpg,stimuli/noise_images/professional/noise1.jpg
+83,Professional,2,The seamstress was a true professional.,professional,26,38,stimuli/sentence_images/professional/sentence2.jpg,stimuli/noise_images/professional/noise2.jpg
+83,Professional,3,The skilled professional maneuvers well.,professional,12,24,stimuli/sentence_images/professional/sentence3.jpg,stimuli/noise_images/professional/noise3.jpg
+83,Professional,4,"The beekeeper, always a professional, stayed calm.",professional,24,36,stimuli/sentence_images/professional/sentence4.jpg,stimuli/noise_images/professional/noise4.jpg
+83,Professional,5,The lumberyard needs a professional.,professional,23,35,stimuli/sentence_images/professional/sentence5.jpg,stimuli/noise_images/professional/noise5.jpg
+83,Professional,6,The technician needs another professional's opinion.,professional,29,41,stimuli/sentence_images/professional/sentence6.jpg,stimuli/noise_images/professional/noise6.jpg
+84,Texture,1,The table's rough texture surprised him.,texture,18,25,stimuli/sentence_images/texture/sentence1.jpg,stimuli/noise_images/texture/noise1.jpg
+84,Texture,2,The weird-looking cake has a yucky texture.,texture,35,42,stimuli/sentence_images/texture/sentence2.jpg,stimuli/noise_images/texture/noise2.jpg
+84,Texture,3,The jellylike texture of the milk is bad.,texture,14,21,stimuli/sentence_images/texture/sentence3.jpg,stimuli/noise_images/texture/noise3.jpg
+84,Texture,4,The couch cushion had a plushy texture.,texture,31,38,stimuli/sentence_images/texture/sentence4.jpg,stimuli/noise_images/texture/noise4.jpg
+84,Texture,5,His skin had become a leathery texture.,texture,31,38,stimuli/sentence_images/texture/sentence5.jpg,stimuli/noise_images/texture/noise5.jpg
+84,Texture,6,The floor's sticky texture is disgusting.,texture,19,26,stimuli/sentence_images/texture/sentence6.jpg,stimuli/noise_images/texture/noise6.jpg
+85,Successful,1,The successful actress is extremely famous.,successful,4,14,stimuli/sentence_images/successful/sentence1.jpg,stimuli/noise_images/successful/noise1.jpg
+85,Successful,2,The successful scientist exerts his influence.,successful,4,14,stimuli/sentence_images/successful/sentence2.jpg,stimuli/noise_images/successful/noise2.jpg
+85,Successful,3,The successful actor wants more fame.,successful,4,14,stimuli/sentence_images/successful/sentence3.jpg,stimuli/noise_images/successful/noise3.jpg
+85,Successful,4,Her successful career made her legendary.,successful,4,14,stimuli/sentence_images/successful/sentence4.jpg,stimuli/noise_images/successful/noise4.jpg
+85,Successful,5,That powerhouse of a woman is so successful.,successful,33,43,stimuli/sentence_images/successful/sentence5.jpg,stimuli/noise_images/successful/noise5.jpg
+85,Successful,6,He had been successful in the sixties.,successful,12,22,stimuli/sentence_images/successful/sentence6.jpg,stimuli/noise_images/successful/noise6.jpg
+86,Feeling,1,Finals left her feeling afraid for her grade.,feeling,16,23,stimuli/sentence_images/feeling/sentence1.jpg,stimuli/noise_images/feeling/noise1.jpg
+86,Feeling,2,"While he is worried, she is feeling fine.",feeling,28,35,stimuli/sentence_images/feeling/sentence2.jpg,stimuli/noise_images/feeling/noise2.jpg
+86,Feeling,3,The baby was feeling fussy all day.,feeling,13,20,stimuli/sentence_images/feeling/sentence3.jpg,stimuli/noise_images/feeling/noise3.jpg
+86,Feeling,4,The cat is feeling grumpy and prone to scratch.,feeling,11,18,stimuli/sentence_images/feeling/sentence4.jpg,stimuli/noise_images/feeling/noise4.jpg
+86,Feeling,5,His temperamental moods left her feeling sad.,feeling,33,40,stimuli/sentence_images/feeling/sentence5.jpg,stimuli/noise_images/feeling/noise5.jpg
+86,Feeling,6,She's feeling weary of his skittish behavior.,feeling,6,13,stimuli/sentence_images/feeling/sentence6.jpg,stimuli/noise_images/feeling/noise6.jpg
+87,Dressing,1,The thicker dressing has egg in it.,dressing,12,20,stimuli/sentence_images/dressing/sentence1.jpg,stimuli/noise_images/dressing/noise1.jpg
+87,Dressing,2,Garlic made the dressing inedible.,dressing,16,24,stimuli/sentence_images/dressing/sentence2.jpg,stimuli/noise_images/dressing/noise2.jpg
+87,Dressing,3,The mozzarella has an oily dressing.,dressing,27,35,stimuli/sentence_images/dressing/sentence3.jpg,stimuli/noise_images/dressing/noise3.jpg
+87,Dressing,4,A delicious dressing will be the garnish.,dressing,12,20,stimuli/sentence_images/dressing/sentence4.jpg,stimuli/noise_images/dressing/noise4.jpg
+87,Dressing,5,The dressing gave the marmalade a sour twist.,dressing,4,12,stimuli/sentence_images/dressing/sentence5.jpg,stimuli/noise_images/dressing/noise5.jpg
+87,Dressing,6,Sauerkraut is sour enough without dressing.,dressing,34,42,stimuli/sentence_images/dressing/sentence6.jpg,stimuli/noise_images/dressing/noise6.jpg
+88,Carefully,1,She carefully handled the roses.,carefully,4,13,stimuli/sentence_images/carefully/sentence1.jpg,stimuli/noise_images/carefully/noise1.jpg
+88,Carefully,2,She carefully and efficiently did the job.,carefully,4,13,stimuli/sentence_images/carefully/sentence2.jpg,stimuli/noise_images/carefully/noise2.jpg
+88,Carefully,3,He explained it creatively and carefully.,carefully,31,40,stimuli/sentence_images/carefully/sentence3.jpg,stimuli/noise_images/carefully/noise3.jpg
+88,Carefully,4,The food is neatly and carefully arranged.,carefully,23,32,stimuli/sentence_images/carefully/sentence4.jpg,stimuli/noise_images/carefully/noise4.jpg
+88,Carefully,5,It is carefully and flawlessly constructed.,carefully,6,15,stimuli/sentence_images/carefully/sentence5.jpg,stimuli/noise_images/carefully/noise5.jpg
+88,Carefully,6,She carefully and cleverly constructed the outcome.,carefully,4,13,stimuli/sentence_images/carefully/sentence6.jpg,stimuli/noise_images/carefully/noise6.jpg
+89,Doctor,1,The hospital wanted to hire a new doctor.,doctor,34,40,stimuli/sentence_images/doctor/sentence1.jpg,stimuli/noise_images/doctor/noise1.jpg
+89,Doctor,2,A brilliant doctor performed the surgery.,doctor,12,18,stimuli/sentence_images/doctor/sentence2.jpg,stimuli/noise_images/doctor/noise2.jpg
+89,Doctor,3,The doctor doesn't deal with patient trauma.,doctor,4,10,stimuli/sentence_images/doctor/sentence3.jpg,stimuli/noise_images/doctor/noise3.jpg
+89,Doctor,4,You can't be an occupational doctor.,doctor,29,35,stimuli/sentence_images/doctor/sentence4.jpg,stimuli/noise_images/doctor/noise4.jpg
+89,Doctor,5,He will consult his friend before his doctor.,doctor,38,44,stimuli/sentence_images/doctor/sentence5.jpg,stimuli/noise_images/doctor/noise5.jpg
+89,Doctor,6,The physician prefers being called a doctor.,doctor,37,43,stimuli/sentence_images/doctor/sentence6.jpg,stimuli/noise_images/doctor/noise6.jpg
+90,Time,1,He has a lot of time before the event.,time,16,20,stimuli/sentence_images/time/sentence1.jpg,stimuli/noise_images/time/noise1.jpg
+90,Time,2,The days go by quicker with time.,time,28,32,stimuli/sentence_images/time/sentence2.jpg,stimuli/noise_images/time/noise2.jpg
+90,Time,3,They will pick a time for the meeting.,time,17,21,stimuli/sentence_images/time/sentence3.jpg,stimuli/noise_images/time/noise3.jpg
+90,Time,4,He missed the time of the deadline.,time,14,18,stimuli/sentence_images/time/sentence4.jpg,stimuli/noise_images/time/noise4.jpg
+90,Time,5,Write the time into a calendar space.,time,10,14,stimuli/sentence_images/time/sentence5.jpg,stimuli/noise_images/time/noise5.jpg
+90,Time,6,Tomorrow is a better time for her.,time,21,25,stimuli/sentence_images/time/sentence6.jpg,stimuli/noise_images/time/noise6.jpg
+91,Medication,1,The medication has strange effects on her.,medication,4,14,stimuli/sentence_images/medication/sentence1.jpg,stimuli/noise_images/medication/noise1.jpg
+91,Medication,2,Her combination of medication wasn't good.,medication,19,29,stimuli/sentence_images/medication/sentence2.jpg,stimuli/noise_images/medication/noise2.jpg
+91,Medication,3,The medication acts as an antidote.,medication,4,14,stimuli/sentence_images/medication/sentence3.jpg,stimuli/noise_images/medication/noise3.jpg
+91,Medication,4,The formulation of the medication is new.,medication,23,33,stimuli/sentence_images/medication/sentence4.jpg,stimuli/noise_images/medication/noise4.jpg
+91,Medication,5,She took her old prescription medication instead.,medication,30,40,stimuli/sentence_images/medication/sentence5.jpg,stimuli/noise_images/medication/noise5.jpg
+91,Medication,6,This medication is essential to his well-being.,medication,5,15,stimuli/sentence_images/medication/sentence6.jpg,stimuli/noise_images/medication/noise6.jpg
+92,Pleasure,1,People have sex for pleasure.,pleasure,20,28,stimuli/sentence_images/pleasure/sentence1.jpg,stimuli/noise_images/pleasure/noise1.jpg
+92,Pleasure,2,People get pleasure from masturbation.,pleasure,11,19,stimuli/sentence_images/pleasure/sentence2.jpg,stimuli/noise_images/pleasure/noise2.jpg
+92,Pleasure,3,Forced pleasure is an oxymoron.,pleasure,7,15,stimuli/sentence_images/pleasure/sentence3.jpg,stimuli/noise_images/pleasure/noise3.jpg
+92,Pleasure,4,She fantasizes about the pleasure of his touches.,pleasure,25,33,stimuli/sentence_images/pleasure/sentence4.jpg,stimuli/noise_images/pleasure/noise4.jpg
+92,Pleasure,5,He was gay and got pleasure from him.,pleasure,19,27,stimuli/sentence_images/pleasure/sentence5.jpg,stimuli/noise_images/pleasure/noise5.jpg
+92,Pleasure,6,Sexual pleasure can be a taboo topic.,pleasure,7,15,stimuli/sentence_images/pleasure/sentence6.jpg,stimuli/noise_images/pleasure/noise6.jpg
+93,Philosophy,1,Philosophy provides many perspectives.,Philosophy,0,10,stimuli/sentence_images/philosophy/sentence1.jpg,stimuli/noise_images/philosophy/noise1.jpg
+93,Philosophy,2,Existentialism is a topic of philosophy.,philosophy,29,39,stimuli/sentence_images/philosophy/sentence2.jpg,stimuli/noise_images/philosophy/noise2.jpg
+93,Philosophy,3,Spirituality and philosophy aren't the same.,philosophy,17,27,stimuli/sentence_images/philosophy/sentence3.jpg,stimuli/noise_images/philosophy/noise3.jpg
+93,Philosophy,4,The paradigm taught in philosophy confused her.,philosophy,23,33,stimuli/sentence_images/philosophy/sentence4.jpg,stimuli/noise_images/philosophy/noise4.jpg
+93,Philosophy,5,Materialism is a discussion in philosophy.,philosophy,31,41,stimuli/sentence_images/philosophy/sentence5.jpg,stimuli/noise_images/philosophy/noise5.jpg
+93,Philosophy,6,She loves philosophy yet remains agnostic.,philosophy,10,20,stimuli/sentence_images/philosophy/sentence6.jpg,stimuli/noise_images/philosophy/noise6.jpg
+94,Deliberately,1,She deliberately and wrongfully hurt him.,deliberately,4,16,stimuli/sentence_images/deliberately/sentence1.jpg,stimuli/noise_images/deliberately/noise1.jpg
+94,Deliberately,2,He ruthlessly and deliberately ignores her.,deliberately,18,30,stimuli/sentence_images/deliberately/sentence2.jpg,stimuli/noise_images/deliberately/noise2.jpg
+94,Deliberately,3,She deliberately fell as she inadvertently slipped.,deliberately,4,16,stimuli/sentence_images/deliberately/sentence3.jpg,stimuli/noise_images/deliberately/noise3.jpg
+94,Deliberately,4,"Not deliberately, he arbitrarily asked her out.",deliberately,4,16,stimuli/sentence_images/deliberately/sentence4.jpg,stimuli/noise_images/deliberately/noise4.jpg
+94,Deliberately,5,The decision was deliberately and unjustly made.,deliberately,17,29,stimuli/sentence_images/deliberately/sentence5.jpg,stimuli/noise_images/deliberately/noise5.jpg
+94,Deliberately,6,He foolishly accepted the offer deliberately.,deliberately,32,44,stimuli/sentence_images/deliberately/sentence6.jpg,stimuli/noise_images/deliberately/noise6.jpg
+95,Deceive,1,To lie is to deceive.,deceive,13,20,stimuli/sentence_images/deceive/sentence1.jpg,stimuli/noise_images/deceive/noise1.jpg
+95,Deceive,2,He's devious enough to deceive her.,deceive,23,30,stimuli/sentence_images/deceive/sentence2.jpg,stimuli/noise_images/deceive/noise2.jpg
+95,Deceive,3,The ploy was to deceive the old lady slowly.,deceive,16,23,stimuli/sentence_images/deceive/sentence3.jpg,stimuli/noise_images/deceive/noise3.jpg
+95,Deceive,4,The plan is to deceive and bribe him quickly.,deceive,15,22,stimuli/sentence_images/deceive/sentence4.jpg,stimuli/noise_images/deceive/noise4.jpg
+95,Deceive,5,The operative was meant to deceive him.,deceive,27,34,stimuli/sentence_images/deceive/sentence5.jpg,stimuli/noise_images/deceive/noise5.jpg
+95,Deceive,6,Her motive is to deceive his friend.,deceive,17,24,stimuli/sentence_images/deceive/sentence6.jpg,stimuli/noise_images/deceive/noise6.jpg
+96,Tool,1,He needed any tool other than a saw.,tool,14,18,stimuli/sentence_images/tool/sentence1.jpg,stimuli/noise_images/tool/noise1.jpg
+96,Tool,2,The machine seems like an excessive tool.,tool,36,40,stimuli/sentence_images/tool/sentence2.jpg,stimuli/noise_images/tool/noise2.jpg
+96,Tool,3,A stapler is the most useful office tool.,tool,36,40,stimuli/sentence_images/tool/sentence3.jpg,stimuli/noise_images/tool/noise3.jpg
+96,Tool,4,The switchblade can be a dangerous tool.,tool,35,39,stimuli/sentence_images/tool/sentence4.jpg,stimuli/noise_images/tool/noise4.jpg
+96,Tool,5,The tool shop advertised the shears.,tool,4,8,stimuli/sentence_images/tool/sentence5.jpg,stimuli/noise_images/tool/noise5.jpg
+96,Tool,6,The best tool for crushing is right here.,tool,9,13,stimuli/sentence_images/tool/sentence6.jpg,stimuli/noise_images/tool/noise6.jpg
+97,Camera,1,The best camera looks unremarkable.,camera,9,15,stimuli/sentence_images/camera/sentence1.jpg,stimuli/noise_images/camera/noise1.jpg
+97,Camera,2,The camera captures a lot of colors.,camera,4,10,stimuli/sentence_images/camera/sentence2.jpg,stimuli/noise_images/camera/noise2.jpg
+97,Camera,3,The camera shutter broke when it fell.,camera,4,10,stimuli/sentence_images/camera/sentence3.jpg,stimuli/noise_images/camera/noise3.jpg
+97,Camera,4,The camera focus causes low quality photos.,camera,4,10,stimuli/sentence_images/camera/sentence4.jpg,stimuli/noise_images/camera/noise4.jpg
+97,Camera,5,The camera display had many menu options.,camera,4,10,stimuli/sentence_images/camera/sentence5.jpg,stimuli/noise_images/camera/noise5.jpg
+97,Camera,6,The camera reflex is too slow.,camera,4,10,stimuli/sentence_images/camera/sentence6.jpg,stimuli/noise_images/camera/noise6.jpg
+98,Art,1,The poetry workshop was a work of art.,art,34,37,stimuli/sentence_images/art/sentence1.jpg,stimuli/noise_images/art/noise1.jpg
+98,Art,2,The school has a strong tradition of art.,art,37,40,stimuli/sentence_images/art/sentence2.jpg,stimuli/noise_images/art/noise2.jpg
+98,Art,3,The art exhibition left many breathless.,art,4,7,stimuli/sentence_images/art/sentence3.jpg,stimuli/noise_images/art/noise3.jpg
+98,Art,4,The contemporary art left much to be desired.,art,17,20,stimuli/sentence_images/art/sentence4.jpg,stimuli/noise_images/art/noise4.jpg
+98,Art,5,Medieval art is not up her alley.,art,9,12,stimuli/sentence_images/art/sentence5.jpg,stimuli/noise_images/art/noise5.jpg
+98,Art,6,The irony of the piece is pure art.,art,31,34,stimuli/sentence_images/art/sentence6.jpg,stimuli/noise_images/art/noise6.jpg
+99,Construction,1,Construction slowed down at the last wall.,Construction,0,12,stimuli/sentence_images/construction/sentence1.jpg,stimuli/noise_images/construction/noise1.jpg
+99,Construction,2,Plastering is the next step in construction.,construction,31,43,stimuli/sentence_images/construction/sentence2.jpg,stimuli/noise_images/construction/noise2.jpg
+99,Construction,3,The flooring began the construction process.,construction,23,35,stimuli/sentence_images/construction/sentence3.jpg,stimuli/noise_images/construction/noise3.jpg
+99,Construction,4,The remodeling takes two years of construction.,construction,34,46,stimuli/sentence_images/construction/sentence4.jpg,stimuli/noise_images/construction/noise4.jpg
+99,Construction,5,The homeowner hated the construction.,construction,24,36,stimuli/sentence_images/construction/sentence5.jpg,stimuli/noise_images/construction/noise5.jpg
+99,Construction,6,The construction is true workmanship.,construction,4,16,stimuli/sentence_images/construction/sentence6.jpg,stimuli/noise_images/construction/noise6.jpg
+100,Unaware,1,She is unaware of how oblivious he is.,unaware,7,14,stimuli/sentence_images/unaware/sentence1.jpg,stimuli/noise_images/unaware/noise1.jpg
+100,Unaware,2,She was unaware and unashamed of her status.,unaware,8,15,stimuli/sentence_images/unaware/sentence2.jpg,stimuli/noise_images/unaware/noise2.jpg
+100,Unaware,3,Her words are unprejudiced yet unaware.,unaware,31,38,stimuli/sentence_images/unaware/sentence3.jpg,stimuli/noise_images/unaware/noise3.jpg
+100,Unaware,4,He is inarticulate and unaware of this issue.,unaware,23,30,stimuli/sentence_images/unaware/sentence4.jpg,stimuli/noise_images/unaware/noise4.jpg
+100,Unaware,5,He's unaware of how uninterested she is.,unaware,5,12,stimuli/sentence_images/unaware/sentence5.jpg,stimuli/noise_images/unaware/noise5.jpg
+100,Unaware,6,He's unaware and unequipped for this.,unaware,5,12,stimuli/sentence_images/unaware/sentence6.jpg,stimuli/noise_images/unaware/noise6.jpg
+101,Disturb,1,His insult will disturb her deeply.,disturb,16,23,stimuli/sentence_images/disturb/sentence1.jpg,stimuli/noise_images/disturb/noise1.jpg
+101,Disturb,2,His affect will begin to disturb me soon.,disturb,25,32,stimuli/sentence_images/disturb/sentence2.jpg,stimuli/noise_images/disturb/noise2.jpg
+101,Disturb,3,He can disturb and aggravate anyone.,disturb,7,14,stimuli/sentence_images/disturb/sentence3.jpg,stimuli/noise_images/disturb/noise3.jpg
+101,Disturb,4,Conspire as much as you can to disturb her.,disturb,31,38,stimuli/sentence_images/disturb/sentence4.jpg,stimuli/noise_images/disturb/noise4.jpg
+101,Disturb,5,Restrain him so he can't disturb me.,disturb,25,32,stimuli/sentence_images/disturb/sentence5.jpg,stimuli/noise_images/disturb/noise5.jpg
+101,Disturb,6,Do not disturb or jeopardize your chance.,disturb,7,14,stimuli/sentence_images/disturb/sentence6.jpg,stimuli/noise_images/disturb/noise6.jpg
+102,Emotion,1,His shame is his least controlled emotion.,emotion,34,41,stimuli/sentence_images/emotion/sentence1.jpg,stimuli/noise_images/emotion/noise1.jpg
+102,Emotion,2,Sorrow is his dominating emotion nowadays.,emotion,25,32,stimuli/sentence_images/emotion/sentence2.jpg,stimuli/noise_images/emotion/noise2.jpg
+102,Emotion,3,Indignation was the emotion she could identify.,emotion,20,27,stimuli/sentence_images/emotion/sentence3.jpg,stimuli/noise_images/emotion/noise3.jpg
+102,Emotion,4,Betrayal isn't an emotion you can trigger.,emotion,18,25,stimuli/sentence_images/emotion/sentence4.jpg,stimuli/noise_images/emotion/noise4.jpg
+102,Emotion,5,She felt an emotion she knew to be embarrassment.,emotion,12,19,stimuli/sentence_images/emotion/sentence5.jpg,stimuli/noise_images/emotion/noise5.jpg
+102,Emotion,6,She has a desire to feel overwhelming emotion.,emotion,38,45,stimuli/sentence_images/emotion/sentence6.jpg,stimuli/noise_images/emotion/noise6.jpg
+103,Device,1,The device has a finicky antenna.,device,4,10,stimuli/sentence_images/device/sentence1.jpg,stimuli/noise_images/device/noise1.jpg
+103,Device,2,The device is wired very simply.,device,4,10,stimuli/sentence_images/device/sentence2.jpg,stimuli/noise_images/device/noise2.jpg
+103,Device,3,She had to coax the device to start it.,device,20,26,stimuli/sentence_images/device/sentence3.jpg,stimuli/noise_images/device/noise3.jpg
+103,Device,4,The switch on the device popped off.,device,18,24,stimuli/sentence_images/device/sentence4.jpg,stimuli/noise_images/device/noise4.jpg
+103,Device,5,The device was disconnected from power.,device,4,10,stimuli/sentence_images/device/sentence5.jpg,stimuli/noise_images/device/noise5.jpg
+103,Device,6,The transistor was built into the device.,device,34,40,stimuli/sentence_images/device/sentence6.jpg,stimuli/noise_images/device/noise6.jpg
+104,Suspect,1,The suspect was dead before they got here.,suspect,4,11,stimuli/sentence_images/suspect/sentence1.jpg,stimuli/noise_images/suspect/noise1.jpg
+104,Suspect,2,The police still don't have a prime suspect.,suspect,36,43,stimuli/sentence_images/suspect/sentence2.jpg,stimuli/noise_images/suspect/noise2.jpg
+104,Suspect,3,The suspect attempted to run.,suspect,4,11,stimuli/sentence_images/suspect/sentence3.jpg,stimuli/noise_images/suspect/noise3.jpg
+104,Suspect,4,The suspect committed suicide in prison.,suspect,4,11,stimuli/sentence_images/suspect/sentence4.jpg,stimuli/noise_images/suspect/noise4.jpg
+104,Suspect,5,The real kidnapper isn't a suspect in this case.,suspect,27,34,stimuli/sentence_images/suspect/sentence5.jpg,stimuli/noise_images/suspect/noise5.jpg
+104,Suspect,6,The suspect's motive was senseless.,suspect,4,11,stimuli/sentence_images/suspect/sentence6.jpg,stimuli/noise_images/suspect/noise6.jpg
+105,Play,1,"He wanted to play the game, too.",play,13,17,stimuli/sentence_images/play/sentence1.jpg,stimuli/noise_images/play/noise1.jpg
+105,Play,2,You can play too if you play softball.,play,8,12,stimuli/sentence_images/play/sentence2.jpg,stimuli/noise_images/play/noise2.jpg
+105,Play,3,He gets to play golf at his meetings.,play,11,15,stimuli/sentence_images/play/sentence3.jpg,stimuli/noise_images/play/noise3.jpg
+105,Play,4,Play volleyball more often for good legs.,Play,0,4,stimuli/sentence_images/play/sentence4.jpg,stimuli/noise_images/play/noise4.jpg
+105,Play,5,Sparring is his way to play with you.,play,23,27,stimuli/sentence_images/play/sentence5.jpg,stimuli/noise_images/play/noise5.jpg
+105,Play,6,The competition forces you to play well.,play,30,34,stimuli/sentence_images/play/sentence6.jpg,stimuli/noise_images/play/noise6.jpg
+106,Smart,1,The informed candidate has smart responses.,smart,27,32,stimuli/sentence_images/smart/sentence1.jpg,stimuli/noise_images/smart/noise1.jpg
+106,Smart,2,He seems smart and sincere.,smart,9,14,stimuli/sentence_images/smart/sentence2.jpg,stimuli/noise_images/smart/noise2.jpg
+106,Smart,3,She is fearless and very smart.,smart,25,30,stimuli/sentence_images/smart/sentence3.jpg,stimuli/noise_images/smart/noise3.jpg
+106,Smart,4,She genuinely is smart but doesn't work hard.,smart,17,22,stimuli/sentence_images/smart/sentence4.jpg,stimuli/noise_images/smart/noise4.jpg
+106,Smart,5,The fifth grader is smart and resourceful.,smart,20,25,stimuli/sentence_images/smart/sentence5.jpg,stimuli/noise_images/smart/noise5.jpg
+106,Smart,6,"While she's too trusting, she's smart.",smart,32,37,stimuli/sentence_images/smart/sentence6.jpg,stimuli/noise_images/smart/noise6.jpg
+107,Movie,1,This story is left out of the movie.,movie,30,35,stimuli/sentence_images/movie/sentence1.jpg,stimuli/noise_images/movie/noise1.jpg
+107,Movie,2,The character doesn't develop in the movie.,movie,37,42,stimuli/sentence_images/movie/sentence2.jpg,stimuli/noise_images/movie/noise2.jpg
+107,Movie,3,The movie premiere had a red carpet.,movie,4,9,stimuli/sentence_images/movie/sentence3.jpg,stimuli/noise_images/movie/noise3.jpg
+107,Movie,4,The movie is one adventure after the other.,movie,4,9,stimuli/sentence_images/movie/sentence4.jpg,stimuli/noise_images/movie/noise4.jpg
+107,Movie,5,Turn on the T.V. to watch the movie.,movie,30,35,stimuli/sentence_images/movie/sentence5.jpg,stimuli/noise_images/movie/noise5.jpg
+107,Movie,6,A movie can have many sequels.,movie,2,7,stimuli/sentence_images/movie/sentence6.jpg,stimuli/noise_images/movie/noise6.jpg
+108,Movement,1,The movement was revolutionary.,movement,4,12,stimuli/sentence_images/movement/sentence1.jpg,stimuli/noise_images/movement/noise1.jpg
+108,Movement,2,This is a movement against communism.,movement,10,18,stimuli/sentence_images/movement/sentence2.jpg,stimuli/noise_images/movement/noise2.jpg
+108,Movement,3,The movement was oppressive.,movement,4,12,stimuli/sentence_images/movement/sentence3.jpg,stimuli/noise_images/movement/noise3.jpg
+108,Movement,4,The movement is based on utopian ideals.,movement,4,12,stimuli/sentence_images/movement/sentence4.jpg,stimuli/noise_images/movement/noise4.jpg
+108,Movement,5,Many in the movement have a scary mindset.,movement,12,20,stimuli/sentence_images/movement/sentence5.jpg,stimuli/noise_images/movement/noise5.jpg
+108,Movement,6,Radical people took part in the movement.,movement,32,40,stimuli/sentence_images/movement/sentence6.jpg,stimuli/noise_images/movement/noise6.jpg
+109,Electron,1,The electron moves in a wave.,electron,4,12,stimuli/sentence_images/electron/sentence1.jpg,stimuli/noise_images/electron/noise1.jpg
+109,Electron,2,An electron is a miniscule particle.,electron,3,11,stimuli/sentence_images/electron/sentence2.jpg,stimuli/noise_images/electron/noise2.jpg
+109,Electron,3,An electron impacts the substance's equilibrium.,electron,3,11,stimuli/sentence_images/electron/sentence3.jpg,stimuli/noise_images/electron/noise3.jpg
+109,Electron,4,He calculated the wavelength of an electron.,electron,35,43,stimuli/sentence_images/electron/sentence4.jpg,stimuli/noise_images/electron/noise4.jpg
+109,Electron,5,Use Planck's constant for the mass of an electron.,electron,41,49,stimuli/sentence_images/electron/sentence5.jpg,stimuli/noise_images/electron/noise5.jpg
+109,Electron,6,Find the thermal energy of an electron.,electron,30,38,stimuli/sentence_images/electron/sentence6.jpg,stimuli/noise_images/electron/noise6.jpg
+110,Student,1,The student was in class when his aunt called.,student,4,11,stimuli/sentence_images/student/sentence1.jpg,stimuli/noise_images/student/noise1.jpg
+110,Student,2,Every student receives a merit scholarship.,student,6,13,stimuli/sentence_images/student/sentence2.jpg,stimuli/noise_images/student/noise2.jpg
+110,Student,3,The faculty to student ratio is high this year.,student,15,22,stimuli/sentence_images/student/sentence3.jpg,stimuli/noise_images/student/noise3.jpg
+110,Student,4,The student reread her notes before the course.,student,4,11,stimuli/sentence_images/student/sentence4.jpg,stimuli/noise_images/student/noise4.jpg
+110,Student,5,This past term zipped by for the student.,student,33,40,stimuli/sentence_images/student/sentence5.jpg,stimuli/noise_images/student/noise5.jpg
+110,Student,6,Only one student in the class is bilingual.,student,9,16,stimuli/sentence_images/student/sentence6.jpg,stimuli/noise_images/student/noise6.jpg
+111,Delivery,1,The website offered free delivery.,delivery,25,33,stimuli/sentence_images/delivery/sentence1.jpg,stimuli/noise_images/delivery/noise1.jpg
+111,Delivery,2,The delivery date was unclear.,delivery,4,12,stimuli/sentence_images/delivery/sentence2.jpg,stimuli/noise_images/delivery/noise2.jpg
+111,Delivery,3,The form of delivery was up to him.,delivery,12,20,stimuli/sentence_images/delivery/sentence3.jpg,stimuli/noise_images/delivery/noise3.jpg
+111,Delivery,4,She wants to intercept the delivery.,delivery,27,35,stimuli/sentence_images/delivery/sentence4.jpg,stimuli/noise_images/delivery/noise4.jpg
+111,Delivery,5,He wanted confirmation of the delivery.,delivery,30,38,stimuli/sentence_images/delivery/sentence5.jpg,stimuli/noise_images/delivery/noise5.jpg
+111,Delivery,6,She requested express delivery to save time.,delivery,22,30,stimuli/sentence_images/delivery/sentence6.jpg,stimuli/noise_images/delivery/noise6.jpg
+112,Trial,1,The case finally went to trial.,trial,25,30,stimuli/sentence_images/trial/sentence1.jpg,stimuli/noise_images/trial/noise1.jpg
+112,Trial,2,The lawyer mediated before the trial.,trial,31,36,stimuli/sentence_images/trial/sentence2.jpg,stimuli/noise_images/trial/noise2.jpg
+112,Trial,3,A decision will be made during the trial.,trial,35,40,stimuli/sentence_images/trial/sentence3.jpg,stimuli/noise_images/trial/noise3.jpg
+112,Trial,4,The defendant in the trial got nervous.,trial,21,26,stimuli/sentence_images/trial/sentence4.jpg,stimuli/noise_images/trial/noise4.jpg
+112,Trial,5,The juror was forced to be in the trial.,trial,34,39,stimuli/sentence_images/trial/sentence5.jpg,stimuli/noise_images/trial/noise5.jpg
+112,Trial,6,The trial is a huge chance for the attorney.,trial,4,9,stimuli/sentence_images/trial/sentence6.jpg,stimuli/noise_images/trial/noise6.jpg
+113,Laugh,1,She tried not to laugh and had to gasp.,laugh,17,22,stimuli/sentence_images/laugh/sentence1.jpg,stimuli/noise_images/laugh/noise1.jpg
+113,Laugh,2,At comedy clubs people both laugh and clap.,laugh,28,33,stimuli/sentence_images/laugh/sentence2.jpg,stimuli/noise_images/laugh/noise2.jpg
+113,Laugh,3,When I laugh I sometimes sneeze.,laugh,7,12,stimuli/sentence_images/laugh/sentence3.jpg,stimuli/noise_images/laugh/noise3.jpg
+113,Laugh,4,A giggle is the most she will every laugh.,laugh,36,41,stimuli/sentence_images/laugh/sentence4.jpg,stimuli/noise_images/laugh/noise4.jpg
+113,Laugh,5,She tends to sigh whenever I laugh.,laugh,29,34,stimuli/sentence_images/laugh/sentence5.jpg,stimuli/noise_images/laugh/noise5.jpg
+113,Laugh,6,He spit out his water when he had to laugh.,laugh,37,42,stimuli/sentence_images/laugh/sentence6.jpg,stimuli/noise_images/laugh/noise6.jpg
+114,Usable,1,The writing is usable but barely publishable.,usable,15,21,stimuli/sentence_images/usable/sentence1.jpg,stimuli/noise_images/usable/noise1.jpg
+114,Usable,2,The design is usable and reproducible.,usable,14,20,stimuli/sentence_images/usable/sentence2.jpg,stimuli/noise_images/usable/noise2.jpg
+114,Usable,3,The distinguishable product isn't usable.,usable,34,40,stimuli/sentence_images/usable/sentence3.jpg,stimuli/noise_images/usable/noise3.jpg
+114,Usable,4,The microwave is recognizably usable.,usable,30,36,stimuli/sentence_images/usable/sentence4.jpg,stimuli/noise_images/usable/noise4.jpg
+114,Usable,5,It will be marketable once it is universally usable.,usable,45,51,stimuli/sentence_images/usable/sentence5.jpg,stimuli/noise_images/usable/noise5.jpg
+114,Usable,6,The usable parts are all salvageable.,usable,4,10,stimuli/sentence_images/usable/sentence6.jpg,stimuli/noise_images/usable/noise6.jpg
+115,Apartment,1,They rent out the apartment in their home.,apartment,18,27,stimuli/sentence_images/apartment/sentence1.jpg,stimuli/noise_images/apartment/noise1.jpg
+115,Apartment,2,This apartment floor is under renovation.,apartment,5,14,stimuli/sentence_images/apartment/sentence2.jpg,stimuli/noise_images/apartment/noise2.jpg
+115,Apartment,3,This apartment doesn't have a big kitchen.,apartment,5,14,stimuli/sentence_images/apartment/sentence3.jpg,stimuli/noise_images/apartment/noise3.jpg
+115,Apartment,4,Parts of the apartment are ladder accessible.,apartment,13,22,stimuli/sentence_images/apartment/sentence4.jpg,stimuli/noise_images/apartment/noise4.jpg
+115,Apartment,5,The long hallway in the apartment is skinny.,apartment,24,33,stimuli/sentence_images/apartment/sentence5.jpg,stimuli/noise_images/apartment/noise5.jpg
+115,Apartment,6,The apartment has cute little nooks.,apartment,4,13,stimuli/sentence_images/apartment/sentence6.jpg,stimuli/noise_images/apartment/noise6.jpg
+116,Building,1,The building used to be a theater.,building,4,12,stimuli/sentence_images/building/sentence1.jpg,stimuli/noise_images/building/noise1.jpg
+116,Building,2,The library building is pretty old.,building,12,20,stimuli/sentence_images/building/sentence2.jpg,stimuli/noise_images/building/noise2.jpg
+116,Building,3,The building is a mansion for themselves.,building,4,12,stimuli/sentence_images/building/sentence3.jpg,stimuli/noise_images/building/noise3.jpg
+116,Building,4,There's a mousetrap in the building entrance.,building,27,35,stimuli/sentence_images/building/sentence4.jpg,stimuli/noise_images/building/noise4.jpg
+116,Building,5,The skyscraper is the city's newest building.,building,36,44,stimuli/sentence_images/building/sentence5.jpg,stimuli/noise_images/building/noise5.jpg
+116,Building,6,The mosque is the lowest building there.,building,25,33,stimuli/sentence_images/building/sentence6.jpg,stimuli/noise_images/building/noise6.jpg
+117,Dangerous,1,The punishment was dangerous and cruel.,dangerous,19,28,stimuli/sentence_images/dangerous/sentence1.jpg,stimuli/noise_images/dangerous/noise1.jpg
+117,Dangerous,2,Climbing that dangerous bridge is boneheaded.,dangerous,14,23,stimuli/sentence_images/dangerous/sentence2.jpg,stimuli/noise_images/dangerous/noise2.jpg
+117,Dangerous,3,Aggravating the president is unpatriotic and dangerous.,dangerous,45,54,stimuli/sentence_images/dangerous/sentence3.jpg,stimuli/noise_images/dangerous/noise3.jpg
+117,Dangerous,4,It's unwise and dangerous to take it on.,dangerous,16,25,stimuli/sentence_images/dangerous/sentence4.jpg,stimuli/noise_images/dangerous/noise4.jpg
+117,Dangerous,5,The dangerous monster smelled atrociously.,dangerous,4,13,stimuli/sentence_images/dangerous/sentence5.jpg,stimuli/noise_images/dangerous/noise5.jpg
+117,Dangerous,6,These dangerous conditions are unacceptable.,dangerous,6,15,stimuli/sentence_images/dangerous/sentence6.jpg,stimuli/noise_images/dangerous/noise6.jpg
+118,Gold,1,I want a gold watch for my thirtieth.,gold,9,13,stimuli/sentence_images/gold/sentence1.jpg,stimuli/noise_images/gold/noise1.jpg
+118,Gold,2,The yellow gold shines brightly in the sun.,gold,11,15,stimuli/sentence_images/gold/sentence2.jpg,stimuli/noise_images/gold/noise2.jpg
+118,Gold,3,He eventually chose the gold ring.,gold,24,28,stimuli/sentence_images/gold/sentence3.jpg,stimuli/noise_images/gold/noise3.jpg
+118,Gold,4,The horseshoe has pink and gold accents.,gold,27,31,stimuli/sentence_images/gold/sentence4.jpg,stimuli/noise_images/gold/noise4.jpg
+118,Gold,5,The glittering gold is breathtaking.,gold,15,19,stimuli/sentence_images/gold/sentence5.jpg,stimuli/noise_images/gold/noise5.jpg
+118,Gold,6,The paperweight was made of gold.,gold,28,32,stimuli/sentence_images/gold/sentence6.jpg,stimuli/noise_images/gold/noise6.jpg
+119,Typical,1,It was typical for him to rely on her.,typical,7,14,stimuli/sentence_images/typical/sentence1.jpg,stimuli/noise_images/typical/noise1.jpg
+119,Typical,2,It is typical for him to seem peculiar.,typical,6,13,stimuli/sentence_images/typical/sentence2.jpg,stimuli/noise_images/typical/noise2.jpg
+119,Typical,3,It is typical for her to include him.,typical,6,13,stimuli/sentence_images/typical/sentence3.jpg,stimuli/noise_images/typical/noise3.jpg
+119,Typical,4,She assumed that this weather is typical.,typical,33,40,stimuli/sentence_images/typical/sentence4.jpg,stimuli/noise_images/typical/noise4.jpg
+119,Typical,5,He prefers the typical and conventional.,typical,15,22,stimuli/sentence_images/typical/sentence5.jpg,stimuli/noise_images/typical/noise5.jpg
+119,Typical,6,She's accustomed to a more typical interaction.,typical,27,34,stimuli/sentence_images/typical/sentence6.jpg,stimuli/noise_images/typical/noise6.jpg
+120,Law,1,The law would act to her benefit.,law,4,7,stimuli/sentence_images/law/sentence1.jpg,stimuli/noise_images/law/noise1.jpg
+120,Law,2,He will enforce the law if she breaks it.,law,20,23,stimuli/sentence_images/law/sentence2.jpg,stimuli/noise_images/law/noise2.jpg
+120,Law,3,The applicability of the law is murky.,law,25,28,stimuli/sentence_images/law/sentence3.jpg,stimuli/noise_images/law/noise3.jpg
+120,Law,4,House arrest is a law-imposed restriction.,law,18,21,stimuli/sentence_images/law/sentence4.jpg,stimuli/noise_images/law/noise4.jpg
+120,Law,5,A new law doesn't work retroactively.,law,6,9,stimuli/sentence_images/law/sentence5.jpg,stimuli/noise_images/law/noise5.jpg
+120,Law,6,All I want is to overturn that law.,law,31,34,stimuli/sentence_images/law/sentence6.jpg,stimuli/noise_images/law/noise6.jpg
+121,Skin,1,The skin on her face turns red in the sun.,skin,4,8,stimuli/sentence_images/skin/sentence1.jpg,stimuli/noise_images/skin/noise1.jpg
+121,Skin,2,Shaving your skin makes it smoother.,skin,13,17,stimuli/sentence_images/skin/sentence2.jpg,stimuli/noise_images/skin/noise2.jpg
+121,Skin,3,Her skin is prone to a pimple or two.,skin,4,8,stimuli/sentence_images/skin/sentence3.jpg,stimuli/noise_images/skin/noise3.jpg
+121,Skin,4,Tanning your skin artificially causes cancer.,skin,13,17,stimuli/sentence_images/skin/sentence4.jpg,stimuli/noise_images/skin/noise4.jpg
+121,Skin,5,The fragrance of his skin was delightful.,skin,21,25,stimuli/sentence_images/skin/sentence5.jpg,stimuli/noise_images/skin/noise5.jpg
+121,Skin,6,A vampire's skin can shimmer in the sun.,skin,12,16,stimuli/sentence_images/skin/sentence6.jpg,stimuli/noise_images/skin/noise6.jpg
+122,Music,1,This song is like her favorite of music.,music,34,39,stimuli/sentence_images/music/sentence1.jpg,stimuli/noise_images/music/noise1.jpg
+122,Music,2,The orchestra plays beautiful music.,music,30,35,stimuli/sentence_images/music/sentence2.jpg,stimuli/noise_images/music/noise2.jpg
+122,Music,3,"I can't improvise music, unfortunately.",music,18,23,stimuli/sentence_images/music/sentence3.jpg,stimuli/noise_images/music/noise3.jpg
+122,Music,4,The performer forgot his sheet music.,music,31,36,stimuli/sentence_images/music/sentence4.jpg,stimuli/noise_images/music/noise4.jpg
+122,Music,5,Karaoke is not the place for good music.,music,34,39,stimuli/sentence_images/music/sentence5.jpg,stimuli/noise_images/music/noise5.jpg
+122,Music,6,Elevator music is usually instrumental.,music,9,14,stimuli/sentence_images/music/sentence6.jpg,stimuli/noise_images/music/noise6.jpg
+123,Hurting,1,Her nose is still hurting after the fall.,hurting,18,25,stimuli/sentence_images/hurting/sentence1.jpg,stimuli/noise_images/hurting/noise1.jpg
+123,Hurting,2,His tooth was hurting after practice.,hurting,14,21,stimuli/sentence_images/hurting/sentence2.jpg,stimuli/noise_images/hurting/noise2.jpg
+123,Hurting,3,Hurting her hip was the worst outcome.,Hurting,0,7,stimuli/sentence_images/hurting/sentence3.jpg,stimuli/noise_images/hurting/noise3.jpg
+123,Hurting,4,The child's bony bottom is hurting her lap.,hurting,27,34,stimuli/sentence_images/hurting/sentence4.jpg,stimuli/noise_images/hurting/noise4.jpg
+123,Hurting,5,The prosthetic arm was hurting her.,hurting,23,30,stimuli/sentence_images/hurting/sentence5.jpg,stimuli/noise_images/hurting/noise5.jpg
+123,Hurting,6,Her pelvis was hurting tremendously.,hurting,15,22,stimuli/sentence_images/hurting/sentence6.jpg,stimuli/noise_images/hurting/noise6.jpg
+124,Left,1,His remains were left on the battlefield.,left,17,21,stimuli/sentence_images/left/sentence1.jpg,stimuli/noise_images/left/noise1.jpg
+124,Left,2,The child was thankfully left unharmed.,left,25,29,stimuli/sentence_images/left/sentence2.jpg,stimuli/noise_images/left/noise2.jpg
+124,Left,3,The turkey was left from November.,left,15,19,stimuli/sentence_images/left/sentence3.jpg,stimuli/noise_images/left/noise3.jpg
+124,Left,4,She was left undecided after hearing him out.,left,8,12,stimuli/sentence_images/left/sentence4.jpg,stimuli/noise_images/left/noise4.jpg
+124,Left,5,He was left feeling unnoticed.,left,7,11,stimuli/sentence_images/left/sentence5.jpg,stimuli/noise_images/left/noise5.jpg
+124,Left,6,His question was left unanswered.,left,17,21,stimuli/sentence_images/left/sentence6.jpg,stimuli/noise_images/left/noise6.jpg
+125,War,1,The army was willing to lose the war.,war,33,36,stimuli/sentence_images/war/sentence1.jpg,stimuli/noise_images/war/noise1.jpg
+125,War,2,The camp is not safe from the war.,war,30,33,stimuli/sentence_images/war/sentence2.jpg,stimuli/noise_images/war/noise2.jpg
+125,War,3,The soldier was sent to war.,war,24,27,stimuli/sentence_images/war/sentence3.jpg,stimuli/noise_images/war/noise3.jpg
+125,War,4,He did not want to know of any war casualty.,war,31,34,stimuli/sentence_images/war/sentence4.jpg,stimuli/noise_images/war/noise4.jpg
+125,War,5,You can rebel against a war.,war,24,27,stimuli/sentence_images/war/sentence5.jpg,stimuli/noise_images/war/noise5.jpg
+125,War,6,The battlefield of the war grew quickly.,war,23,26,stimuli/sentence_images/war/sentence6.jpg,stimuli/noise_images/war/noise6.jpg
+126,Personality,1,His personality changes with his stress.,personality,4,15,stimuli/sentence_images/personality/sentence1.jpg,stimuli/noise_images/personality/noise1.jpg
+126,Personality,2,His personality is just compulsive.,personality,4,15,stimuli/sentence_images/personality/sentence2.jpg,stimuli/noise_images/personality/noise2.jpg
+126,Personality,3,Her subconscious impacted her personality.,personality,30,41,stimuli/sentence_images/personality/sentence3.jpg,stimuli/noise_images/personality/noise3.jpg
+126,Personality,4,He has borderline personality disorder.,personality,18,29,stimuli/sentence_images/personality/sentence4.jpg,stimuli/noise_images/personality/noise4.jpg
+126,Personality,5,His personality brought down her mood.,personality,4,15,stimuli/sentence_images/personality/sentence5.jpg,stimuli/noise_images/personality/noise5.jpg
+126,Personality,6,That overt trait is part of her personality.,personality,32,43,stimuli/sentence_images/personality/sentence6.jpg,stimuli/noise_images/personality/noise6.jpg
+127,Impress,1,You impress the unsuspecting countess.,impress,4,11,stimuli/sentence_images/impress/sentence1.jpg,stimuli/noise_images/impress/noise1.jpg
+127,Impress,2,Don't terrify her but impress her.,impress,22,29,stimuli/sentence_images/impress/sentence2.jpg,stimuli/noise_images/impress/noise2.jpg
+127,Impress,3,Misdirect his attention to impress him.,impress,27,34,stimuli/sentence_images/impress/sentence3.jpg,stimuli/noise_images/impress/noise3.jpg
+127,Impress,4,Titillate his interests to impress him.,impress,27,34,stimuli/sentence_images/impress/sentence4.jpg,stimuli/noise_images/impress/noise4.jpg
+127,Impress,5,Try to impress or astonish him!,impress,7,14,stimuli/sentence_images/impress/sentence5.jpg,stimuli/noise_images/impress/noise5.jpg
+127,Impress,6,You will mesmerize and impress your audience.,impress,23,30,stimuli/sentence_images/impress/sentence6.jpg,stimuli/noise_images/impress/noise6.jpg
+128,Job,1,For her job she works as a cashier.,job,8,11,stimuli/sentence_images/job/sentence1.jpg,stimuli/noise_images/job/noise1.jpg
+128,Job,2,The coordinator's job is to organize.,job,18,21,stimuli/sentence_images/job/sentence2.jpg,stimuli/noise_images/job/noise2.jpg
+128,Job,3,Recruitment season is a time to get a job.,job,38,41,stimuli/sentence_images/job/sentence3.jpg,stimuli/noise_images/job/noise3.jpg
+128,Job,4,The job position recently closed.,job,4,7,stimuli/sentence_images/job/sentence4.jpg,stimuli/noise_images/job/noise4.jpg
+128,Job,5,The manager wanted to give up his job.,job,34,37,stimuli/sentence_images/job/sentence5.jpg,stimuli/noise_images/job/noise5.jpg
+128,Job,6,This month the job is under supervision.,job,15,18,stimuli/sentence_images/job/sentence6.jpg,stimuli/noise_images/job/noise6.jpg
+129,Read,1,I can't read that whole book.,read,8,12,stimuli/sentence_images/read/sentence1.jpg,stimuli/noise_images/read/noise1.jpg
+129,Read,2,She read the information online.,read,4,8,stimuli/sentence_images/read/sentence2.jpg,stimuli/noise_images/read/noise2.jpg
+129,Read,3,The title was too long to read.,read,26,30,stimuli/sentence_images/read/sentence3.jpg,stimuli/noise_images/read/noise3.jpg
+129,Read,4,Half of the literature she reads is medieval.,reads,27,32,stimuli/sentence_images/read/sentence4.jpg,stimuli/noise_images/read/noise4.jpg
+129,Read,5,He didn't read up on any of the relevant topics.,read,10,14,stimuli/sentence_images/read/sentence5.jpg,stimuli/noise_images/read/noise5.jpg
+129,Read,6,He read the documentation of the case.,read,3,7,stimuli/sentence_images/read/sentence6.jpg,stimuli/noise_images/read/noise6.jpg
+130,Election,1,The election took place at the meeting.,election,4,12,stimuli/sentence_images/election/sentence1.jpg,stimuli/noise_images/election/noise1.jpg
+130,Election,2,The council has an election next spring.,election,19,27,stimuli/sentence_images/election/sentence2.jpg,stimuli/noise_images/election/noise2.jpg
+130,Election,3,The candidate was up for election.,election,25,33,stimuli/sentence_images/election/sentence3.jpg,stimuli/noise_images/election/noise3.jpg
+130,Election,4,The poll was swarmed for the election.,election,29,37,stimuli/sentence_images/election/sentence4.jpg,stimuli/noise_images/election/noise4.jpg
+130,Election,5,The nomination for election was an honor.,election,19,27,stimuli/sentence_images/election/sentence5.jpg,stimuli/noise_images/election/noise5.jpg
+130,Election,6,The councilman will stay for the election.,election,33,41,stimuli/sentence_images/election/sentence6.jpg,stimuli/noise_images/election/noise6.jpg
+131,Stupid,1,That guy is so stupid and such a fool.,stupid,15,21,stimuli/sentence_images/stupid/sentence1.jpg,stimuli/noise_images/stupid/noise1.jpg
+131,Stupid,2,The stupid secretary is just incompetent.,stupid,4,10,stimuli/sentence_images/stupid/sentence2.jpg,stimuli/noise_images/stupid/noise2.jpg
+131,Stupid,3,He said a bunch of stupid baloney.,stupid,19,25,stimuli/sentence_images/stupid/sentence3.jpg,stimuli/noise_images/stupid/noise3.jpg
+131,Stupid,4,Good riddance to that stupid project!,stupid,22,28,stimuli/sentence_images/stupid/sentence4.jpg,stimuli/noise_images/stupid/noise4.jpg
+131,Stupid,5,The stupid lowlife walked right out.,stupid,4,10,stimuli/sentence_images/stupid/sentence5.jpg,stimuli/noise_images/stupid/noise5.jpg
+131,Stupid,6,"She calls him a jackass, I think he's stupid.",stupid,38,44,stimuli/sentence_images/stupid/sentence6.jpg,stimuli/noise_images/stupid/noise6.jpg
+132,Sound,1,The sound of her voice will resonate.,sound,4,9,stimuli/sentence_images/sound/sentence1.jpg,stimuli/noise_images/sound/noise1.jpg
+132,Sound,2,The microphone wasn't producing any sound.,sound,36,41,stimuli/sentence_images/sound/sentence2.jpg,stimuli/noise_images/sound/noise2.jpg
+132,Sound,3,The speakerphone has a great sound quality.,sound,29,34,stimuli/sentence_images/sound/sentence3.jpg,stimuli/noise_images/sound/noise3.jpg
+132,Sound,4,That sound came from the keyboard.,sound,5,10,stimuli/sentence_images/sound/sentence4.jpg,stimuli/noise_images/sound/noise4.jpg
+132,Sound,5,His sound was on mute.,sound,4,9,stimuli/sentence_images/sound/sentence5.jpg,stimuli/noise_images/sound/noise5.jpg
+132,Sound,6,She's broadcasting the sound across the field.,sound,23,28,stimuli/sentence_images/sound/sentence6.jpg,stimuli/noise_images/sound/noise6.jpg
+133,Help,1,Someone had to help her replace the engine.,help,15,19,stimuli/sentence_images/help/sentence1.jpg,stimuli/noise_images/help/noise1.jpg
+133,Help,2,You can't recover without a doctor to help you.,help,38,42,stimuli/sentence_images/help/sentence2.jpg,stimuli/noise_images/help/noise2.jpg
+133,Help,3,Stimulate the area to help it wake up.,help,22,26,stimuli/sentence_images/help/sentence3.jpg,stimuli/noise_images/help/noise3.jpg
+133,Help,4,Please clarify how I can help.,help,25,29,stimuli/sentence_images/help/sentence4.jpg,stimuli/noise_images/help/noise4.jpg
+133,Help,5,You will stabilize if you let him help you.,help,34,38,stimuli/sentence_images/help/sentence5.jpg,stimuli/noise_images/help/noise5.jpg
+133,Help,6,Reinforce the idea that help is good.,help,24,28,stimuli/sentence_images/help/sentence6.jpg,stimuli/noise_images/help/noise6.jpg
+134,Blood,1,She was bleeding and lost a lot of blood.,blood,35,40,stimuli/sentence_images/blood/sentence1.jpg,stimuli/noise_images/blood/noise1.jpg
+134,Blood,2,The blood circulation in her legs is bad.,blood,4,9,stimuli/sentence_images/blood/sentence2.jpg,stimuli/noise_images/blood/noise2.jpg
+134,Blood,3,Blood began to fill the wound.,Blood,0,5,stimuli/sentence_images/blood/sentence3.jpg,stimuli/noise_images/blood/noise3.jpg
+134,Blood,4,Blood spurted out of the rupture.,Blood,0,5,stimuli/sentence_images/blood/sentence4.jpg,stimuli/noise_images/blood/noise4.jpg
+134,Blood,5,Blood flows through the major artery.,Blood,0,5,stimuli/sentence_images/blood/sentence5.jpg,stimuli/noise_images/blood/noise5.jpg
+134,Blood,6,Blood looks blue through our skin.,Blood,0,5,stimuli/sentence_images/blood/sentence6.jpg,stimuli/noise_images/blood/noise6.jpg
+135,Wear,1,She wanted to wear a dress tonight.,wear,14,18,stimuli/sentence_images/wear/sentence1.jpg,stimuli/noise_images/wear/noise1.jpg
+135,Wear,2,When you wear silk you have to be careful.,wear,9,13,stimuli/sentence_images/wear/sentence2.jpg,stimuli/noise_images/wear/noise2.jpg
+135,Wear,3,I want to wear a handkerchief tonight.,wear,10,14,stimuli/sentence_images/wear/sentence3.jpg,stimuli/noise_images/wear/noise3.jpg
+135,Wear,4,I can't wear this unbuttoned to meet his parents.,wear,8,12,stimuli/sentence_images/wear/sentence4.jpg,stimuli/noise_images/wear/noise4.jpg
+135,Wear,5,I'll scream if you wear bloomers again.,wear,19,23,stimuli/sentence_images/wear/sentence5.jpg,stimuli/noise_images/wear/noise5.jpg
+135,Wear,6,I like to wear sheath-like material.,wear,10,14,stimuli/sentence_images/wear/sentence6.jpg,stimuli/noise_images/wear/noise6.jpg
+136,Picture,1,The picture was sketched on paper.,picture,4,11,stimuli/sentence_images/picture/sentence1.jpg,stimuli/noise_images/picture/noise1.jpg
+136,Picture,2,He will scribble a picture for you.,picture,19,26,stimuli/sentence_images/picture/sentence2.jpg,stimuli/noise_images/picture/noise2.jpg
+136,Picture,3,Printing a picture is harder than it seems.,picture,11,18,stimuli/sentence_images/picture/sentence3.jpg,stimuli/noise_images/picture/noise3.jpg
+136,Picture,4,Draw the picture in ink.,picture,9,16,stimuli/sentence_images/picture/sentence4.jpg,stimuli/noise_images/picture/noise4.jpg
+136,Picture,5,Picture is another word for a photograph.,Picture,0,7,stimuli/sentence_images/picture/sentence5.jpg,stimuli/noise_images/picture/noise5.jpg
+136,Picture,6,The letter contained a picture.,picture,23,30,stimuli/sentence_images/picture/sentence6.jpg,stimuli/noise_images/picture/noise6.jpg
+137,Flow,1,Hot air would flow out from the heater.,flow,14,18,stimuli/sentence_images/flow/sentence1.jpg,stimuli/noise_images/flow/noise1.jpg
+137,Flow,2,The water flow reminds him to pay his rent.,flow,10,14,stimuli/sentence_images/flow/sentence2.jpg,stimuli/noise_images/flow/noise2.jpg
+137,Flow,3,The leak disrupted the flow.,flow,23,27,stimuli/sentence_images/flow/sentence3.jpg,stimuli/noise_images/flow/noise3.jpg
+137,Flow,4,The spout has a shape that inhibits flow.,flow,36,40,stimuli/sentence_images/flow/sentence4.jpg,stimuli/noise_images/flow/noise4.jpg
+137,Flow,5,A liter of water will flow out of the canister.,flow,22,26,stimuli/sentence_images/flow/sentence5.jpg,stimuli/noise_images/flow/noise5.jpg
+137,Flow,6,The turbine relies on a steady flow.,flow,31,35,stimuli/sentence_images/flow/sentence6.jpg,stimuli/noise_images/flow/noise6.jpg
+138,Mathematical,1,It's a random mathematical expression to me.,mathematical,14,26,stimuli/sentence_images/mathematical/sentence1.jpg,stimuli/noise_images/mathematical/noise1.jpg
+138,Mathematical,2,Calculus is a type of mathematical study.,mathematical,22,34,stimuli/sentence_images/mathematical/sentence2.jpg,stimuli/noise_images/mathematical/noise2.jpg
+138,Mathematical,3,The mathematical simulation made the point.,mathematical,4,16,stimuli/sentence_images/mathematical/sentence3.jpg,stimuli/noise_images/mathematical/noise3.jpg
+138,Mathematical,4,The course has a mathematical classification.,mathematical,17,29,stimuli/sentence_images/mathematical/sentence4.jpg,stimuli/noise_images/mathematical/noise4.jpg
+138,Mathematical,5,Mathematical formulas use arbitrary variables.,Mathematical,0,12,stimuli/sentence_images/mathematical/sentence5.jpg,stimuli/noise_images/mathematical/noise5.jpg
+138,Mathematical,6,These generalizations are mathematical in nature.,mathematical,26,38,stimuli/sentence_images/mathematical/sentence6.jpg,stimuli/noise_images/mathematical/noise6.jpg
+139,Brain,1,The human brain still amazes us today.,brain,10,15,stimuli/sentence_images/brain/sentence1.jpg,stimuli/noise_images/brain/noise1.jpg
+139,Brain,2,The brain is made up of cells.,brain,4,9,stimuli/sentence_images/brain/sentence2.jpg,stimuli/noise_images/brain/noise2.jpg
+139,Brain,3,The brain has no nerve endings.,brain,4,9,stimuli/sentence_images/brain/sentence3.jpg,stimuli/noise_images/brain/noise3.jpg
+139,Brain,4,A neuron is the fundamental unit of the brain.,brain,40,45,stimuli/sentence_images/brain/sentence4.jpg,stimuli/noise_images/brain/noise4.jpg
+139,Brain,5,Neuroscientists research the brain functions.,brain,29,34,stimuli/sentence_images/brain/sentence5.jpg,stimuli/noise_images/brain/noise5.jpg
+139,Brain,6,The oldest brain is the cerebellum.,brain,11,16,stimuli/sentence_images/brain/sentence6.jpg,stimuli/noise_images/brain/noise6.jpg
+140,Land,1,This piece of land borders two countries.,land,14,18,stimuli/sentence_images/land/sentence1.jpg,stimuli/noise_images/land/noise1.jpg
+140,Land,2,The island consists of uninhabitable land.,land,37,41,stimuli/sentence_images/land/sentence2.jpg,stimuli/noise_images/land/noise2.jpg
+140,Land,3,A fence marks the border of his land.,land,32,36,stimuli/sentence_images/land/sentence3.jpg,stimuli/noise_images/land/noise3.jpg
+140,Land,4,This land is his refuge.,land,5,9,stimuli/sentence_images/land/sentence4.jpg,stimuli/noise_images/land/noise4.jpg
+140,Land,5,"In a faraway land, people live differently.",land,13,17,stimuli/sentence_images/land/sentence5.jpg,stimuli/noise_images/land/noise5.jpg
+140,Land,6,A swamp shouldn't be classified as land.,land,35,39,stimuli/sentence_images/land/sentence6.jpg,stimuli/noise_images/land/noise6.jpg
+141,Damage,1,The accident left some serious damage.,damage,31,37,stimuli/sentence_images/damage/sentence1.jpg,stimuli/noise_images/damage/noise1.jpg
+141,Damage,2,The snow's impact required damage control.,damage,27,33,stimuli/sentence_images/damage/sentence2.jpg,stimuli/noise_images/damage/noise2.jpg
+141,Damage,3,The possibility of damage made her nervous.,damage,19,25,stimuli/sentence_images/damage/sentence3.jpg,stimuli/noise_images/damage/noise3.jpg
+141,Damage,4,The storm caused inevitable damage.,damage,28,34,stimuli/sentence_images/damage/sentence4.jpg,stimuli/noise_images/damage/noise4.jpg
+141,Damage,5,The flood caused severe damage.,damage,24,30,stimuli/sentence_images/damage/sentence5.jpg,stimuli/noise_images/damage/noise5.jpg
+141,Damage,6,There is an unexpected amount of damage.,damage,33,39,stimuli/sentence_images/damage/sentence6.jpg,stimuli/noise_images/damage/noise6.jpg
+142,Religious,1,Religious people often go to church.,Religious,0,9,stimuli/sentence_images/religious/sentence1.jpg,stimuli/noise_images/religious/noise1.jpg
+142,Religious,2,Religious people often pray.,Religious,0,9,stimuli/sentence_images/religious/sentence2.jpg,stimuli/noise_images/religious/noise2.jpg
+142,Religious,3,"A religious man, he gave a prayer.",religious,2,11,stimuli/sentence_images/religious/sentence3.jpg,stimuli/noise_images/religious/noise3.jpg
+142,Religious,4,A missionary is religious by definition.,religious,16,25,stimuli/sentence_images/religious/sentence4.jpg,stimuli/noise_images/religious/noise4.jpg
+142,Religious,5,They perform religious practice at the chapel.,religious,13,22,stimuli/sentence_images/religious/sentence5.jpg,stimuli/noise_images/religious/noise5.jpg
+142,Religious,6,The religious man was pious.,religious,4,13,stimuli/sentence_images/religious/sentence6.jpg,stimuli/noise_images/religious/noise6.jpg
+143,Relationship,1,Their relationship began as an affair.,relationship,6,18,stimuli/sentence_images/relationship/sentence1.jpg,stimuli/noise_images/relationship/noise1.jpg
+143,Relationship,2,The couple recently labeled its relationship.,relationship,32,44,stimuli/sentence_images/relationship/sentence2.jpg,stimuli/noise_images/relationship/noise2.jpg
+143,Relationship,3,Intimacy is gained in a relationship.,relationship,24,36,stimuli/sentence_images/relationship/sentence3.jpg,stimuli/noise_images/relationship/noise3.jpg
+143,Relationship,4,The brother's relationship was chummy.,relationship,14,26,stimuli/sentence_images/relationship/sentence4.jpg,stimuli/noise_images/relationship/noise4.jpg
+143,Relationship,5,Her parents' relationship is harmonious.,relationship,13,25,stimuli/sentence_images/relationship/sentence5.jpg,stimuli/noise_images/relationship/noise5.jpg
+143,Relationship,6,Their working relationship was amicable.,relationship,14,26,stimuli/sentence_images/relationship/sentence6.jpg,stimuli/noise_images/relationship/noise6.jpg
+144,Tree,1,The apple tree bore fruit in the spring.,tree,10,14,stimuli/sentence_images/tree/sentence1.jpg,stimuli/noise_images/tree/noise1.jpg
+144,Tree,2,The orange tree provides bountiful produce.,tree,11,15,stimuli/sentence_images/tree/sentence2.jpg,stimuli/noise_images/tree/noise2.jpg
+144,Tree,3,The tree smelled like spearmint.,tree,4,8,stimuli/sentence_images/tree/sentence3.jpg,stimuli/noise_images/tree/noise3.jpg
+144,Tree,4,The sandalwood tree is yellow.,tree,15,19,stimuli/sentence_images/tree/sentence4.jpg,stimuli/noise_images/tree/noise4.jpg
+144,Tree,5,A hemlock is a kind of tree.,tree,23,27,stimuli/sentence_images/tree/sentence5.jpg,stimuli/noise_images/tree/noise5.jpg
+144,Tree,6,The twig broke off of the tree.,tree,26,30,stimuli/sentence_images/tree/sentence6.jpg,stimuli/noise_images/tree/noise6.jpg
+145,Accomplished,1,The accomplished writer loves to read.,accomplished,4,16,stimuli/sentence_images/accomplished/sentence1.jpg,stimuli/noise_images/accomplished/noise1.jpg
+145,Accomplished,2,The accomplished producer is well respected.,accomplished,4,16,stimuli/sentence_images/accomplished/sentence2.jpg,stimuli/noise_images/accomplished/noise2.jpg
+145,Accomplished,3,The playwright wanted to be accomplished.,accomplished,28,40,stimuli/sentence_images/accomplished/sentence3.jpg,stimuli/noise_images/accomplished/noise3.jpg
+145,Accomplished,4,The accomplished choreographer waits alone.,accomplished,4,16,stimuli/sentence_images/accomplished/sentence4.jpg,stimuli/noise_images/accomplished/noise4.jpg
+145,Accomplished,5,The thinker became accomplished later on.,accomplished,19,31,stimuli/sentence_images/accomplished/sentence5.jpg,stimuli/noise_images/accomplished/noise5.jpg
+145,Accomplished,6,The accomplished publicist has many clients.,accomplished,4,16,stimuli/sentence_images/accomplished/sentence6.jpg,stimuli/noise_images/accomplished/noise6.jpg
+146,Quality,1,The shopkeeper will guarantee good quality.,quality,35,42,stimuli/sentence_images/quality/sentence1.jpg,stimuli/noise_images/quality/noise1.jpg
+146,Quality,2,The performance quality sells the shows out.,quality,16,23,stimuli/sentence_images/quality/sentence2.jpg,stimuli/noise_images/quality/noise2.jpg
+146,Quality,3,He was a stickler for good quality.,quality,27,34,stimuli/sentence_images/quality/sentence3.jpg,stimuli/noise_images/quality/noise3.jpg
+146,Quality,4,Their standard of quality is higher than yours.,quality,18,25,stimuli/sentence_images/quality/sentence4.jpg,stimuli/noise_images/quality/noise4.jpg
+146,Quality,5,Maintaining quality of produce is hard.,quality,12,19,stimuli/sentence_images/quality/sentence5.jpg,stimuli/noise_images/quality/noise5.jpg
+146,Quality,6,Cleanliness is the first decree in quality.,quality,35,42,stimuli/sentence_images/quality/sentence6.jpg,stimuli/noise_images/quality/noise6.jpg
+147,Dinner,1,Her lunch is often leftovers from dinner.,dinner,34,40,stimuli/sentence_images/dinner/sentence1.jpg,stimuli/noise_images/dinner/noise1.jpg
+147,Dinner,2,He wanted a sandwich for dinner.,dinner,25,31,stimuli/sentence_images/dinner/sentence2.jpg,stimuli/noise_images/dinner/noise2.jpg
+147,Dinner,3,Noodles from dinner were on the table.,dinner,13,19,stimuli/sentence_images/dinner/sentence3.jpg,stimuli/noise_images/dinner/noise3.jpg
+147,Dinner,4,Fondue for dinner is her favorite.,dinner,11,17,stimuli/sentence_images/dinner/sentence4.jpg,stimuli/noise_images/dinner/noise4.jpg
+147,Dinner,5,I would like to serve dinner now.,dinner,22,28,stimuli/sentence_images/dinner/sentence5.jpg,stimuli/noise_images/dinner/noise5.jpg
+147,Dinner,6,The dinner was super yummy.,dinner,4,10,stimuli/sentence_images/dinner/sentence6.jpg,stimuli/noise_images/dinner/noise6.jpg
+148,Pain,1,She could get no relief from the pain.,pain,33,37,stimuli/sentence_images/pain/sentence1.jpg,stimuli/noise_images/pain/noise1.jpg
+148,Pain,2,The simple irritation became intense pain.,pain,37,41,stimuli/sentence_images/pain/sentence2.jpg,stimuli/noise_images/pain/noise2.jpg
+148,Pain,3,Her migraine caused her pain.,pain,24,28,stimuli/sentence_images/pain/sentence3.jpg,stimuli/noise_images/pain/noise3.jpg
+148,Pain,4,A nosebleed usually doesn't cause you pain.,pain,38,42,stimuli/sentence_images/pain/sentence4.jpg,stimuli/noise_images/pain/noise4.jpg
+148,Pain,5,She had some bruising but felt no pain.,pain,34,38,stimuli/sentence_images/pain/sentence5.jpg,stimuli/noise_images/pain/noise5.jpg
+148,Pain,6,The pain from the stomachache is unbearable.,pain,4,8,stimuli/sentence_images/pain/sentence6.jpg,stimuli/noise_images/pain/noise6.jpg
+149,Fight,1,The first sword swing began the fight.,fight,32,37,stimuli/sentence_images/fight/sentence1.jpg,stimuli/noise_images/fight/noise1.jpg
+149,Fight,2,The beat started the fight.,fight,21,26,stimuli/sentence_images/fight/sentence2.jpg,stimuli/noise_images/fight/noise2.jpg
+149,Fight,3,The goblin fled from the fight.,fight,25,30,stimuli/sentence_images/fight/sentence3.jpg,stimuli/noise_images/fight/noise3.jpg
+149,Fight,4,The gladiator did not want to fight.,fight,30,35,stimuli/sentence_images/fight/sentence4.jpg,stimuli/noise_images/fight/noise4.jpg
+149,Fight,5,Her bloodline was worth the fight.,fight,28,33,stimuli/sentence_images/fight/sentence5.jpg,stimuli/noise_images/fight/noise5.jpg
+149,Fight,6,The warlock put up a good fight.,fight,26,31,stimuli/sentence_images/fight/sentence6.jpg,stimuli/noise_images/fight/noise6.jpg
+150,Obligation,1,Her obligation made her liable.,obligation,4,14,stimuli/sentence_images/obligation/sentence1.jpg,stimuli/noise_images/obligation/noise1.jpg
+150,Obligation,2,The reserved man made privacy an obligation.,obligation,33,43,stimuli/sentence_images/obligation/sentence2.jpg,stimuli/noise_images/obligation/noise2.jpg
+150,Obligation,3,The contract outlined their obligation.,obligation,28,38,stimuli/sentence_images/obligation/sentence3.jpg,stimuli/noise_images/obligation/noise3.jpg
+150,Obligation,4,The obligation was harmless.,obligation,4,14,stimuli/sentence_images/obligation/sentence4.jpg,stimuli/noise_images/obligation/noise4.jpg
+150,Obligation,5,The stockholder has an obligation to stay.,obligation,23,33,stimuli/sentence_images/obligation/sentence5.jpg,stimuli/noise_images/obligation/noise5.jpg
+150,Obligation,6,His boss refused to disclose the obligation.,obligation,33,43,stimuli/sentence_images/obligation/sentence6.jpg,stimuli/noise_images/obligation/noise6.jpg
+151,Light,1,The morning light was clear today.,light,12,17,stimuli/sentence_images/light/sentence1.jpg,stimuli/noise_images/light/noise1.jpg
+151,Light,2,The light from the window hurt her eyes.,light,4,9,stimuli/sentence_images/light/sentence2.jpg,stimuli/noise_images/light/noise2.jpg
+151,Light,3,There isn't much light during dusk.,light,17,22,stimuli/sentence_images/light/sentence3.jpg,stimuli/noise_images/light/noise3.jpg
+151,Light,4,The light is so bright that he has to squint.,light,4,9,stimuli/sentence_images/light/sentence4.jpg,stimuli/noise_images/light/noise4.jpg
+151,Light,5,The storm clouds were clouding the light.,light,35,40,stimuli/sentence_images/light/sentence5.jpg,stimuli/noise_images/light/noise5.jpg
+151,Light,6,The light reflected off of the window.,light,4,9,stimuli/sentence_images/light/sentence6.jpg,stimuli/noise_images/light/noise6.jpg
+152,Disease,1,Heart disease is common in the U.S.,disease,6,13,stimuli/sentence_images/disease/sentence1.jpg,stimuli/noise_images/disease/noise1.jpg
+152,Disease,2,Type Two Diabetes is an adult disease.,disease,30,37,stimuli/sentence_images/disease/sentence2.jpg,stimuli/noise_images/disease/noise2.jpg
+152,Disease,3,The tumor was a symptom of a disease.,disease,29,36,stimuli/sentence_images/disease/sentence3.jpg,stimuli/noise_images/disease/noise3.jpg
+152,Disease,4,Abnormal results show the onset of disease.,disease,35,42,stimuli/sentence_images/disease/sentence4.jpg,stimuli/noise_images/disease/noise4.jpg
+152,Disease,5,She heard her disease is in remission.,disease,14,21,stimuli/sentence_images/disease/sentence5.jpg,stimuli/noise_images/disease/noise5.jpg
+152,Disease,6,Respiratory disease hinders his breath.,disease,12,19,stimuli/sentence_images/disease/sentence6.jpg,stimuli/noise_images/disease/noise6.jpg
+153,Level,1,I just measured his level of consciousness.,level,20,25,stimuli/sentence_images/level/sentence1.jpg,stimuli/noise_images/level/noise1.jpg
+153,Level,2,The salary reflects your level of performance.,level,25,30,stimuli/sentence_images/level/sentence2.jpg,stimuli/noise_images/level/noise2.jpg
+153,Level,3,The threshold level is unreal.,level,14,19,stimuli/sentence_images/level/sentence3.jpg,stimuli/noise_images/level/noise3.jpg
+153,Level,4,The level of unemployment has risen.,level,4,9,stimuli/sentence_images/level/sentence4.jpg,stimuli/noise_images/level/noise4.jpg
+153,Level,5,Step it up a level to increase the quota.,level,13,18,stimuli/sentence_images/level/sentence5.jpg,stimuli/noise_images/level/noise5.jpg
+153,Level,6,He performs at a greater level than you.,level,25,30,stimuli/sentence_images/level/sentence6.jpg,stimuli/noise_images/level/noise6.jpg
+154,Extremely,1,Her written work is extremely powerful.,extremely,20,29,stimuli/sentence_images/extremely/sentence1.jpg,stimuli/noise_images/extremely/noise1.jpg
+154,Extremely,2,She is impossibly kind and extremely driven.,extremely,27,36,stimuli/sentence_images/extremely/sentence2.jpg,stimuli/noise_images/extremely/noise2.jpg
+154,Extremely,3,She is extremely and intensely motivated.,extremely,7,16,stimuli/sentence_images/extremely/sentence3.jpg,stimuli/noise_images/extremely/noise3.jpg
+154,Extremely,4,She is extremely grateful and infinitely proud.,extremely,7,16,stimuli/sentence_images/extremely/sentence4.jpg,stimuli/noise_images/extremely/noise4.jpg
+154,Extremely,5,Steve is exceptionally gifted and extremely humble.,extremely,34,43,stimuli/sentence_images/extremely/sentence5.jpg,stimuli/noise_images/extremely/noise5.jpg
+154,Extremely,6,Sarah unarguably remained extremely competitive.,extremely,26,35,stimuli/sentence_images/extremely/sentence6.jpg,stimuli/noise_images/extremely/noise6.jpg
+155,Reaction,1,Oxygen and metal create a reaction.,reaction,26,34,stimuli/sentence_images/reaction/sentence1.jpg,stimuli/noise_images/reaction/noise1.jpg
+155,Reaction,2,The chemical reaction is hard to explain.,reaction,13,21,stimuli/sentence_images/reaction/sentence2.jpg,stimuli/noise_images/reaction/noise2.jpg
+155,Reaction,3,Dilute the solutions for a reaction.,reaction,27,35,stimuli/sentence_images/reaction/sentence3.jpg,stimuli/noise_images/reaction/noise3.jpg
+155,Reaction,4,Adding ethanol produces a new reaction.,reaction,30,38,stimuli/sentence_images/reaction/sentence4.jpg,stimuli/noise_images/reaction/noise4.jpg
+155,Reaction,5,The impurity won't create a reaction.,reaction,28,36,stimuli/sentence_images/reaction/sentence5.jpg,stimuli/noise_images/reaction/noise5.jpg
+155,Reaction,6,The concentration bears impact on the reaction.,reaction,38,46,stimuli/sentence_images/reaction/sentence6.jpg,stimuli/noise_images/reaction/noise6.jpg
+156,News,1,The report presents the news in lay language.,news,24,28,stimuli/sentence_images/news/sentence1.jpg,stimuli/noise_images/news/noise1.jpg
+156,News,2,She took a peek at the news before work.,news,23,27,stimuli/sentence_images/news/sentence2.jpg,stimuli/noise_images/news/noise2.jpg
+156,News,3,The forum argued about the news.,news,27,31,stimuli/sentence_images/news/sentence3.jpg,stimuli/noise_images/news/noise3.jpg
+156,News,4,The archives contain the news since 1950.,news,25,29,stimuli/sentence_images/news/sentence4.jpg,stimuli/noise_images/news/noise4.jpg
+156,News,5,The news is broadcasted in the newsroom.,news,4,8,stimuli/sentence_images/news/sentence5.jpg,stimuli/noise_images/news/noise5.jpg
+156,News,6,I learn a lot of gossip from the news.,news,33,37,stimuli/sentence_images/news/sentence6.jpg,stimuli/noise_images/news/noise6.jpg
+157,Money,1,I will pay you money for this.,money,15,20,stimuli/sentence_images/money/sentence1.jpg,stimuli/noise_images/money/noise1.jpg
+157,Money,2,A good retirement requires saving money.,money,34,39,stimuli/sentence_images/money/sentence2.jpg,stimuli/noise_images/money/noise2.jpg
+157,Money,3,His paycheck means money for the kids.,money,19,24,stimuli/sentence_images/money/sentence3.jpg,stimuli/noise_images/money/noise3.jpg
+157,Money,4,She wants to borrow some of his money.,money,32,37,stimuli/sentence_images/money/sentence4.jpg,stimuli/noise_images/money/noise4.jpg
+157,Money,5,Earn some money before you take mine.,money,10,15,stimuli/sentence_images/money/sentence5.jpg,stimuli/noise_images/money/noise5.jpg
+157,Money,6,I can withdraw some money beforehand.,money,20,25,stimuli/sentence_images/money/sentence6.jpg,stimuli/noise_images/money/noise6.jpg
+158,Engine,1,The engine is in the front of the car.,engine,4,10,stimuli/sentence_images/engine/sentence1.jpg,stimuli/noise_images/engine/noise1.jpg
+158,Engine,2,The spare tire is up by the engine.,engine,28,34,stimuli/sentence_images/engine/sentence2.jpg,stimuli/noise_images/engine/noise2.jpg
+158,Engine,3,A hybrid car has a different engine.,engine,29,35,stimuli/sentence_images/engine/sentence3.jpg,stimuli/noise_images/engine/noise3.jpg
+158,Engine,4,The jeep's engine gave out at the traffic light.,engine,11,17,stimuli/sentence_images/engine/sentence4.jpg,stimuli/noise_images/engine/noise4.jpg
+158,Engine,5,Engine is another word for motor.,Engine,0,6,stimuli/sentence_images/engine/sentence5.jpg,stimuli/noise_images/engine/noise5.jpg
+158,Engine,6,This car has its engine in the trunk.,engine,17,23,stimuli/sentence_images/engine/sentence6.jpg,stimuli/noise_images/engine/noise6.jpg
+159,Clothes,1,None of his clothes are made of mesh.,clothes,12,19,stimuli/sentence_images/clothes/sentence1.jpg,stimuli/noise_images/clothes/noise1.jpg
+159,Clothes,2,Sizing a young boy's clothes is difficult.,clothes,21,28,stimuli/sentence_images/clothes/sentence2.jpg,stimuli/noise_images/clothes/noise2.jpg
+159,Clothes,3,That hat doesn't match his clothes.,clothes,27,34,stimuli/sentence_images/clothes/sentence3.jpg,stimuli/noise_images/clothes/noise3.jpg
+159,Clothes,4,His clothes are often made of flannel.,clothes,4,11,stimuli/sentence_images/clothes/sentence4.jpg,stimuli/noise_images/clothes/noise4.jpg
+159,Clothes,5,Sports clothes can be made of spandex.,clothes,7,14,stimuli/sentence_images/clothes/sentence5.jpg,stimuli/noise_images/clothes/noise5.jpg
+159,Clothes,6,His jacket protects his clothes from getting wet.,clothes,24,31,stimuli/sentence_images/clothes/sentence6.jpg,stimuli/noise_images/clothes/noise6.jpg
+160,Material,1,That material is hard to rip.,material,5,13,stimuli/sentence_images/material/sentence1.jpg,stimuli/noise_images/material/noise1.jpg
+160,Material,2,Covering the statue with any material is hard.,material,29,37,stimuli/sentence_images/material/sentence2.jpg,stimuli/noise_images/material/noise2.jpg
+160,Material,3,Silicone is a bendy kind of material.,material,28,36,stimuli/sentence_images/material/sentence3.jpg,stimuli/noise_images/material/noise3.jpg
+160,Material,4,The material has an adhesive side.,material,4,12,stimuli/sentence_images/material/sentence4.jpg,stimuli/noise_images/material/noise4.jpg
+160,Material,5,The material will cling to your hair.,material,4,12,stimuli/sentence_images/material/sentence5.jpg,stimuli/noise_images/material/noise5.jpg
+160,Material,6,These scientists create an unbreakable material.,material,39,47,stimuli/sentence_images/material/sentence6.jpg,stimuli/noise_images/material/noise6.jpg
+161,Toy,1,The toy was so cute.,toy,4,7,stimuli/sentence_images/toy/sentence1.jpg,stimuli/noise_images/toy/noise1.jpg
+161,Toy,2,That doll is the perfect toy for her.,toy,25,28,stimuli/sentence_images/toy/sentence2.jpg,stimuli/noise_images/toy/noise2.jpg
+161,Toy,3,The toy was jumbo sized.,toy,4,7,stimuli/sentence_images/toy/sentence3.jpg,stimuli/noise_images/toy/noise3.jpg
+161,Toy,4,The toy is strangely lifelike.,toy,4,7,stimuli/sentence_images/toy/sentence4.jpg,stimuli/noise_images/toy/noise4.jpg
+161,Toy,5,The water toy was inflatable.,toy,10,13,stimuli/sentence_images/toy/sentence5.jpg,stimuli/noise_images/toy/noise5.jpg
+161,Toy,6,The dinky toy kept the cat preoccupied.,toy,10,13,stimuli/sentence_images/toy/sentence6.jpg,stimuli/noise_images/toy/noise6.jpg
+162,Plan,1,The first step of the plan is now complete.,plan,22,26,stimuli/sentence_images/plan/sentence1.jpg,stimuli/noise_images/plan/noise1.jpg
+162,Plan,2,The plan can result in a transformation.,plan,4,8,stimuli/sentence_images/plan/sentence2.jpg,stimuli/noise_images/plan/noise2.jpg
+162,Plan,3,The execution of the plan was preemptive.,plan,21,25,stimuli/sentence_images/plan/sentence3.jpg,stimuli/noise_images/plan/noise3.jpg
+162,Plan,4,The expulsion led to a change of plan.,plan,33,37,stimuli/sentence_images/plan/sentence4.jpg,stimuli/noise_images/plan/noise4.jpg
+162,Plan,5,The plan is a demonstration of her goodwill.,plan,4,8,stimuli/sentence_images/plan/sentence5.jpg,stimuli/noise_images/plan/noise5.jpg
+162,Plan,6,Follow the essential plan for success.,plan,21,25,stimuli/sentence_images/plan/sentence6.jpg,stimuli/noise_images/plan/noise6.jpg
+163,Table,1,The table is made of glass.,table,4,9,stimuli/sentence_images/table/sentence1.jpg,stimuli/noise_images/table/noise1.jpg
+163,Table,2,The chandelier hangs right above the table.,table,37,42,stimuli/sentence_images/table/sentence2.jpg,stimuli/noise_images/table/noise2.jpg
+163,Table,3,He put the candle on the table.,table,25,30,stimuli/sentence_images/table/sentence3.jpg,stimuli/noise_images/table/noise3.jpg
+163,Table,4,The porcelain is at the center of the table.,table,38,43,stimuli/sentence_images/table/sentence4.jpg,stimuli/noise_images/table/noise4.jpg
+163,Table,5,The silverware looks beautiful on the table.,table,38,43,stimuli/sentence_images/table/sentence5.jpg,stimuli/noise_images/table/noise5.jpg
+163,Table,6,The chrome table had a very modern look.,table,11,16,stimuli/sentence_images/table/sentence6.jpg,stimuli/noise_images/table/noise6.jpg
+164,Mechanism,1,Pull the wire to trigger a mechanism.,mechanism,27,36,stimuli/sentence_images/mechanism/sentence1.jpg,stimuli/noise_images/mechanism/noise1.jpg
+164,Mechanism,2,The latch was part of a bigger mechanism.,mechanism,31,40,stimuli/sentence_images/mechanism/sentence2.jpg,stimuli/noise_images/mechanism/noise2.jpg
+164,Mechanism,3,The mechanism had to handle to start it.,mechanism,4,13,stimuli/sentence_images/mechanism/sentence3.jpg,stimuli/noise_images/mechanism/noise3.jpg
+164,Mechanism,4,The man is proud of his patented mechanism.,mechanism,33,42,stimuli/sentence_images/mechanism/sentence4.jpg,stimuli/noise_images/mechanism/noise4.jpg
+164,Mechanism,5,The mechanism is designed for that.,mechanism,4,13,stimuli/sentence_images/mechanism/sentence5.jpg,stimuli/noise_images/mechanism/noise5.jpg
+164,Mechanism,6,He's able to fix the mechanism in no time.,mechanism,21,30,stimuli/sentence_images/mechanism/sentence6.jpg,stimuli/noise_images/mechanism/noise6.jpg
+165,Liar,1,"He's a troublemaker, not a liar.",liar,27,31,stimuli/sentence_images/liar/sentence1.jpg,stimuli/noise_images/liar/noise1.jpg
+165,Liar,2,The cheater had always been a major liar.,liar,36,40,stimuli/sentence_images/liar/sentence2.jpg,stimuli/noise_images/liar/noise2.jpg
+165,Liar,3,She is a pessimist and a liar.,liar,25,29,stimuli/sentence_images/liar/sentence3.jpg,stimuli/noise_images/liar/noise3.jpg
+165,Liar,4,The discovered liar is now an imposter.,liar,15,19,stimuli/sentence_images/liar/sentence4.jpg,stimuli/noise_images/liar/noise4.jpg
+165,Liar,5,The fast talker and liar both spoke fast.,liar,20,24,stimuli/sentence_images/liar/sentence5.jpg,stimuli/noise_images/liar/noise5.jpg
+165,Liar,6,The faker became a full-blown liar.,liar,30,34,stimuli/sentence_images/liar/sentence6.jpg,stimuli/noise_images/liar/noise6.jpg
+166,Sexy,1,Many people find the model super sexy.,sexy,33,37,stimuli/sentence_images/sexy/sentence1.jpg,stimuli/noise_images/sexy/noise1.jpg
+166,Sexy,2,His girlfriend is so sexy.,sexy,21,25,stimuli/sentence_images/sexy/sentence2.jpg,stimuli/noise_images/sexy/noise2.jpg
+166,Sexy,3,The pervert thought her heartbeat was sexy.,sexy,38,42,stimuli/sentence_images/sexy/sentence3.jpg,stimuli/noise_images/sexy/noise3.jpg
+166,Sexy,4,The idea of a cheerleader is very sexy.,sexy,34,38,stimuli/sentence_images/sexy/sentence4.jpg,stimuli/noise_images/sexy/noise4.jpg
+166,Sexy,5,"He's a babe, that's how sexy he is.",sexy,24,28,stimuli/sentence_images/sexy/sentence5.jpg,stimuli/noise_images/sexy/noise5.jpg
+166,Sexy,6,Knowing how to seduce someone is sexy.,sexy,33,37,stimuli/sentence_images/sexy/sentence6.jpg,stimuli/noise_images/sexy/noise6.jpg
+167,Sin,1,She can't forgive him for this sin.,sin,31,34,stimuli/sentence_images/sin/sentence1.jpg,stimuli/noise_images/sin/noise1.jpg
+167,Sin,2,Make sure your wrath doesn't make you sin.,sin,38,41,stimuli/sentence_images/sin/sentence2.jpg,stimuli/noise_images/sin/noise2.jpg
+167,Sin,3,Sin makes a sinner.,Sin,0,3,stimuli/sentence_images/sin/sentence3.jpg,stimuli/noise_images/sin/noise3.jpg
+167,Sin,4,The sin of a firstborn is never forgotten.,sin,4,7,stimuli/sentence_images/sin/sentence4.jpg,stimuli/noise_images/sin/noise4.jpg
+167,Sin,5,The couple is rejoicing in his sin.,sin,31,34,stimuli/sentence_images/sin/sentence5.jpg,stimuli/noise_images/sin/noise5.jpg
+167,Sin,6,The extent of the sin was an abomination.,sin,18,21,stimuli/sentence_images/sin/sentence6.jpg,stimuli/noise_images/sin/noise6.jpg
+168,Ship,1,Boat is another name for a small ship.,ship,33,37,stimuli/sentence_images/ship/sentence1.jpg,stimuli/noise_images/ship/noise1.jpg
+168,Ship,2,The pilot made it onto the ship in time.,ship,27,31,stimuli/sentence_images/ship/sentence2.jpg,stimuli/noise_images/ship/noise2.jpg
+168,Ship,3,The sail of the ship ripped in the wind.,ship,16,20,stimuli/sentence_images/ship/sentence3.jpg,stimuli/noise_images/ship/noise3.jpg
+168,Ship,4,The ship was off onto its next expedition.,ship,4,8,stimuli/sentence_images/ship/sentence4.jpg,stimuli/noise_images/ship/noise4.jpg
+168,Ship,5,The voyage began as the ship left the island.,ship,24,28,stimuli/sentence_images/ship/sentence5.jpg,stimuli/noise_images/ship/noise5.jpg
+168,Ship,6,The yacht was the owner's favorite ship.,ship,35,39,stimuli/sentence_images/ship/sentence6.jpg,stimuli/noise_images/ship/noise6.jpg
+169,Elegance,1,Her elegance exuded unexpected warmth.,elegance,4,12,stimuli/sentence_images/elegance/sentence1.jpg,stimuli/noise_images/elegance/noise1.jpg
+169,Elegance,2,The event's formality screams elegance.,elegance,30,38,stimuli/sentence_images/elegance/sentence2.jpg,stimuli/noise_images/elegance/noise2.jpg
+169,Elegance,3,The home's grandeur signified its elegance.,elegance,34,42,stimuli/sentence_images/elegance/sentence3.jpg,stimuli/noise_images/elegance/noise3.jpg
+169,Elegance,4,The simplicity of her elegance is incomparable.,elegance,22,30,stimuli/sentence_images/elegance/sentence4.jpg,stimuli/noise_images/elegance/noise4.jpg
+169,Elegance,5,Sensuality and elegance are hard to fake.,elegance,15,23,stimuli/sentence_images/elegance/sentence5.jpg,stimuli/noise_images/elegance/noise5.jpg
+169,Elegance,6,The elegance of the palace is inherent.,elegance,4,12,stimuli/sentence_images/elegance/sentence6.jpg,stimuli/noise_images/elegance/noise6.jpg
+170,Residence,1,He took up residence in a nearby town.,residence,11,20,stimuli/sentence_images/residence/sentence1.jpg,stimuli/noise_images/residence/noise1.jpg
+170,Residence,2,The nearest residence is five miles away.,residence,12,21,stimuli/sentence_images/residence/sentence2.jpg,stimuli/noise_images/residence/noise2.jpg
+170,Residence,3,The lodge looks like a personal residence.,residence,32,41,stimuli/sentence_images/residence/sentence3.jpg,stimuli/noise_images/residence/noise3.jpg
+170,Residence,4,The neighborhood has a new residence or two.,residence,27,36,stimuli/sentence_images/residence/sentence4.jpg,stimuli/noise_images/residence/noise4.jpg
+170,Residence,5,The location of the residence is sublime.,residence,20,29,stimuli/sentence_images/residence/sentence5.jpg,stimuli/noise_images/residence/noise5.jpg
+170,Residence,6,She could take up residence in the hotel.,residence,18,27,stimuli/sentence_images/residence/sentence6.jpg,stimuli/noise_images/residence/noise6.jpg
+171,Word,1,She used the correct word on the first try.,word,21,25,stimuli/sentence_images/word/sentence1.jpg,stimuli/noise_images/word/noise1.jpg
+171,Word,2,The sentence was missing a word.,word,27,31,stimuli/sentence_images/word/sentence2.jpg,stimuli/noise_images/word/noise2.jpg
+171,Word,3,Her nickname is a word used to describe goats.,word,18,22,stimuli/sentence_images/word/sentence3.jpg,stimuli/noise_images/word/noise3.jpg
+171,Word,4,That word is difficult to pronounce.,word,5,9,stimuli/sentence_images/word/sentence4.jpg,stimuli/noise_images/word/noise4.jpg
+171,Word,5,The spelling of the word makes no sense.,word,20,24,stimuli/sentence_images/word/sentence5.jpg,stimuli/noise_images/word/noise5.jpg
+171,Word,6,I can't seem to translate that word.,word,31,35,stimuli/sentence_images/word/sentence6.jpg,stimuli/noise_images/word/noise6.jpg
+172,Team,1,The team won yet another game.,team,4,8,stimuli/sentence_images/team/sentence1.jpg,stimuli/noise_images/team/noise1.jpg
+172,Team,2,The team set a new record.,team,4,8,stimuli/sentence_images/team/sentence2.jpg,stimuli/noise_images/team/noise2.jpg
+172,Team,3,The team was in the lead at halftime.,team,4,8,stimuli/sentence_images/team/sentence3.jpg,stimuli/noise_images/team/noise3.jpg
+172,Team,4,The entering freshman dominated the team.,team,36,40,stimuli/sentence_images/team/sentence4.jpg,stimuli/noise_images/team/noise4.jpg
+172,Team,5,The prospect of playing with the team is good.,team,33,37,stimuli/sentence_images/team/sentence5.jpg,stimuli/noise_images/team/noise5.jpg
+172,Team,6,The team lineup was daunting.,team,4,8,stimuli/sentence_images/team/sentence6.jpg,stimuli/noise_images/team/noise6.jpg
+173,Computer,1,The system crash destroyed the computer.,computer,31,39,stimuli/sentence_images/computer/sentence1.jpg,stimuli/noise_images/computer/noise1.jpg
+173,Computer,2,Running the application freezes the computer.,computer,36,44,stimuli/sentence_images/computer/sentence2.jpg,stimuli/noise_images/computer/noise2.jpg
+173,Computer,3,She had this kind of interface on her computer.,computer,38,46,stimuli/sentence_images/computer/sentence3.jpg,stimuli/noise_images/computer/noise3.jpg
+173,Computer,4,The infrastructure of the computer is weird.,computer,26,34,stimuli/sentence_images/computer/sentence4.jpg,stimuli/noise_images/computer/noise4.jpg
+173,Computer,5,He was streaming music from his computer.,computer,32,40,stimuli/sentence_images/computer/sentence5.jpg,stimuli/noise_images/computer/noise5.jpg
+173,Computer,6,His desktop computer is pretty old.,computer,12,20,stimuli/sentence_images/computer/sentence6.jpg,stimuli/noise_images/computer/noise6.jpg
+174,Do,1,Do you often deviate from the rules?,Do,0,2,stimuli/sentence_images/do/sentence1.jpg,stimuli/noise_images/do/noise1.jpg
+174,Do,2,I do not falter when I know what I want.,do,2,4,stimuli/sentence_images/do/sentence2.jpg,stimuli/noise_images/do/noise2.jpg
+174,Do,3,You do get punished if you misbehave.,do,4,6,stimuli/sentence_images/do/sentence3.jpg,stimuli/noise_images/do/noise3.jpg
+174,Do,4,Do me no wrong and divulge the secret.,Do,0,2,stimuli/sentence_images/do/sentence4.jpg,stimuli/noise_images/do/noise4.jpg
+174,Do,5,I dare you to do that.,do,14,16,stimuli/sentence_images/do/sentence5.jpg,stimuli/noise_images/do/noise5.jpg
+174,Do,6,You do have the tendency to annoy me.,do,4,6,stimuli/sentence_images/do/sentence6.jpg,stimuli/noise_images/do/noise6.jpg
+175,Smiling,1,"Smiling, he stayed staring at the sun.",Smiling,0,7,stimuli/sentence_images/smiling/sentence1.jpg,stimuli/noise_images/smiling/noise1.jpg
+175,Smiling,2,"Smiling innocently, she took the candy.",Smiling,0,7,stimuli/sentence_images/smiling/sentence2.jpg,stimuli/noise_images/smiling/noise2.jpg
+175,Smiling,3,He was smiling angrily.,smiling,7,14,stimuli/sentence_images/smiling/sentence3.jpg,stimuli/noise_images/smiling/noise3.jpg
+175,Smiling,4,"Smiling faintly, she said goodbye.",Smiling,0,7,stimuli/sentence_images/smiling/sentence4.jpg,stimuli/noise_images/smiling/noise4.jpg
+175,Smiling,5,The little boy is smiling obligingly.,smiling,18,25,stimuli/sentence_images/smiling/sentence5.jpg,stimuli/noise_images/smiling/noise5.jpg
+175,Smiling,6,The woman is smiling wistfully out the window.,smiling,13,20,stimuli/sentence_images/smiling/sentence6.jpg,stimuli/noise_images/smiling/noise6.jpg
+176,Dissolve,1,Inject a solution to dissolve the powder.,dissolve,21,29,stimuli/sentence_images/dissolve/sentence1.jpg,stimuli/noise_images/dissolve/noise1.jpg
+176,Dissolve,2,Disperse the chunks in fluid to dissolve them.,dissolve,32,40,stimuli/sentence_images/dissolve/sentence2.jpg,stimuli/noise_images/dissolve/noise2.jpg
+176,Dissolve,3,Dissolve the substance and it will evaporate.,Dissolve,0,8,stimuli/sentence_images/dissolve/sentence3.jpg,stimuli/noise_images/dissolve/noise3.jpg
+176,Dissolve,4,Distill and dissolve the issue immediately.,dissolve,12,20,stimuli/sentence_images/dissolve/sentence4.jpg,stimuli/noise_images/dissolve/noise4.jpg
+176,Dissolve,5,You can compartmentalize it but never dissolve it.,dissolve,38,46,stimuli/sentence_images/dissolve/sentence5.jpg,stimuli/noise_images/dissolve/noise5.jpg
+176,Dissolve,6,Demystify and dissolve the rumor.,dissolve,14,22,stimuli/sentence_images/dissolve/sentence6.jpg,stimuli/noise_images/dissolve/noise6.jpg
+177,Ignorance,1,Blame his frailty rather than his ignorance.,ignorance,34,43,stimuli/sentence_images/ignorance/sentence1.jpg,stimuli/noise_images/ignorance/noise1.jpg
+177,Ignorance,2,His striking ignorance upholds his arrogance.,ignorance,13,22,stimuli/sentence_images/ignorance/sentence2.jpg,stimuli/noise_images/ignorance/noise2.jpg
+177,Ignorance,3,Their ignorance stems from their debauchery.,ignorance,6,15,stimuli/sentence_images/ignorance/sentence3.jpg,stimuli/noise_images/ignorance/noise3.jpg
+177,Ignorance,4,His complete ignorance creates inefficiency.,ignorance,13,22,stimuli/sentence_images/ignorance/sentence4.jpg,stimuli/noise_images/ignorance/noise4.jpg
+177,Ignorance,5,Cut the tomfoolery and fix on your ignorance.,ignorance,35,44,stimuli/sentence_images/ignorance/sentence5.jpg,stimuli/noise_images/ignorance/noise5.jpg
+177,Ignorance,6,Your cockiness and ignorance bother me most.,ignorance,19,28,stimuli/sentence_images/ignorance/sentence6.jpg,stimuli/noise_images/ignorance/noise6.jpg
+178,Code,1,Change the code to make it run faster.,code,11,15,stimuli/sentence_images/code/sentence1.jpg,stimuli/noise_images/code/noise1.jpg
+178,Code,2,The new solution could not save the code.,code,36,40,stimuli/sentence_images/code/sentence2.jpg,stimuli/noise_images/code/noise2.jpg
+178,Code,3,She added new code to the script.,code,14,18,stimuli/sentence_images/code/sentence3.jpg,stimuli/noise_images/code/noise3.jpg
+178,Code,4,He can code like a pro but can't type.,code,7,11,stimuli/sentence_images/code/sentence4.jpg,stimuli/noise_images/code/noise4.jpg
+178,Code,5,The key to good code is simplicity.,code,16,20,stimuli/sentence_images/code/sentence5.jpg,stimuli/noise_images/code/noise5.jpg
+178,Code,6,Modify her code so it can take user inputs.,code,11,15,stimuli/sentence_images/code/sentence6.jpg,stimuli/noise_images/code/noise6.jpg
+179,Argumentatively,1,He unadvisedly spoke argumentatively.,argumentatively,21,36,stimuli/sentence_images/argumentatively/sentence1.jpg,stimuli/noise_images/argumentatively/noise1.jpg
+179,Argumentatively,2,The hardhearted woman speaks argumentatively.,argumentatively,29,44,stimuli/sentence_images/argumentatively/sentence2.jpg,stimuli/noise_images/argumentatively/noise2.jpg
+179,Argumentatively,3,She pitilessly and argumentatively tore him apart.,argumentatively,19,34,stimuli/sentence_images/argumentatively/sentence3.jpg,stimuli/noise_images/argumentatively/noise3.jpg
+179,Argumentatively,4,The thought is dirtily and argumentatively constructed.,argumentatively,27,42,stimuli/sentence_images/argumentatively/sentence4.jpg,stimuli/noise_images/argumentatively/noise4.jpg
+179,Argumentatively,5,They spoke precociously and argumentatively.,argumentatively,28,43,stimuli/sentence_images/argumentatively/sentence5.jpg,stimuli/noise_images/argumentatively/noise5.jpg
+179,Argumentatively,6,Her speech began provocatively and argumentatively.,argumentatively,35,50,stimuli/sentence_images/argumentatively/sentence6.jpg,stimuli/noise_images/argumentatively/noise6.jpg
+180,Counting,1,He couldn't count past five.,count,12,17,stimuli/sentence_images/counting/sentence1.jpg,stimuli/noise_images/counting/noise1.jpg
+180,Counting,2,He will count backwards to one.,count,8,13,stimuli/sentence_images/counting/sentence2.jpg,stimuli/noise_images/counting/noise2.jpg
+180,Counting,3,She was able to count to a hundred.,count,16,21,stimuli/sentence_images/counting/sentence3.jpg,stimuli/noise_images/counting/noise3.jpg
+180,Counting,4,I will count by fives to speed it up.,count,7,12,stimuli/sentence_images/counting/sentence4.jpg,stimuli/noise_images/counting/noise4.jpg
+180,Counting,5,I can count the tally for you.,count,6,11,stimuli/sentence_images/counting/sentence5.jpg,stimuli/noise_images/counting/noise5.jpg
+180,Counting,6,He will count up to fourteen.,count,8,13,stimuli/sentence_images/counting/sentence6.jpg,stimuli/noise_images/counting/noise6.jpg

@@ -1,0 +1,1081 @@
+concepts,image_paths,sentences,start,end
+ability,stimuli/images/Ability/ability_1.jpg,His ability outshone his genius. ,4,11
+ability,stimuli/images/Ability/ability_2.jpg,Her ability and knack got her where she is now.,4,11
+ability,stimuli/images/Ability/ability_3.jpg,His ability and assertiveness made him an attractive candidate.,4,11
+ability,stimuli/images/Ability/ability_4.jpg,The ability to cultivate creativity is much sought after nowadays.,4,11
+ability,stimuli/images/Ability/ability_5.jpg,Having forethought is an important ability. ,35,42
+ability,stimuli/images/Ability/ability_6.jpg,His unwavering intuition is a priceless ability. ,40,47
+accomplished,stimuli/images/Accomplished/accomplished_1.jpg,The writer was quite accomplished and on his fourth book.,21,33
+accomplished,stimuli/images/Accomplished/accomplished_2.jpg,The accomplished producer was well respected.,4,16
+accomplished,stimuli/images/Accomplished/accomplished_3.jpg,The playwright dreamed of when he would be called accomplished.,50,62
+accomplished,stimuli/images/Accomplished/accomplished_4.jpg,The accomplished choreographer awaited the performance.,4,16
+accomplished,stimuli/images/Accomplished/accomplished_5.jpg,The thinker became accomplished through his writings. ,19,31
+accomplished,stimuli/images/Accomplished/accomplished_6.jpg,The accomplished publicist had more clients than he could name. ,4,16
+angry,stimuli/images/Angry/angry_1.jpg,He was angry and frightened at the same time. ,7,12
+angry,stimuli/images/Angry/angry_2.jpg,He panicked at how angry his boss was. ,19,24
+angry,stimuli/images/Angry/angry_3.jpg,She's angry because I offended her. ,6,11
+angry,stimuli/images/Angry/angry_4.jpg,I was displeased with how outwardly angry he was. ,36,41
+angry,stimuli/images/Angry/angry_5.jpg,"Dissatisfied and angry, he sulked in the corner. ",17,22
+angry,stimuli/images/Angry/angry_6.jpg,"Flabbergasted at the results, she made an angry phone call. ",42,47
+apartment,stimuli/images/Apartment/apartment_1.jpg,They rent out an apartment from their home.,17,26
+apartment,stimuli/images/Apartment/apartment_2.jpg,The floor above the apartment is under renovation.,20,29
+apartment,stimuli/images/Apartment/apartment_3.jpg,This apartment doesn't have a big kitchen.,5,14
+apartment,stimuli/images/Apartment/apartment_4.jpg,Parts of the apartment can only be accessed by ladder.,13,22
+apartment,stimuli/images/Apartment/apartment_5.jpg,The hallway in the apartment is long and skinny.,19,28
+apartment,stimuli/images/Apartment/apartment_6.jpg,The apartment has the cutest little nooks. ,4,13
+applause,stimuli/images/Applause/applause_1.jpg,The applause was drowned out by the cheering.,4,12
+applause,stimuli/images/Applause/applause_2.jpg,The ruckus of the applause hurt her ears.,18,26
+applause,stimuli/images/Applause/applause_3.jpg,The commotion of the applause was infectious. ,21,29
+applause,stimuli/images/Applause/applause_4.jpg,Her applause was inhibited. ,4,12
+applause,stimuli/images/Applause/applause_5.jpg,He caught an earful of applause on his way out. ,23,31
+applause,stimuli/images/Applause/applause_6.jpg,The rowdy crowd burst into applause. ,27,35
+argument,stimuli/images/Argument/argument_1.jpg,The new evidence helped his argument.,28,36
+argument,stimuli/images/Argument/argument_2.jpg,I cannot confirm whether this argument is more valid. ,30,38
+argument,stimuli/images/Argument/argument_3.jpg,The first argument has a better explanation.,10,18
+argument,stimuli/images/Argument/argument_4.jpg,This argument has no conclusion.,5,13
+argument,stimuli/images/Argument/argument_5.jpg,The statement supports the second argument better. ,34,42
+argument,stimuli/images/Argument/argument_6.jpg,The truth cannot be found with this argument. ,36,44
+argumentatively,stimuli/images/Argumentatively/argumentatively_1.jpg,"He said his point argumentatively, and unadvisedly so.",18,33
+argumentatively,stimuli/images/Argumentatively/argumentatively_2.jpg,"Judging on how argumentatively she spoke, I'd say she's hardhearted. ",15,30
+argumentatively,stimuli/images/Argumentatively/argumentatively_3.jpg,She pitilessly tore apart his argumentatively structured essay.,30,45
+argumentatively,stimuli/images/Argumentatively/argumentatively_4.jpg,The opaquely constructed thought meshed with how argumentatively she attacked him.,49,64
+argumentatively,stimuli/images/Argumentatively/argumentatively_5.jpg,She approached the conversation precociously and argumentatively.,49,64
+argumentatively,stimuli/images/Argumentatively/argumentatively_6.jpg,"Beginning provocatively and ending argumentatively, he made a bad impression.",35,50
+art,stimuli/images/Art/art_1.jpg,The poetry workshop was a work of art in itself.,34,37
+art,stimuli/images/Art/art_2.jpg,The tradition of art in this school is strong. ,17,20
+art,stimuli/images/Art/art_3.jpg,The art exhibition left many breathless.,4,7
+art,stimuli/images/Art/art_4.jpg,The contemporary art left much to be desired. ,17,20
+art,stimuli/images/Art/art_5.jpg,Medieval art is not up her alley.,9,12
+art,stimuli/images/Art/art_6.jpg,The irony of the piece was that it wasn't art in any shape or form.,42,45
+attitude,stimuli/images/Attitude/attitude_1.jpg,She has a negative attitude.,19,27
+attitude,stimuli/images/Attitude/attitude_2.jpg,His selfish attitude won't get him far. ,12,20
+attitude,stimuli/images/Attitude/attitude_3.jpg,"Generally, her attitude is condescending. ",15,23
+attitude,stimuli/images/Attitude/attitude_4.jpg,He needs to work on his domineering attitude.,36,44
+attitude,stimuli/images/Attitude/attitude_5.jpg,His humorless attitude is stereotypical for his family.,14,22
+attitude,stimuli/images/Attitude/attitude_6.jpg,His attitude about this problem is nonchalant. ,4,12
+bag,stimuli/images/Bag/bag_1.jpg,She wanted to pack a bag for the day trip. ,21,24
+bag,stimuli/images/Bag/bag_2.jpg,He put his wallet in her bag.,25,28
+bag,stimuli/images/Bag/bag_3.jpg,The leather bag fell from the shelf.,12,15
+bag,stimuli/images/Bag/bag_4.jpg,He had a bag and a laptop to put in it.,9,12
+bag,stimuli/images/Bag/bag_5.jpg,The trusty satchel was her favorite bag. ,36,39
+bag,stimuli/images/Bag/bag_6.jpg,The umbrella was too big for her bag.,33,36
+ball,stimuli/images/Ball/ball_1.jpg,He hit the ball out of the field.,11,15
+ball,stimuli/images/Ball/ball_2.jpg,She could not pass the ball for the life of her.,23,27
+ball,stimuli/images/Ball/ball_3.jpg,She could dunk the ball like a pro.,19,23
+ball,stimuli/images/Ball/ball_4.jpg,Getting a puck can be easier than a ball.,36,40
+ball,stimuli/images/Ball/ball_5.jpg,The ball bounced off the backboard. ,4,8
+ball,stimuli/images/Ball/ball_6.jpg,He gave the ball a quick jab. ,12,16
+bar,stimuli/images/Bar/bar_1.jpg,The bar looked like an ancient tavern. ,4,7
+bar,stimuli/images/Bar/bar_2.jpg,"Cowboys don't go to bars, they prefer saloons.",20,24
+bar,stimuli/images/Bar/bar_3.jpg,He learned quickly that most bars don't cater. ,29,33
+bar,stimuli/images/Bar/bar_4.jpg,That bar was their new favorite venue to hang out at. ,5,8
+bar,stimuli/images/Bar/bar_5.jpg,The popular nightclub had added a new bar. ,38,41
+bar,stimuli/images/Bar/bar_6.jpg,The bar had an urban feel to it. ,4,7
+bear,stimuli/images/Bear/bear_1.jpg,That bear would chase you in a minute.,5,9
+bear,stimuli/images/Bear/bear_2.jpg,The woodpecker was not afraid of the bear.,37,41
+bear,stimuli/images/Bear/bear_3.jpg,The caribou and the bear could smell one another.,20,24
+bear,stimuli/images/Bear/bear_4.jpg,The bear found its next prey in the hare.,4,8
+bear,stimuli/images/Bear/bear_5.jpg,The swan was not bothered by the bear.,33,37
+bear,stimuli/images/Bear/bear_6.jpg,The bear ran from the rattlesnake. ,4,8
+beat,stimuli/images/Beat/beat_1.jpg,The beat of the music was soulful.,4,8
+beat,stimuli/images/Beat/beat_2.jpg,The song had a catchy beat.,22,26
+beat,stimuli/images/Beat/beat_3.jpg,She tapped her foot to the rhythmic beat.,36,40
+beat,stimuli/images/Beat/beat_4.jpg,He thought that the beat had a good vibe.,20,24
+beat,stimuli/images/Beat/beat_5.jpg,People thrashed their heads to the beat. ,35,39
+beat,stimuli/images/Beat/beat_6.jpg,She can strum the beat on her guitar. ,18,22
+bed,stimuli/images/Bed/bed_1.jpg,She enjoyed sleeping in her own bed.,32,35
+bed,stimuli/images/Bed/bed_2.jpg,The cot replaced the bed for the night.,21,24
+bed,stimuli/images/Bed/bed_3.jpg,Napping in bed can be good for you.,11,14
+bed,stimuli/images/Bed/bed_4.jpg,The toddler crawled onto the bed.,29,32
+bed,stimuli/images/Bed/bed_5.jpg,The bed cushions sagged quickly.,4,7
+bed,stimuli/images/Bed/bed_6.jpg,He took the blanket off of the bed.,31,34
+beer,stimuli/images/Beer/beer_1.jpg,Guys tend to like beer more than wine.,18,22
+beer,stimuli/images/Beer/beer_2.jpg,He grabbed a bottle of beer from the fridge. ,23,27
+beer,stimuli/images/Beer/beer_3.jpg,The bartender served her a cold wheat beer.,38,42
+beer,stimuli/images/Beer/beer_4.jpg,She ordered a margarita after seeing the beer options.,41,45
+beer,stimuli/images/Beer/beer_5.jpg,On this hot day she was dying for a pint of beer.,44,48
+beer,stimuli/images/Beer/beer_6.jpg,"He was thirsty, but luckily he had lots of beer in the fridge. ",43,47
+big,stimuli/images/Big/big_1.jpg,He preferred to be a big fish in a small pond.,21,24
+big,stimuli/images/Big/big_2.jpg,"While he wasn't quite obese, he had gotten quite big.",49,52
+big,stimuli/images/Big/big_3.jpg,Cutting down the branches of the big tree was a substantial job.,33,36
+big,stimuli/images/Big/big_4.jpg,His big feet were disproportionate to the rest of his body.,4,7
+big,stimuli/images/Big/big_5.jpg,There was a big selection of a hodgepodge of foods.,12,15
+big,stimuli/images/Big/big_6.jpg,A bucketful of big strawberries awaited them. ,15,18
+bird,stimuli/images/Bird/bird_1.jpg,The bird flew around the cage.,4,8
+bird,stimuli/images/Bird/bird_2.jpg,The nest was just big enough for the bird.,37,41
+bird,stimuli/images/Bird/bird_3.jpg,The only bird she could see was the parrot.,9,13
+bird,stimuli/images/Bird/bird_4.jpg,The bird poked its head out of the hatch.,4,8
+bird,stimuli/images/Bird/bird_5.jpg,The bird was holding the worm in its beak. ,4,8
+bird,stimuli/images/Bird/bird_6.jpg,The bird preened itself for mating.,4,8
+blood,stimuli/images/Blood/blood_1.jpg,She had been bleeding for a while so there was a lot of blood.,56,61
+blood,stimuli/images/Blood/blood_2.jpg,She has been having issues with blood circulation in her legs.,32,37
+blood,stimuli/images/Blood/blood_3.jpg,Blood began to fill the wound.,0,5
+blood,stimuli/images/Blood/blood_4.jpg,Blood spurted out of the rupture. ,0,5
+blood,stimuli/images/Blood/blood_5.jpg,Blood flows through the major artery.,0,5
+blood,stimuli/images/Blood/blood_6.jpg,The blood in a vein appears blue through our skin. ,4,9
+body,stimuli/images/Body/body_1.jpg,The man had a very athletic body. ,28,32
+body,stimuli/images/Body/body_2.jpg,Her body was very skinny.,4,8
+body,stimuli/images/Body/body_3.jpg,She felt like her body was frumpy.,18,22
+body,stimuli/images/Body/body_4.jpg,The body of the dress made her look shapeless.,4,8
+body,stimuli/images/Body/body_5.jpg,The midsection of his body was well trained.,22,26
+body,stimuli/images/Body/body_6.jpg,"Outside of the limelight, the model's body was unimposing. ",38,42
+brain,stimuli/images/Brain/brain_1.jpg,The human brain continues to amaze us today.,10,15
+brain,stimuli/images/Brain/brain_2.jpg,The brain is made up of cells. ,4,9
+brain,stimuli/images/Brain/brain_3.jpg,Awake surgery is possible because the brain has no nerve endings.,38,43
+brain,stimuli/images/Brain/brain_4.jpg,A fundamental unit of the brain is the neuron. ,26,31
+brain,stimuli/images/Brain/brain_5.jpg,Neuroscientists research the localization of functions in the brain.,62,67
+brain,stimuli/images/Brain/brain_6.jpg,The cerebellum is one of the oldest parts of the brain. ,49,54
+broken,stimuli/images/Broken/broken_1.jpg,The missing mirror turned out to be broken.,36,42
+broken,stimuli/images/Broken/broken_2.jpg,The broken leg made the table unstable.,4,10
+broken,stimuli/images/Broken/broken_3.jpg,She dangerously teetered on the broken chair.,32,38
+broken,stimuli/images/Broken/broken_4.jpg,The disorganized room was full of broken things.,34,40
+broken,stimuli/images/Broken/broken_5.jpg,The computer was hopelessly broken. ,28,34
+broken,stimuli/images/Broken/broken_6.jpg,The door hung crooked after being broken. ,34,40
+building,stimuli/images/Building/building_1.jpg,The building used to be a theater.,4,12
+building,stimuli/images/Building/building_2.jpg,The library building has been around for years.,12,20
+building,stimuli/images/Building/building_3.jpg,Their building is a mansion just for themselves.,6,14
+building,stimuli/images/Building/building_4.jpg,The janitor put a mousetrap at the entrance of the building.,51,59
+building,stimuli/images/Building/building_5.jpg,The skyscraper is the city's newest building.,36,44
+building,stimuli/images/Building/building_6.jpg,The mosque is the lowest building on the street. ,25,33
+burn,stimuli/images/Burn/burn_1.jpg,The fire would burn slowly. ,15,19
+burn,stimuli/images/Burn/burn_2.jpg,The cigarette could burn her skin. ,20,24
+burn,stimuli/images/Burn/burn_3.jpg,A blowtorch will burn all night. ,17,21
+burn,stimuli/images/Burn/burn_4.jpg,The inflammable jacket will never burn. ,34,38
+burn,stimuli/images/Burn/burn_5.jpg,The heat of the stove in itself can burn you. ,36,40
+burn,stimuli/images/Burn/burn_6.jpg,The flashbulb may burn the curtain. ,18,22
+business,stimuli/images/Business/business_1.jpg,Banking and business make no sense to me.,12,20
+business,stimuli/images/Business/business_2.jpg,The company wanted to improve its business sector.,34,42
+business,stimuli/images/Business/business_3.jpg,He wanted to invest in a better business.  ,32,40
+business,stimuli/images/Business/business_4.jpg,Her business needed to take out a loan.,4,12
+business,stimuli/images/Business/business_5.jpg,The business wanted to expand its physical property.,4,12
+business,stimuli/images/Business/business_6.jpg,This new business venture could make her rich. ,9,17
+camera,stimuli/images/Camera/camera_1.jpg,The best camera has an unremarkable screen size. ,9,15
+camera,stimuli/images/Camera/camera_2.jpg,The spectrum of colors that this camera captures is unreal.,33,39
+camera,stimuli/images/Camera/camera_3.jpg,The camera shutter broke as it fell on the concrete. ,4,10
+camera,stimuli/images/Camera/camera_4.jpg,The camera didn't focus and took poor-quality pictures.,4,10
+camera,stimuli/images/Camera/camera_5.jpg,The camera display had numerous menu options. ,4,10
+camera,stimuli/images/Camera/camera_6.jpg,The camera reflex was too slow for what he wanted. ,4,10
+carefully,stimuli/images/Carefully/carefully_1.jpg,She carefully handled the roses one by one.,4,13
+carefully,stimuli/images/Carefully/carefully_2.jpg,She performed the job carefully yet efficiently. ,22,31
+carefully,stimuli/images/Carefully/carefully_3.jpg,He creatively described the problem while carefully explaining the details.,42,51
+carefully,stimuli/images/Carefully/carefully_4.jpg,The food was neatly and carefully arranged. ,24,33
+carefully,stimuli/images/Carefully/carefully_5.jpg,The house was carefully and flawlessly constructed. ,14,23
+carefully,stimuli/images/Carefully/carefully_6.jpg,"She conducted it so carefully, that the outcome was brilliantly designed. ",20,29
+challenge,stimuli/images/Challenge/challenge_1.jpg,This problem proved to be a challenge.,28,37
+challenge,stimuli/images/Challenge/challenge_2.jpg,The hardship was a challenge she could overcome. ,19,28
+challenge,stimuli/images/Challenge/challenge_3.jpg,A challenge is an obstacle to overcome.,2,11
+challenge,stimuli/images/Challenge/challenge_4.jpg,The challenge's burden scared her.,4,13
+challenge,stimuli/images/Challenge/challenge_5.jpg,It was critical to the team that he passed this challenge.,48,57
+challenge,stimuli/images/Challenge/challenge_6.jpg,The way he passed the challenge was formidable. ,22,31
+charity,stimuli/images/Charity/charity_1.jpg,This group often volunteers for charity.,32,39
+charity,stimuli/images/Charity/charity_2.jpg,The social organization developed a new devotion to charity.,52,59
+charity,stimuli/images/Charity/charity_3.jpg,The charity was improving its monetary allocations.,4,11
+charity,stimuli/images/Charity/charity_4.jpg,The charity event increased everyone's awareness of the worthy cause.,4,11
+charity,stimuli/images/Charity/charity_5.jpg,The charity is a resource for families with needs to turn to. ,4,11
+charity,stimuli/images/Charity/charity_6.jpg,I encourage you to participate in the charity fundraiser. ,38,45
+charming,stimuli/images/Charming/charming_1.jpg,The ambitious salesman was quite charming.,33,41
+charming,stimuli/images/Charming/charming_2.jpg,Her loveable laugh was charming.,23,31
+charming,stimuli/images/Charming/charming_3.jpg,His charming smile was beguiling. ,4,12
+charming,stimuli/images/Charming/charming_4.jpg,The speaker's charismatic nature was charming.,37,45
+charming,stimuli/images/Charming/charming_5.jpg,The charming toddler's mischievousness got him into trouble. ,4,12
+charming,stimuli/images/Charming/charming_6.jpg,The proposal was charming and rather gutsy. ,17,25
+clothes,stimuli/images/Clothes/clothes_1.jpg,None of his clothes are made of mesh.,12,19
+clothes,stimuli/images/Clothes/clothes_2.jpg,Sizing a growing boy's clothes is a difficult task. ,23,30
+clothes,stimuli/images/Clothes/clothes_3.jpg,That hat doesn't match his clothes. ,27,34
+clothes,stimuli/images/Clothes/clothes_4.jpg,His clothes are often made of flannel. ,4,11
+clothes,stimuli/images/Clothes/clothes_5.jpg,Sports clothes are usually made of spandex.,7,14
+clothes,stimuli/images/Clothes/clothes_6.jpg,His jacket protected his clothes from getting wet.  ,25,32
+cockroach,stimuli/images/Cockroach/cockroach_1.jpg,The pest control killed the cockroach speedily. ,28,37
+cockroach,stimuli/images/Cockroach/cockroach_2.jpg,The cockroach fed off the mold.,4,13
+cockroach,stimuli/images/Cockroach/cockroach_3.jpg,The cockroach ate the ant.,4,13
+cockroach,stimuli/images/Cockroach/cockroach_4.jpg,"In the kids story, the grasshopper and the cockroach became friends.",43,52
+cockroach,stimuli/images/Cockroach/cockroach_5.jpg,The cockroach infestation overwhelmed her. ,4,13
+cockroach,stimuli/images/Cockroach/cockroach_6.jpg,The pesky cockroach managed to survive.  ,10,19
+code,stimuli/images/Code/code_1.jpg,Please change the code to make it run faster.,18,22
+code,stimuli/images/Code/code_2.jpg,He saved the code quickly when he came up with a new solution.,13,17
+code,stimuli/images/Code/code_3.jpg,She added new code to the script.,14,18
+code,stimuli/images/Code/code_4.jpg,"He could code like a pro, but he couldn't type fast.",9,13
+code,stimuli/images/Code/code_5.jpg,The key to good code is simplicity. ,16,20
+code,stimuli/images/Code/code_6.jpg,She needs to modify her code to take user's inputs.,24,28
+collection,stimuli/images/Collection/collection_1.jpg,Her collection of precious antiques was her pride and joy.,4,14
+collection,stimuli/images/Collection/collection_2.jpg,He hoarded a collection of autographs of famous people.,13,23
+collection,stimuli/images/Collection/collection_3.jpg,"Since childhood, she has been growing a collection of postcards and other souvenirs.",40,50
+collection,stimuli/images/Collection/collection_4.jpg,He stole more than one stamp to complete his collection.,45,55
+collection,stimuli/images/Collection/collection_5.jpg,The item wasn't worth adding to the collection.,36,46
+collection,stimuli/images/Collection/collection_6.jpg,She assembled a collection from items bought at auctions.,16,26
+computer,stimuli/images/Computer/computer_1.jpg,The system crashed so he needed another computer.,40,48
+computer,stimuli/images/Computer/computer_2.jpg,Running the application made the computer freeze.,33,41
+computer,stimuli/images/Computer/computer_3.jpg,She has never used this kind of interface on her computer before.,49,57
+computer,stimuli/images/Computer/computer_4.jpg,The infrastructure of the computer might as well be a black box.,26,34
+computer,stimuli/images/Computer/computer_5.jpg,He was streaming music from his computer. ,32,40
+computer,stimuli/images/Computer/computer_6.jpg,His desktop computer is pretty old. ,12,20
+construction,stimuli/images/Construction/construction_1.jpg,Construction slowed down as soon as the last wall was put up.,0,12
+construction,stimuli/images/Construction/construction_2.jpg,Plastering is an important step in construction.,35,47
+construction,stimuli/images/Construction/construction_3.jpg,The construction process began with flooring.,4,16
+construction,stimuli/images/Construction/construction_4.jpg,The remodeling would require three years of construction.,44,56
+construction,stimuli/images/Construction/construction_5.jpg,The homeowner hated the noise of construction.,33,45
+construction,stimuli/images/Construction/construction_6.jpg,The workmanship of the construction company was amazing.  ,23,35
+cook,stimuli/images/Cook/cook_1.jpg,To cook the fish you have to defrost it first. ,3,7
+cook,stimuli/images/Cook/cook_2.jpg,"If she wanted to cook, she would need a larger fridge. ",17,21
+cook,stimuli/images/Cook/cook_3.jpg,He thought he could cook when he bought the pan.,20,24
+cook,stimuli/images/Cook/cook_4.jpg,The steaming pot revealed how well she could cook. ,45,49
+cook,stimuli/images/Cook/cook_5.jpg,He thought you had to cook the dough. ,22,26
+cook,stimuli/images/Cook/cook_6.jpg,"To cook the stew, first warm up the stove. ",3,7
+counting,stimuli/images/Counting/counting_1.jpg,He couldn't count past five. ,12,20
+counting,stimuli/images/Counting/counting_2.jpg,He will count backwards to one.,8,16
+counting,stimuli/images/Counting/counting_3.jpg,She was already able to count to a hundred.  ,24,32
+counting,stimuli/images/Counting/counting_4.jpg,I will count by fives to speed it up. ,7,15
+counting,stimuli/images/Counting/counting_5.jpg,I can count the tally for you.  ,6,14
+counting,stimuli/images/Counting/counting_6.jpg,He will count up to fourteen. ,8,16
+crazy,stimuli/images/Crazy/crazy_1.jpg,His nightmare drove him crazy.,24,29
+crazy,stimuli/images/Crazy/crazy_2.jpg,The crazy taxi driver was freaky.,4,9
+crazy,stimuli/images/Crazy/crazy_3.jpg,The animal had a crazy and bloodthirsty look to it. ,17,22
+crazy,stimuli/images/Crazy/crazy_4.jpg,The crazy demon was just grotesque. ,4,9
+crazy,stimuli/images/Crazy/crazy_5.jpg,The ritual felt crazy and animalistic.,16,21
+crazy,stimuli/images/Crazy/crazy_6.jpg,"As crazy as the dystopia was, it was his new life. ",3,8
+damage,stimuli/images/Damage/damage_1.jpg,The accident left some serious damage.,31,37
+damage,stimuli/images/Damage/damage_2.jpg,The impact of the snow required damage control.,32,38
+damage,stimuli/images/Damage/damage_3.jpg,The possibility of damage kept her nervous.,19,25
+damage,stimuli/images/Damage/damage_4.jpg,The inevitable damage caused by the storm was all he could talk about.,15,21
+damage,stimuli/images/Damage/damage_5.jpg,Severe damage from the flood left many without a home.,7,13
+damage,stimuli/images/Damage/damage_6.jpg,The amount of damage in the streets was unexpected. ,14,20
+dance,stimuli/images/Dance/dance_1.jpg,He had to shuffle through the steps of the dance.,43,48
+dance,stimuli/images/Dance/dance_2.jpg,She learned how the dance in ballroom class last year.,20,25
+dance,stimuli/images/Dance/dance_3.jpg,Juggling dance and gymnastics was hard.,9,14
+dance,stimuli/images/Dance/dance_4.jpg,The Irish folk dance requires fast footwork.,15,20
+dance,stimuli/images/Dance/dance_5.jpg,He was found dancing the dance all the time.,25,30
+dance,stimuli/images/Dance/dance_6.jpg,Walking the dance helped him learn it. ,12,17
+dangerous,stimuli/images/Dangerous/dangerous_1.jpg,The punishment was dangerous and cruel.,19,28
+dangerous,stimuli/images/Dangerous/dangerous_2.jpg,Climbing that bridge was boneheaded and dangerous. ,40,49
+dangerous,stimuli/images/Dangerous/dangerous_3.jpg,Aggravating the president was unpatriotic and plain dangerous.,52,61
+dangerous,stimuli/images/Dangerous/dangerous_4.jpg,It was unwise to take on that dangerous of a task. ,30,39
+dangerous,stimuli/images/Dangerous/dangerous_5.jpg,The dangerous monster smelled atrociously.,4,13
+dangerous,stimuli/images/Dangerous/dangerous_6.jpg,It is unacceptable how dangerous these living conditions are. ,23,32
+deceive,stimuli/images/Deceive/deceive_1.jpg,To lie is to deceive.,13,20
+deceive,stimuli/images/Deceive/deceive_2.jpg,How could he deceive her in such a devious way?,13,20
+deceive,stimuli/images/Deceive/deceive_3.jpg,His ploy was to deceive the old lady over a long period of time. ,16,23
+deceive,stimuli/images/Deceive/deceive_4.jpg,The plan was to bribe and deceive him quickly. ,26,33
+deceive,stimuli/images/Deceive/deceive_5.jpg,"She did not want to deceive him, but she was too far into the operative now. ",20,27
+deceive,stimuli/images/Deceive/deceive_6.jpg,The motive was serious enough for him to deceive his friend. ,41,48
+dedication,stimuli/images/Dedication/dedication_1.jpg,His passionate proclamation demonstrated his dedication.,45,55
+dedication,stimuli/images/Dedication/dedication_2.jpg,His dedication to his job is what made him so successful.,4,14
+dedication,stimuli/images/Dedication/dedication_3.jpg,Her dedication spurred her pursuit of the best caterer.,4,14
+dedication,stimuli/images/Dedication/dedication_4.jpg,Her dedication mirrored her commitment to the task.,4,14
+dedication,stimuli/images/Dedication/dedication_5.jpg,His dedication to the relationship meant he was very faithful to her. ,4,14
+dedication,stimuli/images/Dedication/dedication_6.jpg,Her loyal dedication was demonstrated over the years.  ,10,20
+deliberately,stimuli/images/Deliberately/deliberately_1.jpg,She deliberately and wrongfully hurt her friend.,4,16
+deliberately,stimuli/images/Deliberately/deliberately_2.jpg,He ruthlessly and deliberately ignored her that night. ,18,30
+deliberately,stimuli/images/Deliberately/deliberately_3.jpg,She inadvertently stepped on him and he deliberately pushed her in response.,40,52
+deliberately,stimuli/images/Deliberately/deliberately_4.jpg,"He arbitrarily, rather than deliberately, asked her out. ",28,40
+deliberately,stimuli/images/Deliberately/deliberately_5.jpg,The decision was made deliberately and it unjustly cost her her job.,22,34
+deliberately,stimuli/images/Deliberately/deliberately_6.jpg,He foolishly accepted the offer that deliberately cut his wage in half. ,37,49
+delivery,stimuli/images/Delivery/delivery_1.jpg,The website offered free delivery. ,25,33
+delivery,stimuli/images/Delivery/delivery_2.jpg,The delivery date was unclear. ,4,12
+delivery,stimuli/images/Delivery/delivery_3.jpg,The form of delivery was up to him. ,12,20
+delivery,stimuli/images/Delivery/delivery_4.jpg,She wanted to intercept the delivery so that no one else could see it.,28,36
+delivery,stimuli/images/Delivery/delivery_5.jpg,He wanted confirmation of the delivery. ,30,38
+delivery,stimuli/images/Delivery/delivery_6.jpg,"Because time was of essence, she requested express delivery.",51,59
+dessert,stimuli/images/Dessert/dessert_1.jpg,Ice cream is her favorite dessert.,26,33
+dessert,stimuli/images/Dessert/dessert_2.jpg,Candy is a good choice for dessert.,27,34
+dessert,stimuli/images/Dessert/dessert_3.jpg,The dessert at the dinner was fruitcake.,4,11
+dessert,stimuli/images/Dessert/dessert_4.jpg,Yogurt did not replace dessert in her mind.,23,30
+dessert,stimuli/images/Dessert/dessert_5.jpg,The jelly sandwich was practically dessert. ,35,42
+dessert,stimuli/images/Dessert/dessert_6.jpg,The filling of the dessert was marvelous. ,19,26
+device,stimuli/images/Device/device_1.jpg,She didn't understand how to position the antenna so that the device would work.,62,68
+device,stimuli/images/Device/device_2.jpg,The device was wired in a very simple way. ,4,10
+device,stimuli/images/Device/device_3.jpg,She had to coax the device to get it going again. ,20,26
+device,stimuli/images/Device/device_4.jpg,The switch on the device popped off unexpectedly.,18,24
+device,stimuli/images/Device/device_5.jpg,The device was disconnected from the power outlet.,4,10
+device,stimuli/images/Device/device_6.jpg,The transistor was built into the device. ,34,40
+dig,stimuli/images/Dig/dig_1.jpg,He can dig and discover all he wants. ,7,10
+dig,stimuli/images/Dig/dig_2.jpg,The erosion made it difficult to dig.,33,36
+dig,stimuli/images/Dig/dig_3.jpg,He didn't want to dig in the excavation.,18,21
+dig,stimuli/images/Dig/dig_4.jpg,The fossil was found after most people didn't want to dig anymore.  ,54,57
+dig,stimuli/images/Dig/dig_5.jpg,You can dig a ditch in a few hours.,8,11
+dig,stimuli/images/Dig/dig_6.jpg,"While he wanted to dig, he didn't want to be underground. ",19,22
+dinner,stimuli/images/Dinner/dinner_1.jpg,Her lunch is often made up of leftovers from dinner. ,45,51
+dinner,stimuli/images/Dinner/dinner_2.jpg,He wanted a sandwich for dinner.,25,31
+dinner,stimuli/images/Dinner/dinner_3.jpg,Noodles from dinner were still on the table.  ,13,19
+dinner,stimuli/images/Dinner/dinner_4.jpg,Fondue for dinner is her favorite.,11,17
+dinner,stimuli/images/Dinner/dinner_5.jpg,I would like to serve dinner now.,22,28
+dinner,stimuli/images/Dinner/dinner_6.jpg,The dinner was super yummy. ,4,10
+disease,stimuli/images/Disease/disease_1.jpg,Heart disease is common in the U.S.,6,13
+disease,stimuli/images/Disease/disease_2.jpg,Type Two Diabetes is a disease that usually only adults get.,23,30
+disease,stimuli/images/Disease/disease_3.jpg,The tumor was a symptom of a serious disease.,37,44
+disease,stimuli/images/Disease/disease_4.jpg,Abnormal test results indicated the onset of a disease.,47,54
+disease,stimuli/images/Disease/disease_5.jpg,The patient was relieved to hear that his disease was in remission. ,42,49
+disease,stimuli/images/Disease/disease_6.jpg,They didn't know the source of his respiratory disease. ,47,54
+dissolve,stimuli/images/Dissolve/dissolve_1.jpg,Inject some more solution to dissolve the powder.,29,37
+dissolve,stimuli/images/Dissolve/dissolve_2.jpg,You won't dissolve the issue by asking them to disperse. ,10,18
+dissolve,stimuli/images/Dissolve/dissolve_3.jpg,Dissolve the substance and let it evaporate. ,0,8
+dissolve,stimuli/images/Dissolve/dissolve_4.jpg,Distill and dissolve the issue immediately. ,12,20
+dissolve,stimuli/images/Dissolve/dissolve_5.jpg,You won't dissolve the memory if you compartmentalize it. ,10,18
+dissolve,stimuli/images/Dissolve/dissolve_6.jpg,Demystify and dissolve the rumor. ,14,22
+disturb,stimuli/images/Disturb/disturb_1.jpg,His insult will disturb her deeply.,16,23
+disturb,stimuli/images/Disturb/disturb_2.jpg,"He can disturb her as much as he likes, it won't affect me.",7,14
+disturb,stimuli/images/Disturb/disturb_3.jpg,He can disturb and aggravate just about anyone.,7,14
+disturb,stimuli/images/Disturb/disturb_4.jpg,"Conspire as much as you like, it won't disturb her. ",39,46
+disturb,stimuli/images/Disturb/disturb_5.jpg,Restrain yourself and don't disturb the peace. ,28,35
+disturb,stimuli/images/Disturb/disturb_6.jpg,"If you disturb the meeting, you might jeopardize your chances. ",7,14
+do,stimuli/images/Do/do_1.jpg,Do you often deviate from the rules?,0,2
+do,stimuli/images/Do/do_2.jpg,I do not falter when I know what I want.,2,4
+do,stimuli/images/Do/do_3.jpg,You do get punished if you misbehave. ,4,6
+do,stimuli/images/Do/do_4.jpg,Do me no wrong and divulge the secret. ,0,2
+do,stimuli/images/Do/do_5.jpg,I dare you to do that. ,14,16
+do,stimuli/images/Do/do_6.jpg,You do have the tendency to annoy me. ,4,6
+doctor,stimuli/images/Doctor/doctor_1.jpg,The hospital wanted to hire a new doctor. ,34,40
+doctor,stimuli/images/Doctor/doctor_2.jpg,A young brilliant doctor performed the surgery.,18,24
+doctor,stimuli/images/Doctor/doctor_3.jpg,The doctor was not used to dealing with patient trauma. ,4,10
+doctor,stimuli/images/Doctor/doctor_4.jpg,There is no such thing as an occupational doctor. ,42,48
+doctor,stimuli/images/Doctor/doctor_5.jpg,He would consult his friend first before he saw his doctor.,52,58
+doctor,stimuli/images/Doctor/doctor_6.jpg,The physician preferred being called a doctor. ,39,45
+dog,stimuli/images/Dog/dog_1.jpg,The man was able to rescue the dog.,31,34
+dog,stimuli/images/Dog/dog_2.jpg,The shelter worker wished that more people wanted a dog.,52,55
+dog,stimuli/images/Dog/dog_3.jpg,Her dog's temperament matched her own.,4,7
+dog,stimuli/images/Dog/dog_4.jpg,A dog is a great companion. ,2,5
+dog,stimuli/images/Dog/dog_5.jpg,The spaniel was a terrible dog. ,27,30
+dog,stimuli/images/Dog/dog_6.jpg,The vet didn't want a dog of her own. ,22,25
+dressing,stimuli/images/Dressing/dressing_1.jpg,The dressing would be thicker if an egg was mixed in. ,4,12
+dressing,stimuli/images/Dressing/dressing_2.jpg,Garlic made the dressing inedible. ,16,24
+dressing,stimuli/images/Dressing/dressing_3.jpg,The mozzarella was glazed with an oily dressing.,39,47
+dressing,stimuli/images/Dressing/dressing_4.jpg,A delicious dressing was used as a garnish for the entr'e. ,12,20
+dressing,stimuli/images/Dressing/dressing_5.jpg,The dressing gave the marmalade a sour twist. ,4,12
+dressing,stimuli/images/Dressing/dressing_6.jpg,Sauerkraut is sour enough without dressing. ,34,42
+driver,stimuli/images/Driver/driver_1.jpg,The driver felt it was his duty to take her home safely.,4,10
+driver,stimuli/images/Driver/driver_2.jpg,The driver could not lift the bicycle out of the trunk.,4,10
+driver,stimuli/images/Driver/driver_3.jpg,The bulldozer needed a better driver.,30,36
+driver,stimuli/images/Driver/driver_4.jpg,The taxicab driver was tired of the people behind him.,12,18
+driver,stimuli/images/Driver/driver_5.jpg,The actress needed to hire a new driver. ,33,39
+driver,stimuli/images/Driver/driver_6.jpg,The driver hated loading in at the airport. ,4,10
+economy,stimuli/images/Economy/economy_1.jpg,The boom gave the economy a big boost.,18,25
+economy,stimuli/images/Economy/economy_2.jpg,The economy spiked unexpectedly.,4,11
+economy,stimuli/images/Economy/economy_3.jpg,The economy was in a slump.,4,11
+economy,stimuli/images/Economy/economy_4.jpg,The demand for carpools was not predicted by the economy.,49,56
+economy,stimuli/images/Economy/economy_5.jpg,Unemployment continues to affect the country's economy.,47,54
+economy,stimuli/images/Economy/economy_6.jpg,The current economy is good for college graduates. ,12,19
+election,stimuli/images/Election/election_1.jpg,The election took place at the town hall meeting.,4,12
+election,stimuli/images/Election/election_2.jpg,The council would hold another election next spring.,31,39
+election,stimuli/images/Election/election_3.jpg,The candidate was up for election.,25,33
+election,stimuli/images/Election/election_4.jpg,The poll was swarmed for the election.,29,37
+election,stimuli/images/Election/election_5.jpg,The nomination for election was an honor. ,19,27
+election,stimuli/images/Election/election_6.jpg,The councilman didn't stay for the election. ,35,43
+electron,stimuli/images/Electron/electron_1.jpg,The electron moves in a wave. ,4,12
+electron,stimuli/images/Electron/electron_2.jpg,An electron is a miniscule particle.,3,11
+electron,stimuli/images/Electron/electron_3.jpg,An electron affects the equilibrium of a substance. ,3,11
+electron,stimuli/images/Electron/electron_4.jpg,The wavelength of an electron can be calculated. ,21,29
+electron,stimuli/images/Electron/electron_5.jpg,Calculating the mass of an electron uses Planck's constant. ,27,35
+electron,stimuli/images/Electron/electron_6.jpg,The movement of an electron is often discussed in thermal chemistry.  ,19,27
+elegance,stimuli/images/Elegance/elegance_1.jpg,Her elegance exuded unexpected warmth. ,4,12
+elegance,stimuli/images/Elegance/elegance_2.jpg,The formality of the event added to its elegance.,40,48
+elegance,stimuli/images/Elegance/elegance_3.jpg,The grandeur of the home screamed elegance. ,34,42
+elegance,stimuli/images/Elegance/elegance_4.jpg,The simplicity of the garden's elegance was incomparable.,31,39
+elegance,stimuli/images/Elegance/elegance_5.jpg,The combination of sensuality and elegance is hard to match. ,34,42
+elegance,stimuli/images/Elegance/elegance_6.jpg,The inherent elegance of the palace overwhelmed her. ,13,21
+emotion,stimuli/images/Emotion/emotion_1.jpg,His shame was his least controlled emotion.,35,42
+emotion,stimuli/images/Emotion/emotion_2.jpg,Sorrow was his dominating emotion nowadays. ,26,33
+emotion,stimuli/images/Emotion/emotion_3.jpg,The emotion that took over her after the meeting was indignation. ,4,11
+emotion,stimuli/images/Emotion/emotion_4.jpg,"Betrayal isn't an emotion, though it may trigger one or many. ",18,25
+emotion,stimuli/images/Emotion/emotion_5.jpg,Her disapproval resulted in an emotion she later identified as embarrassment.  ,31,38
+emotion,stimuli/images/Emotion/emotion_6.jpg,Her desire to feel a more positive emotion was overwhelming. ,35,42
+emotionally,stimuli/images/Emotionally/emotionally_1.jpg,He felt emotionally and mentally secure.,8,19
+emotionally,stimuli/images/Emotionally/emotionally_2.jpg,Morally and emotionally the decision was difficult. ,12,23
+emotionally,stimuli/images/Emotionally/emotionally_3.jpg,"Objectively speaking, he didn't get her emotionally. ",40,51
+emotionally,stimuli/images/Emotionally/emotionally_4.jpg,An unsound judgment left her emotionally wrecked. ,29,40
+emotionally,stimuli/images/Emotionally/emotionally_5.jpg,The family solidly pumped him up emotionally. ,33,44
+emotionally,stimuli/images/Emotionally/emotionally_6.jpg,"While he was successful academically, he was underdeveloped emotionally. ",60,71
+engine,stimuli/images/Engine/engine_1.jpg,The engine is in the front of the car. ,4,10
+engine,stimuli/images/Engine/engine_2.jpg,The spare tire is up by the engine.,28,34
+engine,stimuli/images/Engine/engine_3.jpg,A hybrid car has a different kind of engine.,37,43
+engine,stimuli/images/Engine/engine_4.jpg,The jeep's engine gave out at the traffic light.,11,17
+engine,stimuli/images/Engine/engine_5.jpg,Engine is another word for motor. ,0,6
+engine,stimuli/images/Engine/engine_6.jpg,This car has its engine in the trunk. ,17,23
+event,stimuli/images/Event/event_1.jpg,Everyone was so happy at the event.,29,34
+event,stimuli/images/Event/event_2.jpg,The event was a celebration of his life and work.,4,9
+event,stimuli/images/Event/event_3.jpg,The tenth reunion was a spectacular event.,36,41
+event,stimuli/images/Event/event_4.jpg,The housewarming event was heavily attended.,17,22
+event,stimuli/images/Event/event_5.jpg,The impromptu nature of the event made it special.,28,33
+event,stimuli/images/Event/event_6.jpg,The luncheon was a monthly event hosted by the headmaster. ,27,32
+experiment,stimuli/images/Experiment/experiment_1.jpg,This psychology experiment aimed to study human behavior.,16,26
+experiment,stimuli/images/Experiment/experiment_2.jpg,The experiment had a condition that turned out to be diagnostic of psychosis. ,4,14
+experiment,stimuli/images/Experiment/experiment_3.jpg,The experiment was measuring blood pressure under different conditions.,4,14
+experiment,stimuli/images/Experiment/experiment_4.jpg,Debriefing participants about the experiment is important. ,34,44
+experiment,stimuli/images/Experiment/experiment_5.jpg,A recent physics experiment led to an important observation.,17,27
+experiment,stimuli/images/Experiment/experiment_6.jpg,Initial expectations didn't match up with the results of the experiment.,61,71
+extremely,stimuli/images/Extremely/extremely_1.jpg,She is extremely powerful in the workroom. ,7,16
+extremely,stimuli/images/Extremely/extremely_2.jpg,"She is impossibly kind, and extremely goal-driven. ",28,37
+extremely,stimuli/images/Extremely/extremely_3.jpg,She is extremely and intensely motivated. ,7,16
+extremely,stimuli/images/Extremely/extremely_4.jpg,"Infinitely grateful, he accepted the award for his extremely well-written proposal.",51,60
+extremely,stimuli/images/Extremely/extremely_5.jpg,"Exceptionally gifted and extremely humble, Steve was easy to envy. ",25,34
+extremely,stimuli/images/Extremely/extremely_6.jpg,"Unarguably the best student in the class, Sarah remained extremely competitive. ",57,66
+feeling,stimuli/images/Feeling/feeling_1.jpg,She was feeling a bit afraid in light of finals coming up.,8,15
+feeling,stimuli/images/Feeling/feeling_2.jpg,"While he was worried, she was feeling fine.",30,37
+feeling,stimuli/images/Feeling/feeling_3.jpg,The baby was feeling fussy all day.,13,20
+feeling,stimuli/images/Feeling/feeling_4.jpg,The cat was feeling grumpy and scratched the chair.,12,19
+feeling,stimuli/images/Feeling/feeling_5.jpg,His temperamental mood swings had her feeling sad.,38,45
+feeling,stimuli/images/Feeling/feeling_6.jpg,She was feeling weary of his skittish behavior.,8,15
+fight,stimuli/images/Fight/fight_1.jpg,The first swing of the sword began the fight.,39,44
+fight,stimuli/images/Fight/fight_2.jpg,The beast started the fight. ,22,27
+fight,stimuli/images/Fight/fight_3.jpg,The goblin fled from the fight.,25,30
+fight,stimuli/images/Fight/fight_4.jpg,The gladiator did not want to fight. ,30,35
+fight,stimuli/images/Fight/fight_5.jpg,The bloodline was worth the fight.,28,33
+fight,stimuli/images/Fight/fight_6.jpg,The warlock put up a good fight. ,26,31
+fish,stimuli/images/Fish/fish_1.jpg,He wanted to see the fish in the ocean.,21,25
+fish,stimuli/images/Fish/fish_2.jpg,His plan to find fish like shark in saltwater was just silly.,17,21
+fish,stimuli/images/Fish/fish_3.jpg,"After catching a carp, he wanted more fish.",38,42
+fish,stimuli/images/Fish/fish_4.jpg,The gator eats fish like trout. ,15,19
+fish,stimuli/images/Fish/fish_5.jpg,The divers weren't there for the fish. ,33,37
+fish,stimuli/images/Fish/fish_6.jpg,"Some love the water to surf, some like the fish. ",43,47
+flow,stimuli/images/Flow/flow_1.jpg,Hot air would flow out from the heater. ,14,18
+flow,stimuli/images/Flow/flow_2.jpg,The minimal water flow reminded him to pay his rent.,18,22
+flow,stimuli/images/Flow/flow_3.jpg,The leak disrupted the flow. ,23,27
+flow,stimuli/images/Flow/flow_4.jpg,The spout has a shape that inhibits flow.,36,40
+flow,stimuli/images/Flow/flow_5.jpg,A liter of water will flow out of the canister.,22,26
+flow,stimuli/images/Flow/flow_6.jpg,The turbine relies on a steady flow. ,31,35
+food,stimuli/images/Food/food_1.jpg,She eats junk food on the weekends.,14,18
+food,stimuli/images/Food/food_2.jpg,He felt fat after eating that much food.,35,39
+food,stimuli/images/Food/food_3.jpg,The cat food today consisted of kibble.,8,12
+food,stimuli/images/Food/food_4.jpg,She tries to get a lot of nutritional value out of her food.,55,59
+food,stimuli/images/Food/food_5.jpg,He was devouring his food as she spoke.,21,25
+food,stimuli/images/Food/food_6.jpg,Finding suitable food at the steakhouse is hard for a vegetarian. ,17,21
+garbage,stimuli/images/Garbage/garbage_1.jpg,The dumpster was full of garbage.,25,32
+garbage,stimuli/images/Garbage/garbage_2.jpg,He threw the rotten apple into the garbage.,35,42
+garbage,stimuli/images/Garbage/garbage_3.jpg,Trash is another word for garbage.,26,33
+garbage,stimuli/images/Garbage/garbage_4.jpg,The garbage began to reek in the sun.,4,11
+garbage,stimuli/images/Garbage/garbage_5.jpg,The landfill is brimming with garbage.,30,37
+garbage,stimuli/images/Garbage/garbage_6.jpg,The sewer bubbled over into the garbage.,32,39
+gold,stimuli/images/Gold/gold_1.jpg,I've always wanted a gold watch for my thirtieth birthday.,21,25
+gold,stimuli/images/Gold/gold_2.jpg,The yellow gold shone brightly against her skin.,11,15
+gold,stimuli/images/Gold/gold_3.jpg,He chose the gold ring after careful deliberation.,13,17
+gold,stimuli/images/Gold/gold_4.jpg,The horseshoe had gold accents wrapped around it.,18,22
+gold,stimuli/images/Gold/gold_5.jpg,He couldn't take his eyes off of the glittering gold.,48,52
+gold,stimuli/images/Gold/gold_6.jpg,The paperweight was made of gold. ,28,32
+great,stimuli/images/Great/great_1.jpg,The experience was irresistible in how great it was. ,39,44
+great,stimuli/images/Great/great_2.jpg,"If the first choice was great, the second was absolutely terrific.",24,29
+great,stimuli/images/Great/great_3.jpg,The great waiter made sure the guests had a lovely time.,4,9
+great,stimuli/images/Great/great_4.jpg,The spectacular view was what made the room so great.,47,52
+great,stimuli/images/Great/great_5.jpg,The food was great and the service exceptional.,13,18
+great,stimuli/images/Great/great_6.jpg,It is amazing how great she is at getting what she wants. ,18,23
+gun,stimuli/images/Gun/gun_1.jpg,A gun is a kind of weapon.,2,5
+gun,stimuli/images/Gun/gun_2.jpg,Firing a gun can kill someone.,9,12
+gun,stimuli/images/Gun/gun_3.jpg,The gun had one bullet left.,4,7
+gun,stimuli/images/Gun/gun_4.jpg,The shooter threw away his gun.,27,30
+gun,stimuli/images/Gun/gun_5.jpg,He aimed the gun at the target. ,13,16
+gun,stimuli/images/Gun/gun_6.jpg,The blast from the gun was loud. ,19,22
+hair,stimuli/images/Hair/hair_1.jpg,His blond hair looked very attractive against a dark blue shirt. ,10,14
+hair,stimuli/images/Hair/hair_2.jpg,His moustache is a different color from the hair on his head.,44,48
+hair,stimuli/images/Hair/hair_3.jpg,Her hair is droopy in the heat.,4,8
+hair,stimuli/images/Hair/hair_4.jpg,The model's hair was voluminous. ,12,16
+hair,stimuli/images/Hair/hair_5.jpg,He lost most of his hair when he tried to straighten it. ,20,24
+hair,stimuli/images/Hair/hair_6.jpg,The cat's whiskers felt like human hair to the touch. ,35,39
+help,stimuli/images/Help/help_1.jpg,Someone had to help her to replace the engine. ,15,19
+help,stimuli/images/Help/help_2.jpg,"You can't recover alone, you need a doctor to help you. ",46,50
+help,stimuli/images/Help/help_3.jpg,Stimulate the area to help it wake up. ,22,26
+help,stimuli/images/Help/help_4.jpg,Please clarify how I can help. ,25,29
+help,stimuli/images/Help/help_5.jpg,You won't stabilize unless you let him help you.,39,43
+help,stimuli/images/Help/help_6.jpg,Reinforce the idea that letting people help you is a sign of strength.,39,43
+hurting,stimuli/images/Hurting/hurting_1.jpg,Her nose was hurting after the fall on the concrete.,13,20
+hurting,stimuli/images/Hurting/hurting_2.jpg,His tooth was hurting after baseball practice.,14,21
+hurting,stimuli/images/Hurting/hurting_3.jpg,Hurting her hip was the worst thing that could happen.,0,7
+hurting,stimuli/images/Hurting/hurting_4.jpg,The child's bony bottom was hurting the mother's lap.,28,35
+hurting,stimuli/images/Hurting/hurting_5.jpg,The prosthetic arm was hurting her where it attached. ,23,30
+hurting,stimuli/images/Hurting/hurting_6.jpg,"After giving birth, her pelvis was hurting tremendously. ",35,42
+ignorance,stimuli/images/Ignorance/ignorance_1.jpg,That is an example of his misunderstanding rather than his ignorance. ,59,68
+ignorance,stimuli/images/Ignorance/ignorance_2.jpg,His arrogance is striking given the level of his ignorance.,49,58
+ignorance,stimuli/images/Ignorance/ignorance_3.jpg,Their ignorance stems from their nighttime debauchery. ,6,15
+ignorance,stimuli/images/Ignorance/ignorance_4.jpg,His complete ignorance explains his inefficiency. ,13,22
+ignorance,stimuli/images/Ignorance/ignorance_5.jpg,Cut the tomfoolery and work on changing ignorance. ,40,49
+ignorance,stimuli/images/Ignorance/ignorance_6.jpg,I can't tell if it is your cockiness or ignorance that bothers me most. ,40,49
+illness,stimuli/images/Illness/illness_1.jpg,The illness spread quickly across the local community. ,4,11
+illness,stimuli/images/Illness/illness_2.jpg,His illness turned out to be the flu.,4,11
+illness,stimuli/images/Illness/illness_3.jpg,The penicillin didn't seem to cure her illness.,39,46
+illness,stimuli/images/Illness/illness_4.jpg,She contracted a stomach illness from the local food.,25,32
+illness,stimuli/images/Illness/illness_5.jpg,Typhoid was an illness that affected many people back in the day.,15,22
+illness,stimuli/images/Illness/illness_6.jpg,"Luckily, he wasn't susceptible to the illness. ",38,45
+impress,stimuli/images/Impress/impress_1.jpg,It is easy to impress the unsuspecting countess. ,14,21
+impress,stimuli/images/Impress/impress_2.jpg,Don't terrify her but impress her. ,22,29
+impress,stimuli/images/Impress/impress_3.jpg,Misdirect the attention onto you to really impress him. ,43,50
+impress,stimuli/images/Impress/impress_4.jpg,"In order to impress him, titillate his interests. ",12,19
+impress,stimuli/images/Impress/impress_5.jpg,"Try more than to impress him, astonish him!",17,24
+impress,stimuli/images/Impress/impress_6.jpg,"Tonight, you will mesmerize and impress your audience.  ",32,39
+invention,stimuli/images/Invention/invention_1.jpg,The invention could comprise the company's future.,4,13
+invention,stimuli/images/Invention/invention_2.jpg,The invention of the drink involved an unexpected element.,4,13
+invention,stimuli/images/Invention/invention_3.jpg,The semiconductor was a crucial component of the invention.,49,58
+invention,stimuli/images/Invention/invention_4.jpg,The invention rotated upon the push of a button.,4,13
+invention,stimuli/images/Invention/invention_5.jpg,The invention was shown schematically on a large piece of paper.,4,13
+invention,stimuli/images/Invention/invention_6.jpg,The new invention involved a reflective material overlying the glass material.,8,17
+investigation,stimuli/images/Investigation/investigation_1.jpg,The criminal was under investigation again.,23,36
+investigation,stimuli/images/Investigation/investigation_2.jpg,An investigation doesn't necessarily produce a charge.,3,16
+investigation,stimuli/images/Investigation/investigation_3.jpg,Suspicion spurred the officer to continue the investigation.,46,59
+investigation,stimuli/images/Investigation/investigation_4.jpg,The investigation was unlawful.,4,17
+investigation,stimuli/images/Investigation/investigation_5.jpg,The burglary did not lead to an investigation.,32,45
+investigation,stimuli/images/Investigation/investigation_6.jpg,The investigation uncovered a scandal.,4,17
+invisible,stimuli/images/Invisible/invisible_1.jpg,The ghost was invisible.,14,23
+invisible,stimuli/images/Invisible/invisible_2.jpg,"The girl felt insignificant, like she was invisible.",42,51
+invisible,stimuli/images/Invisible/invisible_3.jpg,The spider web is almost invisible to the naked eye.,25,34
+invisible,stimuli/images/Invisible/invisible_4.jpg,The wind is invisible and odorless.,12,21
+invisible,stimuli/images/Invisible/invisible_5.jpg,It was inexplicable how the boy had become invisible. ,43,52
+invisible,stimuli/images/Invisible/invisible_6.jpg,She was virtually invisible in the dark. ,18,27
+job,stimuli/images/Job/job_1.jpg,For her job she works as a cashier.,8,11
+job,stimuli/images/Job/job_2.jpg,"As a coordinator, it is her job to organize the event.",28,31
+job,stimuli/images/Job/job_3.jpg,Recruitment season is the perfect time to get a job.,48,51
+job,stimuli/images/Job/job_4.jpg,The job position recently closed. ,4,7
+job,stimuli/images/Job/job_5.jpg,The manager wanted to give up his job soon after he got it. ,34,37
+job,stimuli/images/Job/job_6.jpg,The first month on the job is under supervision. ,23,26
+jungle,stimuli/images/Jungle/jungle_1.jpg,The monkey lives in the jungle.,24,30
+jungle,stimuli/images/Jungle/jungle_2.jpg,The jungle appears giant from every angle.,4,10
+jungle,stimuli/images/Jungle/jungle_3.jpg,Ferocious animals abound in the jungle.,32,38
+jungle,stimuli/images/Jungle/jungle_4.jpg,The gazelle grazed at the outskirts of the jungle.,43,49
+jungle,stimuli/images/Jungle/jungle_5.jpg,The lion does not live in the jungle. ,30,36
+jungle,stimuli/images/Jungle/jungle_6.jpg,A new species of frog were recently discovered in the jungle. ,54,60
+kindness,stimuli/images/Kindness/kindness_1.jpg,He had respect for her kindness.,23,31
+kindness,stimuli/images/Kindness/kindness_2.jpg,Kindness and loyalty are two things you need in a partner.,0,8
+kindness,stimuli/images/Kindness/kindness_3.jpg,His manliness and kindness made him irresistible.,18,26
+kindness,stimuli/images/Kindness/kindness_4.jpg,Her meekness outweighed her kindness.,28,36
+kindness,stimuli/images/Kindness/kindness_5.jpg,The direct nature of his kindness was gentlemanly. ,25,33
+kindness,stimuli/images/Kindness/kindness_6.jpg,Piety and kindness were practiced at school. ,10,18
+king,stimuli/images/King/king_1.jpg,The king is the head of the royal family. ,4,8
+king,stimuli/images/King/king_2.jpg,The king was wealthy beyond belief. ,4,8
+king,stimuli/images/King/king_3.jpg,This king does not wear a crown.,5,9
+king,stimuli/images/King/king_4.jpg,A king and an emperor had similar roles. ,2,6
+king,stimuli/images/King/king_5.jpg,The king is a ruler of his land. ,4,8
+king,stimuli/images/King/king_6.jpg,The king is not a dictator. ,4,8
+lady,stimuli/images/Lady/lady_1.jpg,The queen was a classy lady.,23,27
+lady,stimuli/images/Lady/lady_2.jpg,The princess was a young lady and newly married.,25,29
+lady,stimuli/images/Lady/lady_3.jpg,The weird lady needed a serious makeover. ,10,14
+lady,stimuli/images/Lady/lady_4.jpg,The debutante was presented as a lady.,33,37
+lady,stimuli/images/Lady/lady_5.jpg,The lady has a keen suitor. ,4,8
+lady,stimuli/images/Lady/lady_6.jpg,The darling of the society was a lady from New York. ,33,37
+land,stimuli/images/Land/land_1.jpg,This piece of land borders two countries. ,14,18
+land,stimuli/images/Land/land_2.jpg,The island is mostly made up of uninhabitable land.,46,50
+land,stimuli/images/Land/land_3.jpg,A fence marks the border of his land.  ,32,36
+land,stimuli/images/Land/land_4.jpg,This land is his refuge.,5,9
+land,stimuli/images/Land/land_5.jpg,"In a faraway land, people live very differently. ",13,17
+land,stimuli/images/Land/land_6.jpg,A swamp shouldn't be classified as land. ,35,39
+laugh,stimuli/images/Laugh/laugh_1.jpg,She tried not to laugh and had to gasp. ,17,22
+laugh,stimuli/images/Laugh/laugh_2.jpg,At comedy clubs people tend to laugh and clap at the same time.,31,36
+laugh,stimuli/images/Laugh/laugh_3.jpg,When I laugh I sometimes sneeze.,7,12
+laugh,stimuli/images/Laugh/laugh_4.jpg,Her giggle was the hardest I've ever seen her laugh. ,46,51
+laugh,stimuli/images/Laugh/laugh_5.jpg,She tends to sigh whenever I laugh.,29,34
+laugh,stimuli/images/Laugh/laugh_6.jpg,He spit out his water when he had to laugh. ,37,42
+law,stimuli/images/Law/law_1.jpg,The law would act to her benefit. ,4,7
+law,stimuli/images/Law/law_2.jpg,He will enforce the law if she breaks it. ,20,23
+law,stimuli/images/Law/law_3.jpg,The applicability of the law is murky in this situation.,25,28
+law,stimuli/images/Law/law_4.jpg,House arrest is a restriction that the law places on particular criminals. ,39,42
+law,stimuli/images/Law/law_5.jpg,A new law doesn't work retroactively. ,6,9
+law,stimuli/images/Law/law_6.jpg,All I want is to overturn that law. ,31,34
+left,stimuli/images/Left/left_1.jpg,His remains were left on the battlefield. ,17,21
+left,stimuli/images/Left/left_2.jpg,The child was thankfully left unharmed.,25,29
+left,stimuli/images/Left/left_3.jpg,The unmarked turkey was left over from November. ,24,28
+left,stimuli/images/Left/left_4.jpg,She was left undecided after hearing him out.,8,12
+left,stimuli/images/Left/left_5.jpg,"He walked to the left of the room, feeling unnoticed. ",17,21
+left,stimuli/images/Left/left_6.jpg,His question was left unanswered. ,17,21
+level,stimuli/images/Level/level_1.jpg,I measured his level of consciousness just now.,15,20
+level,stimuli/images/Level/level_2.jpg,Your salary should reflect your level of performance. ,32,37
+level,stimuli/images/Level/level_3.jpg,The threshold level is almost impossible to beat. ,14,19
+level,stimuli/images/Level/level_4.jpg,The level of unemployment has risen in the last year. ,4,9
+level,stimuli/images/Level/level_5.jpg,Step it up a level to increase the quota.,13,18
+level,stimuli/images/Level/level_6.jpg,He performs at a greater level than his coworkers. ,25,30
+liar,stimuli/images/Liar/liar_1.jpg,"While he is a troublemaker, he isn't a liar.  ",39,43
+liar,stimuli/images/Liar/liar_2.jpg,The cheater had always been a major liar. ,36,40
+liar,stimuli/images/Liar/liar_3.jpg,She is a pessimist and a liar. ,25,29
+liar,stimuli/images/Liar/liar_4.jpg,The liar became an imposter when discovered. ,4,8
+liar,stimuli/images/Liar/liar_5.jpg,The fast talker spoke fast because she was a nervous liar. ,53,57
+liar,stimuli/images/Liar/liar_6.jpg,The faker became a full-blown liar. ,30,34
+light,stimuli/images/Light/light_1.jpg,The morning light was clear today.,12,17
+light,stimuli/images/Light/light_2.jpg,The light from the window made her eyes hurt.,4,9
+light,stimuli/images/Light/light_3.jpg,There isn't much light during dusk.,17,22
+light,stimuli/images/Light/light_4.jpg,He had to squint in the brightness of the light.,42,47
+light,stimuli/images/Light/light_5.jpg,The storm clouds were clouding the light.,35,40
+light,stimuli/images/Light/light_6.jpg,The light reflected off of the window.  ,4,9
+magic,stimuli/images/Magic/magic_1.jpg,The spell proved magic exists. ,17,22
+magic,stimuli/images/Magic/magic_2.jpg,He doesn't believe in magic or witchcraft.,22,27
+magic,stimuli/images/Magic/magic_3.jpg,The psychic performed magic tricks. ,22,27
+magic,stimuli/images/Magic/magic_4.jpg,Tarot cards are make-believe magic.,29,34
+magic,stimuli/images/Magic/magic_5.jpg,The mythical story made magic seem real. ,24,29
+magic,stimuli/images/Magic/magic_6.jpg,The magician cast his magic on her. ,22,27
+marriage,stimuli/images/Marriage/marriage_1.jpg,She was pregnant at the time of her marriage.,36,44
+marriage,stimuli/images/Marriage/marriage_2.jpg,Dating and marriage are not the same thing.,11,19
+marriage,stimuli/images/Marriage/marriage_3.jpg,Some girls start fantasizing about marriage after puberty.,35,43
+marriage,stimuli/images/Marriage/marriage_4.jpg,"She wanted to talk about marriage, he wanted a breakup.",25,33
+marriage,stimuli/images/Marriage/marriage_5.jpg,The newlywed groom could talk about marriage for hours.,36,44
+marriage,stimuli/images/Marriage/marriage_6.jpg,Marriage advice is probably a good thing to get. ,0,8
+material,stimuli/images/Material/material_1.jpg,That material is hard to rip.,5,13
+material,stimuli/images/Material/material_2.jpg,Covering the statue with this material is harder than it looks.,30,38
+material,stimuli/images/Material/material_3.jpg,Silicone is a bendy kind of material.,28,36
+material,stimuli/images/Material/material_4.jpg,The material has an adhesive side. ,4,12
+material,stimuli/images/Material/material_5.jpg,The material will cling to your hair. ,4,12
+material,stimuli/images/Material/material_6.jpg,Scientists keep working on creating an unbreakable material. ,51,59
+mathematical,stimuli/images/Mathematical/mathematical_1.jpg,A random mathematical expression means nothing to me.,9,21
+mathematical,stimuli/images/Mathematical/mathematical_2.jpg,Calculus is the mathematical study of change.,16,28
+mathematical,stimuli/images/Mathematical/mathematical_3.jpg,The mathematical simulation made the point clearly.,4,16
+mathematical,stimuli/images/Mathematical/mathematical_4.jpg,The mathematical classification of the required course worried him. ,4,16
+mathematical,stimuli/images/Mathematical/mathematical_5.jpg,Mathematical formulas involve arbitrary variables. ,0,12
+mathematical,stimuli/images/Mathematical/mathematical_6.jpg,The article made some generalizations based on solid mathematical grounds. ,53,65
+mechanism,stimuli/images/Mechanism/mechanism_1.jpg,Pulling the wire triggered an invisible mechanism.,40,49
+mechanism,stimuli/images/Mechanism/mechanism_2.jpg,The latch was part of a bigger mechanism.,31,40
+mechanism,stimuli/images/Mechanism/mechanism_3.jpg,The mechanism had a handle that could be used to start it.,4,13
+mechanism,stimuli/images/Mechanism/mechanism_4.jpg,The man was proud of his patented mechanism. ,34,43
+mechanism,stimuli/images/Mechanism/mechanism_5.jpg,The footrest could be extended by a specially designed mechanism. ,55,64
+mechanism,stimuli/images/Mechanism/mechanism_6.jpg,He was able to fix the mechanism in no time.,23,32
+medication,stimuli/images/Medication/medication_1.jpg,Taking the medications has strange effects on her body.,11,22
+medication,stimuli/images/Medication/medication_2.jpg,The combination of the medication and no sleep was not good. ,23,33
+medication,stimuli/images/Medication/medication_3.jpg,The medication was an antidote for his allergy. ,4,14
+medication,stimuli/images/Medication/medication_4.jpg,The formulation of the medication was updated recently. ,23,33
+medication,stimuli/images/Medication/medication_5.jpg,She couldn't get a new prescription so she took her old medication instead. ,56,66
+medication,stimuli/images/Medication/medication_6.jpg,This medication proved to be essential to his well-being.  ,5,15
+money,stimuli/images/Money/money_1.jpg,I will pay you money for this. ,15,20
+money,stimuli/images/Money/money_2.jpg,A good retirement requires having saved a lot of money.,49,54
+money,stimuli/images/Money/money_3.jpg,His paycheck means more money for the kids. ,24,29
+money,stimuli/images/Money/money_4.jpg,She wants to borrow some of his money. ,32,37
+money,stimuli/images/Money/money_5.jpg,Earn some money first before you take mine. ,10,15
+money,stimuli/images/Money/money_6.jpg,I need to withdraw some money before we go out. ,24,29
+mountain,stimuli/images/Mountain/mountain_1.jpg,The trail went all the way up the mountain.,34,42
+mountain,stimuli/images/Mountain/mountain_2.jpg,I wanted to ski down the mountain faster.,25,33
+mountain,stimuli/images/Mountain/mountain_3.jpg,The glacier was at the top of the mountain.,34,42
+mountain,stimuli/images/Mountain/mountain_4.jpg,A snowboarder got stuck on the mountain.,31,39
+mountain,stimuli/images/Mountain/mountain_5.jpg,The mountain had a beautiful summit.,4,12
+mountain,stimuli/images/Mountain/mountain_6.jpg,The mountain has a steep slope. ,4,12
+movement,stimuli/images/Movement/movement_1.jpg,The movement was revolutionary. ,4,12
+movement,stimuli/images/Movement/movement_2.jpg,This is a movement against communism. ,10,18
+movement,stimuli/images/Movement/movement_3.jpg,The movement was oppressive. ,4,12
+movement,stimuli/images/Movement/movement_4.jpg,"While based on utopian ideals, the movement was important. ",35,43
+movement,stimuli/images/Movement/movement_5.jpg,The mindset of many in the movement was scary. ,27,35
+movement,stimuli/images/Movement/movement_6.jpg,Many radical people took part in the movement. ,37,45
+movie,stimuli/images/Movie/movie_1.jpg,Part of the story is left out in the movie. ,37,42
+movie,stimuli/images/Movie/movie_2.jpg,The character does not develop in this movie. ,39,44
+movie,stimuli/images/Movie/movie_3.jpg,The movie premiere had a red carpet.,4,9
+movie,stimuli/images/Movie/movie_4.jpg,This movie has one adventure after the other. ,5,10
+movie,stimuli/images/Movie/movie_5.jpg,He has to unlock the T.V. to watch the movie. ,39,44
+movie,stimuli/images/Movie/movie_6.jpg,"A movie doesn't have episodes, it has sequels. ",2,7
+music,stimuli/images/Music/music_1.jpg,His song was an example of her favorite kind of music.,48,53
+music,stimuli/images/Music/music_2.jpg,The orchestra played beautiful music last night.,31,36
+music,stimuli/images/Music/music_3.jpg,"I can't improvise music, unfortunately. ",18,23
+music,stimuli/images/Music/music_4.jpg,The performer forgot his sheet music. ,31,36
+music,stimuli/images/Music/music_5.jpg,Karaoke is not the place to hear good music. ,38,43
+music,stimuli/images/Music/music_6.jpg,Elevator music is usually instrumental. ,9,14
+nation,stimuli/images/Nation/nation_1.jpg,The revolution restructured the nation.,32,38
+nation,stimuli/images/Nation/nation_2.jpg,"Over a period of mere years, colonialism shaped the nation.",52,58
+nation,stimuli/images/Nation/nation_3.jpg,Impoverishment left the nation crumbling. ,24,30
+nation,stimuli/images/Nation/nation_4.jpg,Migration changed the population of the nation substantially. ,40,46
+nation,stimuli/images/Nation/nation_5.jpg,Globalization impacts some nations much more than others. ,27,34
+nation,stimuli/images/Nation/nation_6.jpg,"A small nation initiated the war, which began with an invasion of nearby territories. ",8,14
+news,stimuli/images/News/news_1.jpg,The report presented the news in lay language.,25,29
+news,stimuli/images/News/news_2.jpg,She took a peek at the news before work.,23,27
+news,stimuli/images/News/news_3.jpg,The forum argued about the news. ,27,31
+news,stimuli/images/News/news_4.jpg,The archives contain all news since the 1950s. ,25,29
+news,stimuli/images/News/news_5.jpg,The newsroom is where the news is broadcasted. ,26,31
+news,stimuli/images/News/news_6.jpg,I learned a lot of gossip on the news today. ,33,37
+noise,stimuli/images/Noise/noise_1.jpg,I could hear some noise last night.,18,23
+noise,stimuli/images/Noise/noise_2.jpg,The noise he heard was of her crying.,4,9
+noise,stimuli/images/Noise/noise_3.jpg,The children's whispering made some noise. ,36,41
+noise,stimuli/images/Noise/noise_4.jpg,The rumble was the scariest noise she had ever heard.,28,33
+noise,stimuli/images/Noise/noise_5.jpg,She suppressed her squeal to not make any noise.,42,47
+noise,stimuli/images/Noise/noise_6.jpg,The noise was a low-pitched growl. ,4,9
+obligation,stimuli/images/Obligation/obligation_1.jpg,Her obligation made her liable.,4,14
+obligation,stimuli/images/Obligation/obligation_2.jpg,"While reserved, he owned up to his obligation eventually.",35,45
+obligation,stimuli/images/Obligation/obligation_3.jpg,The contract outlined their obligation as guardians. ,28,38
+obligation,stimuli/images/Obligation/obligation_4.jpg,The obligation was harmless.,4,14
+obligation,stimuli/images/Obligation/obligation_5.jpg,The stockholder has an obligation to keep his word. ,23,33
+obligation,stimuli/images/Obligation/obligation_6.jpg,His boss refused to disclose the exact details of the obligation. ,54,64
+pain,stimuli/images/Pain/pain_1.jpg,She could get no relief from the pain.,33,37
+pain,stimuli/images/Pain/pain_2.jpg,What began as a simple irritation was now intense pain.,50,54
+pain,stimuli/images/Pain/pain_3.jpg,Her migraine caused her pain.,24,28
+pain,stimuli/images/Pain/pain_4.jpg,"Unless caused by impact, a nosebleed doesn't usually cause pain. ",59,63
+pain,stimuli/images/Pain/pain_5.jpg,She had some bruising but felt no pain. ,34,38
+pain,stimuli/images/Pain/pain_6.jpg,The pain from the stomachache was unbearable. ,4,8
+personality,stimuli/images/Personality/personality_1.jpg,His personality was greatly affected by his physical decline.,4,15
+personality,stimuli/images/Personality/personality_2.jpg,His compulsive personality is one reason why he is so neat.,15,26
+personality,stimuli/images/Personality/personality_3.jpg,Her subconscious impacted her personality in many ways.,30,41
+personality,stimuli/images/Personality/personality_4.jpg,His borderline personality disorder was recently diagnosed. ,15,26
+personality,stimuli/images/Personality/personality_5.jpg,His personality brought down her mood. ,4,15
+personality,stimuli/images/Personality/personality_6.jpg,That trait is a big part of her overt personality. ,38,49
+philosophy,stimuli/images/Philosophy/philosophy_1.jpg,Philosophy provides a window to many perspectives on the same idea.,0,10
+philosophy,stimuli/images/Philosophy/philosophy_2.jpg,Philosophy opens up the topic of existentialism. ,0,10
+philosophy,stimuli/images/Philosophy/philosophy_3.jpg,Spirituality and philosophy are not the same thing.,17,27
+philosophy,stimuli/images/Philosophy/philosophy_4.jpg,The paradigm brought up in philosophy class confused her. ,27,37
+philosophy,stimuli/images/Philosophy/philosophy_5.jpg,Materialism is a point of discussion in philosophy. ,40,50
+philosophy,stimuli/images/Philosophy/philosophy_6.jpg,She loved philosophy and remained agnostic. ,10,20
+picture,stimuli/images/Picture/picture_1.jpg,The picture was sketched on paper.,4,11
+picture,stimuli/images/Picture/picture_2.jpg,He will scribble a picture for you.,19,26
+picture,stimuli/images/Picture/picture_3.jpg,Printing a picture is easier than it seems.,11,18
+picture,stimuli/images/Picture/picture_4.jpg,Draw the picture in ink.,9,16
+picture,stimuli/images/Picture/picture_5.jpg,Picture is another word for a photograph. ,0,7
+picture,stimuli/images/Picture/picture_6.jpg,The letter contained a picture. ,23,30
+pig,stimuli/images/Pig/pig_1.jpg,The pig and the cattle do not get along well.,4,7
+pig,stimuli/images/Pig/pig_2.jpg,The horse shared its food with the pig.,35,38
+pig,stimuli/images/Pig/pig_3.jpg,The whinny frightened the pig. ,26,29
+pig,stimuli/images/Pig/pig_4.jpg,The pig got stuck in the lasso. ,4,7
+pig,stimuli/images/Pig/pig_5.jpg,The pig was sprawled in the hay.,4,7
+pig,stimuli/images/Pig/pig_6.jpg,The bigger pig was a stud. ,11,14
+plan,stimuli/images/Plan/plan_1.jpg,The first step of the plan has been completed. ,22,26
+plan,stimuli/images/Plan/plan_2.jpg,The plan resulted in a total transformation. ,4,8
+plan,stimuli/images/Plan/plan_3.jpg,The execution of the plan was preemptive. ,21,25
+plan,stimuli/images/Plan/plan_4.jpg,The expulsion led to a change of plan. ,33,37
+plan,stimuli/images/Plan/plan_5.jpg,The plan was a demonstration of her goodwill.,4,8
+plan,stimuli/images/Plan/plan_6.jpg,Following the plan is essential for success. ,14,18
+plant,stimuli/images/Plant/plant_1.jpg,The plant was growing rapidly by springtime.,4,9
+plant,stimuli/images/Plant/plant_2.jpg,The artificial plant looked almost real. ,15,20
+plant,stimuli/images/Plant/plant_3.jpg,The leafy plant looked better indoors.,10,15
+plant,stimuli/images/Plant/plant_4.jpg,The windowsill had acquired a new plant. ,34,39
+plant,stimuli/images/Plant/plant_5.jpg,The garden could use a new plant and some fertilizer. ,27,32
+plant,stimuli/images/Plant/plant_6.jpg,He watered the plant after the third reminder. ,15,20
+play,stimuli/images/Play/play_1.jpg,"He wanted to play the game, too.",13,17
+play,stimuli/images/Play/play_2.jpg,"If you know how to play softball, you can play too.",19,23
+play,stimuli/images/Play/play_3.jpg,His business meetings require him to play golf. ,37,41
+play,stimuli/images/Play/play_4.jpg,Play volleyball more often to get good legs. ,0,4
+play,stimuli/images/Play/play_5.jpg,Sparring is his way to play with you. ,23,27
+play,stimuli/images/Play/play_6.jpg,The competition forces you to play well. ,30,34
+pleasure,stimuli/images/Pleasure/pleasure_1.jpg,Humans can derive a lot of pleasure from sex.,27,35
+pleasure,stimuli/images/Pleasure/pleasure_2.jpg,Masturbation gives people pleasure on their own. ,26,34
+pleasure,stimuli/images/Pleasure/pleasure_3.jpg,Forced pleasure is an oxymoron. ,7,15
+pleasure,stimuli/images/Pleasure/pleasure_4.jpg,She would lie awake and fantasize about the pleasure of his touches. ,44,52
+pleasure,stimuli/images/Pleasure/pleasure_5.jpg,He was gay and gained pleasure from watching the men on the walkway. ,22,30
+pleasure,stimuli/images/Pleasure/pleasure_6.jpg,Sexual pleasure is a taboo topic in some cultures. ,7,15
+poor,stimuli/images/Poor/poor_1.jpg,The young people in the building were poor.,38,42
+poor,stimuli/images/Poor/poor_2.jpg,The poor man felt powerless.,4,8
+poor,stimuli/images/Poor/poor_3.jpg,The poor orphan wished for his parents.,4,8
+poor,stimuli/images/Poor/poor_4.jpg,The poor woman was tormented by her faults.,4,8
+poor,stimuli/images/Poor/poor_5.jpg,The poor girl became dependent on her family again. ,4,8
+poor,stimuli/images/Poor/poor_6.jpg,The unlucky man quickly became poor. ,31,35
+prison,stimuli/images/Prison/prison_1.jpg,Another word for jail is prison.,25,31
+prison,stimuli/images/Prison/prison_2.jpg,He got out of prison early on parole.,14,20
+prison,stimuli/images/Prison/prison_3.jpg,He was no longer a juvenile and was sent to prison.,44,50
+prison,stimuli/images/Prison/prison_4.jpg,She got probation and didn't have to go to prison.,43,49
+prison,stimuli/images/Prison/prison_5.jpg,Sobriety is enforced in the prison. ,28,34
+prison,stimuli/images/Prison/prison_6.jpg,The interrogation took place in prison.,32,38
+professional,stimuli/images/Professional/professional_1.jpg,The worker had worked for many years as a professional.,42,54
+professional,stimuli/images/Professional/professional_2.jpg,The seamstress was a true professional. ,26,38
+professional,stimuli/images/Professional/professional_3.jpg,The skilled professional maneuvered her way out of the situation.,12,24
+professional,stimuli/images/Professional/professional_4.jpg,"The beekeeper, always a professional, stayed calm as they spoke. ",24,36
+professional,stimuli/images/Professional/professional_5.jpg,The lumberyard needs to hire a new a professional. ,37,49
+professional,stimuli/images/Professional/professional_6.jpg,The ultrasound technician needed another professional's opinion. ,41,53
+protection,stimuli/images/Protection/protection_1.jpg,The protection he provided gave her security.,4,14
+protection,stimuli/images/Protection/protection_2.jpg,Privacy does not equate protection in these parts.,24,34
+protection,stimuli/images/Protection/protection_3.jpg,He wanted to avoid calling protection services. ,27,37
+protection,stimuli/images/Protection/protection_4.jpg,The shield provided little protection.,27,37
+protection,stimuli/images/Protection/protection_5.jpg,She did not feel safe with the protection she was given.,31,41
+protection,stimuli/images/Protection/protection_6.jpg,He found protection by staying inside the house.,9,19
+quality,stimuli/images/Quality/quality_1.jpg,The shopkeeper could guarantee good quality. ,36,43
+quality,stimuli/images/Quality/quality_2.jpg,The quality of the performance kept the shows sold out. ,4,11
+quality,stimuli/images/Quality/quality_3.jpg,He was a stickler for good quality.,27,34
+quality,stimuli/images/Quality/quality_4.jpg,Their standard of quality is higher than that of most. ,18,25
+quality,stimuli/images/Quality/quality_5.jpg,Maintaining the quality of produce is becoming more difficult.,16,23
+quality,stimuli/images/Quality/quality_6.jpg,Cleanliness is the first commandment in quality. ,40,47
+reaction,stimuli/images/Reaction/reaction_1.jpg,The reaction the metal showed when exposed to oxygen was noticeable. ,4,12
+reaction,stimuli/images/Reaction/reaction_2.jpg,The chemical reaction was difficult to explain in words. ,13,21
+reaction,stimuli/images/Reaction/reaction_3.jpg,Dilute the solutions for a less dramatic reaction. ,41,49
+reaction,stimuli/images/Reaction/reaction_4.jpg,Adding ethanol will produce a different reaction. ,40,48
+reaction,stimuli/images/Reaction/reaction_5.jpg,The impurity of the materials will hinder a reaction. ,44,52
+reaction,stimuli/images/Reaction/reaction_6.jpg,The concentration will bear impact on the reaction. ,42,50
+read,stimuli/images/Read/read_1.jpg,I can't read that whole book. ,8,12
+read,stimuli/images/Read/read_2.jpg,She read the information online.,4,8
+read,stimuli/images/Read/read_3.jpg,The title was too long to read. ,26,30
+read,stimuli/images/Read/read_4.jpg,Half of the literature she read was medieval. ,27,31
+read,stimuli/images/Read/read_5.jpg,He didn't read up on any of the relevant topics.,10,14
+read,stimuli/images/Read/read_6.jpg,He read the documentation of the case last night. ,3,7
+relationship,stimuli/images/Relationship/relationship_1.jpg,Their relationship began as an affair.,6,18
+relationship,stimuli/images/Relationship/relationship_2.jpg,The couple had recently labeled their relationship.,38,50
+relationship,stimuli/images/Relationship/relationship_3.jpg,Intimacy has to be maintained in a relationship.,35,47
+relationship,stimuli/images/Relationship/relationship_4.jpg,The brother's relationship was chummy. ,14,26
+relationship,stimuli/images/Relationship/relationship_5.jpg,Her parents' relationship is harmonious. ,13,25
+relationship,stimuli/images/Relationship/relationship_6.jpg,Their working relationship was amicable. ,14,26
+religious,stimuli/images/Religious/religious_1.jpg,Church is a place where religious people go.,24,33
+religious,stimuli/images/Religious/religious_2.jpg,Religious people often pray.,0,9
+religious,stimuli/images/Religious/religious_3.jpg,"Having grown up religious, he gave a prayer.",16,25
+religious,stimuli/images/Religious/religious_4.jpg,"By definition, a missionary is religious.  ",31,40
+religious,stimuli/images/Religious/religious_5.jpg,The chapel is where you can perform religious practice.,36,45
+religious,stimuli/images/Religious/religious_6.jpg,The religious man was pious. ,4,13
+residence,stimuli/images/Residence/residence_1.jpg,He took up residence in a nearby town.,11,20
+residence,stimuli/images/Residence/residence_2.jpg,The nearest residence is five miles away.,12,21
+residence,stimuli/images/Residence/residence_3.jpg,The lodge is set up like a personal residence.,36,45
+residence,stimuli/images/Residence/residence_4.jpg,The neighborhood has a new residence up for sale. ,27,36
+residence,stimuli/images/Residence/residence_5.jpg,The location of the residence is sublime. ,20,29
+residence,stimuli/images/Residence/residence_6.jpg,She wished she could take up residence in the hotel. ,29,38
+road,stimuli/images/Road/road_1.jpg,The bus blocked the entire road.,27,31
+road,stimuli/images/Road/road_2.jpg,The tunnel cut across the road after the stop sign. ,26,30
+road,stimuli/images/Road/road_3.jpg,The sidewalk ran alongside the road for a few more blocks.,31,35
+road,stimuli/images/Road/road_4.jpg,The pileup on the road didn't clear for hours.,18,22
+road,stimuli/images/Road/road_5.jpg,"To the tourist's surprise, the main road only had one lane.",36,40
+road,stimuli/images/Road/road_6.jpg,The tollbooth was at the end of the road. ,36,40
+sad,stimuli/images/Sad/sad_1.jpg,She was pained by the odd reminder of her sad past.,42,45
+sad,stimuli/images/Sad/sad_2.jpg,A glimpse into the future could be happy or sad. ,44,47
+sad,stimuli/images/Sad/sad_3.jpg,The perplexing nature of the situation made him sad.,48,51
+sad,stimuli/images/Sad/sad_4.jpg,It was upsetting how sad she was. ,21,24
+sad,stimuli/images/Sad/sad_5.jpg,The depressing movie made everyone in the audience sad. ,51,54
+sad,stimuli/images/Sad/sad_6.jpg,The moment was noteworthy yet sad. ,30,33
+science,stimuli/images/Science/science_1.jpg,The research facility is dedicated to studies of natural science.,57,64
+science,stimuli/images/Science/science_2.jpg,The student studied many different kinds of science.,44,51
+science,stimuli/images/Science/science_3.jpg,This applied science is very different from that. ,13,20
+science,stimuli/images/Science/science_4.jpg,His dissertation was in the field of material sciences.,46,54
+science,stimuli/images/Science/science_5.jpg,Economics is a kind of social science. ,30,37
+science,stimuli/images/Science/science_6.jpg,The article was published in her favorite science journal. ,42,49
+seafood,stimuli/images/Seafood/seafood_1.jpg,Shrimp is a kind of seafood.,20,27
+seafood,stimuli/images/Seafood/seafood_2.jpg,She ordered scallops at the small seafood restaurant.,34,41
+seafood,stimuli/images/Seafood/seafood_3.jpg,"Seafood can be prepared in many different ways, like tempura.",0,7
+seafood,stimuli/images/Seafood/seafood_4.jpg,He was excited to see flounder in the seafood section of the grocery store.,38,45
+seafood,stimuli/images/Seafood/seafood_5.jpg,Caviar is a gourmet kind of seafood.,28,35
+seafood,stimuli/images/Seafood/seafood_6.jpg,Chowder is made with different kinds of seafood.,40,47
+sell,stimuli/images/Sell/sell_1.jpg,Someone will buy the car if you sell it. ,32,36
+sell,stimuli/images/Sell/sell_2.jpg,She will sell it for cheap.,9,13
+sell,stimuli/images/Sell/sell_3.jpg,The supply is too high for you to sell it for that price.,34,38
+sell,stimuli/images/Sell/sell_4.jpg,His hobby is to buy and sell comic books. ,24,28
+sell,stimuli/images/Sell/sell_5.jpg,The drugstore sells both prescription and over-the-counter medicines.,14,19
+sell,stimuli/images/Sell/sell_6.jpg,I will sell secondhand clothes for a living. ,7,11
+sew,stimuli/images/Sew/sew_1.jpg,Knowing how to sew well requires an eye for detail. ,15,18
+sew,stimuli/images/Sew/sew_2.jpg,The pattern was too hard to sew by hand.,28,31
+sew,stimuli/images/Sew/sew_3.jpg,He is quite crafty and likes to sew. ,32,35
+sew,stimuli/images/Sew/sew_4.jpg,She forgot to sew the last stitch.,14,17
+sew,stimuli/images/Sew/sew_5.jpg,He chose woodcarving over learning to sew. ,38,41
+sew,stimuli/images/Sew/sew_6.jpg,The artisan could sew the most beautiful gowns. ,18,21
+sexy,stimuli/images/Sexy/sexy_1.jpg,Many people find the model super sexy.,33,37
+sexy,stimuli/images/Sexy/sexy_2.jpg,His girlfriend is so sexy.,21,25
+sexy,stimuli/images/Sexy/sexy_3.jpg,The pervert found everything with a heartbeat sexy.,46,50
+sexy,stimuli/images/Sexy/sexy_4.jpg,The symbol of the cheerleader is very sexy in America.,38,42
+sexy,stimuli/images/Sexy/sexy_5.jpg,"He's a babe, that's how sexy he is. ",24,28
+sexy,stimuli/images/Sexy/sexy_6.jpg,Knowing how to seduce someone is sexy. ,33,37
+shape,stimuli/images/Shape/shape_1.jpg,A two dimensional shape is flat.,18,23
+shape,stimuli/images/Shape/shape_2.jpg,A circle is an elementary shape. ,26,31
+shape,stimuli/images/Shape/shape_3.jpg,The pyramid is a three-dimensional shape. ,35,40
+shape,stimuli/images/Shape/shape_4.jpg,Her body has the shape of an hourglass. ,17,22
+shape,stimuli/images/Shape/shape_5.jpg,A typical cloud's shape is irregular.  ,18,23
+shape,stimuli/images/Shape/shape_6.jpg,The dimensions of the table made it an odd shape. ,43,48
+ship,stimuli/images/Ship/ship_1.jpg,Boat is another way of describing a small ship.,42,46
+ship,stimuli/images/Ship/ship_2.jpg,The pilot made it onto the ship in time. ,27,31
+ship,stimuli/images/Ship/ship_3.jpg,The smallest sail of the ship ripped in the wind.,25,29
+ship,stimuli/images/Ship/ship_4.jpg,The ship was off onto its next expedition.,4,8
+ship,stimuli/images/Ship/ship_5.jpg,The voyage began when the ship left the island. ,26,30
+ship,stimuli/images/Ship/ship_6.jpg,The yacht was the owner's favorite ship. ,35,39
+show,stimuli/images/Show/show_1.jpg,The show was still on television.,4,8
+show,stimuli/images/Show/show_2.jpg,The next episode of the show would unfold unexpectedly.,24,28
+show,stimuli/images/Show/show_3.jpg,He thought the show was a bit melodramatic.,15,19
+show,stimuli/images/Show/show_4.jpg,The humor of the show was slapstick comedy.,17,21
+show,stimuli/images/Show/show_5.jpg,She wanted to reenact the storyline of the show.,43,47
+show,stimuli/images/Show/show_6.jpg,This sitcom has been around longer than that show.,45,49
+sign,stimuli/images/Sign/sign_1.jpg,The sign marked the entrance.,4,8
+sign,stimuli/images/Sign/sign_2.jpg,The graffiti was a sign of his presence.,19,23
+sign,stimuli/images/Sign/sign_3.jpg,This was a telltale sign of love.,20,24
+sign,stimuli/images/Sign/sign_4.jpg,The sign was inscribed with rules.,4,8
+sign,stimuli/images/Sign/sign_5.jpg,The sign fell from the roof with a swoosh.,4,8
+sign,stimuli/images/Sign/sign_6.jpg,The sign hung from the billboard. ,4,8
+silly,stimuli/images/Silly/silly_1.jpg,The proposal was so unrealistic as to be silly.,41,46
+silly,stimuli/images/Silly/silly_2.jpg,The silly rumor was just absurd.,4,9
+silly,stimuli/images/Silly/silly_3.jpg,His unsubstantiated claims made him look silly.,41,46
+silly,stimuli/images/Silly/silly_4.jpg,The play was ridiculous and silly.,28,33
+silly,stimuli/images/Silly/silly_5.jpg,The overblown statistics sounded silly.,33,38
+silly,stimuli/images/Silly/silly_6.jpg,The news story was silly and unfounded. ,19,24
+sin,stimuli/images/Sin/sin_1.jpg,She can't forgive him for this sin.,31,34
+sin,stimuli/images/Sin/sin_2.jpg,Make sure your wrath doesn't make you sin.,38,41
+sin,stimuli/images/Sin/sin_3.jpg,Sin makes a sinner.,0,3
+sin,stimuli/images/Sin/sin_4.jpg,The sin of a firstborn is never forgotten. ,4,7
+sin,stimuli/images/Sin/sin_5.jpg,The couple spent the night rejoicing his sin. ,41,44
+sin,stimuli/images/Sin/sin_6.jpg,The extent of the sin was an abomination. ,18,21
+skin,stimuli/images/Skin/skin_1.jpg,The skin on her face became red in the sun.,4,8
+skin,stimuli/images/Skin/skin_2.jpg,Some think that shaving your skin makes it smoother.,29,33
+skin,stimuli/images/Skin/skin_3.jpg,Her skin was prone to a pimple or two in the summer.,4,8
+skin,stimuli/images/Skin/skin_4.jpg,Tanning your skin artificially can cause cancer.,13,17
+skin,stimuli/images/Skin/skin_5.jpg,The fragrance of his skin was delightful.,21,25
+skin,stimuli/images/Skin/skin_6.jpg,A vampire's skin can shimmer in the sun. ,12,16
+smart,stimuli/images/Smart/smart_1.jpg,The candidate's responses are always smart and informed.,37,42
+smart,stimuli/images/Smart/smart_2.jpg,He seems smart and sincere. ,9,14
+smart,stimuli/images/Smart/smart_3.jpg,She is fearless and very smart. ,25,30
+smart,stimuli/images/Smart/smart_4.jpg,She is genuinely smart but doesn't work hard enough.,17,22
+smart,stimuli/images/Smart/smart_5.jpg,The fifth grader was smart and resourceful. ,21,26
+smart,stimuli/images/Smart/smart_6.jpg,"Too trusting but smart, she managed to get out of the situation. ",17,22
+smiling,stimuli/images/Smiling/smiling_1.jpg,He spent the afternoon staring at the sun and smiling.,46,53
+smiling,stimuli/images/Smiling/smiling_2.jpg,The girl is innocently smiling at the stranger.,23,30
+smiling,stimuli/images/Smiling/smiling_3.jpg,He was smiling angrily.,7,14
+smiling,stimuli/images/Smiling/smiling_4.jpg,"Smiling faintly, she said goodbye. ",0,7
+smiling,stimuli/images/Smiling/smiling_5.jpg,The little boy was obligingly smiling at the teacher. ,30,37
+smiling,stimuli/images/Smiling/smiling_6.jpg,The woman was found smiling wistfully out the window. ,20,27
+solution,stimuli/images/Solution/solution_1.jpg,The best solution has the fewest loopholes.,9,17
+solution,stimuli/images/Solution/solution_2.jpg,The perfect solution may not always be simple.,12,20
+solution,stimuli/images/Solution/solution_3.jpg,His solution is to end the affair in a discrete way.,4,12
+solution,stimuli/images/Solution/solution_4.jpg,The solution is straightforward and hopefully effective. ,4,12
+solution,stimuli/images/Solution/solution_5.jpg,A viable solution for global warming is hard to come up with. ,9,17
+solution,stimuli/images/Solution/solution_6.jpg,Her solution was affordable for all parties. ,4,12
+soul,stimuli/images/Soul/soul_1.jpg,The notions of soul and spirit are closely related.,15,19
+soul,stimuli/images/Soul/soul_2.jpg,The goodness of his soul makes him glow. ,20,24
+soul,stimuli/images/Soul/soul_3.jpg,The realization that he had a soul astounded him.,30,34
+soul,stimuli/images/Soul/soul_4.jpg,She wondered if her soul would live on in eternity.,20,24
+soul,stimuli/images/Soul/soul_5.jpg,Her soul wished for something eternal to hold on to. ,4,8
+soul,stimuli/images/Soul/soul_6.jpg,His discovery of his soul was a blessing. ,21,25
+sound,stimuli/images/Sound/sound_1.jpg,The sound of her voice calmed him down immediately.,4,9
+sound,stimuli/images/Sound/sound_2.jpg,The microphone wasn't producing any sound.,36,41
+sound,stimuli/images/Sound/sound_3.jpg,The speakerphone has great sound quality. ,27,32
+sound,stimuli/images/Sound/sound_4.jpg,That sound came from the keyboard. ,5,10
+sound,stimuli/images/Sound/sound_5.jpg,His sound was on mute. ,4,9
+sound,stimuli/images/Sound/sound_6.jpg,She was broadcasting the sound across the field. ,25,30
+spoke,stimuli/images/Spoke/spoke_1.jpg,"When she spoke, she stated the truth.",9,14
+spoke,stimuli/images/Spoke/spoke_2.jpg,She candidly spoke about her experiences.,13,18
+spoke,stimuli/images/Spoke/spoke_3.jpg,He spoke pessimistically over coffee.,3,8
+spoke,stimuli/images/Spoke/spoke_4.jpg,"He spoke conversationally, not really listening.",3,8
+spoke,stimuli/images/Spoke/spoke_5.jpg,The first grader spoke engagingly during her presentation.,17,22
+spoke,stimuli/images/Spoke/spoke_6.jpg,He spoke tellingly about the situation. ,3,8
+star,stimuli/images/Star/star_1.jpg,The star looked like an incoming meteor.,4,8
+star,stimuli/images/Star/star_2.jpg,The astronomer was observing a star light years away from Earth. ,31,35
+star,stimuli/images/Star/star_3.jpg,His star sign is Gemini.,4,8
+star,stimuli/images/Star/star_4.jpg,The microcosmic star still shines bright. ,16,20
+star,stimuli/images/Star/star_5.jpg,The spaceflight uncovered a new star. ,32,36
+star,stimuli/images/Star/star_6.jpg,She liked that her star sign was Capricorn. ,19,23
+student,stimuli/images/Student/student_1.jpg,The student was in class when his mother called.,4,11
+student,stimuli/images/Student/student_2.jpg,Every student receives a scholarship based on merit.,6,13
+student,stimuli/images/Student/student_3.jpg,The faculty to student ratio was rather high this year. ,15,22
+student,stimuli/images/Student/student_4.jpg,"In preparation for the semester, the student reread all her notes.",37,44
+student,stimuli/images/Student/student_5.jpg,This past term zipped by for the student. ,33,40
+student,stimuli/images/Student/student_6.jpg,Only one student in the class was bilingual. ,9,16
+stupid,stimuli/images/Stupid/stupid_1.jpg,That guy is so stupid and such a fool.,15,21
+stupid,stimuli/images/Stupid/stupid_2.jpg,The stupid secretary is just so incompetent. ,4,10
+stupid,stimuli/images/Stupid/stupid_3.jpg,He said a bunch of stupid baloney.,19,25
+stupid,stimuli/images/Stupid/stupid_4.jpg,Good riddance to that stupid project! ,22,28
+stupid,stimuli/images/Stupid/stupid_5.jpg,The stupid lowlife walked right out of her life. ,4,10
+stupid,stimuli/images/Stupid/stupid_6.jpg,"She calls her ex a jackass, I just think he is stupid. ",47,53
+successful,stimuli/images/Successful/successful_1.jpg,The famous actress was extremely successful.,33,43
+successful,stimuli/images/Successful/successful_2.jpg,The scientist was successful at exerting his influence.,18,28
+successful,stimuli/images/Successful/successful_3.jpg,"As successful as he was, he strove for more fame.",3,13
+successful,stimuli/images/Successful/successful_4.jpg,Her successful career made her a legendary figure.,4,14
+successful,stimuli/images/Successful/successful_5.jpg,That woman is so successful that we call her a powerhouse. ,17,27
+successful,stimuli/images/Successful/successful_6.jpg,He had been successful in the sixties. ,12,22
+sugar,stimuli/images/Sugar/sugar_1.jpg,The recipe called for a whole cup of sugar.,37,42
+sugar,stimuli/images/Sugar/sugar_2.jpg,Plain sugar is the only kind he uses.,6,11
+sugar,stimuli/images/Sugar/sugar_3.jpg,Sugar and butter are two of his biggest cravings.,0,5
+sugar,stimuli/images/Sugar/sugar_4.jpg,Unrefined sugar has a grittier taste.,10,15
+sugar,stimuli/images/Sugar/sugar_5.jpg,The tapioca is soaked in sugar. ,25,30
+sugar,stimuli/images/Sugar/sugar_6.jpg,Powdered sugar can be very messy. ,9,14
+suspect,stimuli/images/Suspect/suspect_1.jpg,The suspect was dead before they got to him.,4,11
+suspect,stimuli/images/Suspect/suspect_2.jpg,The police still didn't have a prime suspect.,37,44
+suspect,stimuli/images/Suspect/suspect_3.jpg,The suspect attempted to run. ,4,11
+suspect,stimuli/images/Suspect/suspect_4.jpg,The suspect committed suicide in prison.,4,11
+suspect,stimuli/images/Suspect/suspect_5.jpg,The real kidnapper was not a suspect in the case. ,29,36
+suspect,stimuli/images/Suspect/suspect_6.jpg,The suspect's motive was senseless. ,4,11
+table,stimuli/images/Table/table_1.jpg,The table is made of glass.,4,9
+table,stimuli/images/Table/table_2.jpg,The chandelier is hanging from the ceiling right above the dining room table.,71,76
+table,stimuli/images/Table/table_3.jpg,He put the candle on the table.,25,30
+table,stimuli/images/Table/table_4.jpg,The porcelain stood at the center of the table. ,41,46
+table,stimuli/images/Table/table_5.jpg,The silverware looked beautiful on the table.,39,44
+table,stimuli/images/Table/table_6.jpg,The chrome table had a very modern look. ,11,16
+taste,stimuli/images/Taste/taste_1.jpg,She thought the hot chocolate had a rich taste. ,41,46
+taste,stimuli/images/Taste/taste_2.jpg,The spicy taste lingered in her mouth.,10,15
+taste,stimuli/images/Taste/taste_3.jpg,The taste of the margarita had a slight zing.,4,9
+taste,stimuli/images/Taste/taste_4.jpg,Her delicate palate reacted strongly to the taste of the unfamiliar fruit. ,44,49
+taste,stimuli/images/Taste/taste_5.jpg,The distinctive taste of the cereal did not please him.,16,21
+taste,stimuli/images/Taste/taste_6.jpg,She enjoyed the aroma and taste of the mousse.,26,31
+team,stimuli/images/Team/team_1.jpg,The team won yet another game.,4,8
+team,stimuli/images/Team/team_2.jpg,The team set a new record. ,4,8
+team,stimuli/images/Team/team_3.jpg,The team was in the lead at halftime.,4,8
+team,stimuli/images/Team/team_4.jpg,The entering freshman dominated the team.,36,40
+team,stimuli/images/Team/team_5.jpg,The prospect of playing with the team made him happy.,33,37
+team,stimuli/images/Team/team_6.jpg,The team lineup was daunting ,4,8
+texture,stimuli/images/Texture/texture_1.jpg,The rough texture of the table was surprising.,10,17
+texture,stimuli/images/Texture/texture_2.jpg,The weird-looking cake had a yucky texture.,35,42
+texture,stimuli/images/Texture/texture_3.jpg,The jellylike texture of the milk meant it had gone bad.,14,21
+texture,stimuli/images/Texture/texture_4.jpg,The couch cushion had a plushy texture. ,31,38
+texture,stimuli/images/Texture/texture_5.jpg,His skin had gotten a leathery texture over the years.,31,38
+texture,stimuli/images/Texture/texture_6.jpg,The sticky texture of the floor was disgusting. ,11,18
+time,stimuli/images/Time/time_1.jpg,It had seemed like he had so much time the night before.,34,38
+time,stimuli/images/Time/time_2.jpg,The days go quicker with time.,25,29
+time,stimuli/images/Time/time_3.jpg,They had to reschedule the meeting for a later time.,47,51
+time,stimuli/images/Time/time_4.jpg,He missed the time of the deadline.,14,18
+time,stimuli/images/Time/time_5.jpg,The calendar didn't have enough space to write in the time. ,54,58
+time,stimuli/images/Time/time_6.jpg,Tomorrow is a better time for her. ,21,25
+tool,stimuli/images/Tool/tool_1.jpg,The tool he needed most right now was a saw.,4,8
+tool,stimuli/images/Tool/tool_2.jpg,The machine seemed a bit excessive in the tool shed.  ,42,46
+tool,stimuli/images/Tool/tool_3.jpg,The most useful tool in the office is a stapler. ,16,20
+tool,stimuli/images/Tool/tool_4.jpg,The switchblade is a dangerous tool to carry around.,31,35
+tool,stimuli/images/Tool/tool_5.jpg,The shears did not work as well as the tool shop advertised.,39,43
+tool,stimuli/images/Tool/tool_6.jpg,The best tool for crushing has yet to be determined. ,9,13
+toy,stimuli/images/Toy/toy_1.jpg,The toy was so cute.,4,7
+toy,stimuli/images/Toy/toy_2.jpg,That doll is the perfect toy for her. ,25,28
+toy,stimuli/images/Toy/toy_3.jpg,The toy was jumbo sized. ,4,7
+toy,stimuli/images/Toy/toy_4.jpg,The toy became a figment of her imagination.,4,7
+toy,stimuli/images/Toy/toy_5.jpg,The water toy was inflatable. ,10,13
+toy,stimuli/images/Toy/toy_6.jpg,The dinky toy kept the cat preoccupied. ,10,13
+tree,stimuli/images/Tree/tree_1.jpg,The apple tree bore fruit in the spring.,10,14
+tree,stimuli/images/Tree/tree_2.jpg,The orange tree provided bountiful produce.,11,15
+tree,stimuli/images/Tree/tree_3.jpg,The tree smelled like spearmint.,4,8
+tree,stimuli/images/Tree/tree_4.jpg,The sandalwood tree is yellow.,15,19
+tree,stimuli/images/Tree/tree_5.jpg,A hemlock is a kind of tree. ,23,27
+tree,stimuli/images/Tree/tree_6.jpg,The twig broke off of the tree. ,26,30
+trial,stimuli/images/Trial/trial_1.jpg,The case finally went to trial. ,25,30
+trial,stimuli/images/Trial/trial_2.jpg,The lawyer meditated before the trial.,32,37
+trial,stimuli/images/Trial/trial_3.jpg,A decision would be made today during the trial. ,42,47
+trial,stimuli/images/Trial/trial_4.jpg,The defendant in the trial got nervous.,21,26
+trial,stimuli/images/Trial/trial_5.jpg,The juror felt forced to take part in the trial. ,42,47
+trial,stimuli/images/Trial/trial_6.jpg,The trial was a chance for the attorney to show his expertise. ,4,9
+tried,stimuli/images/Tried/tried_1.jpg,He tried again later.,3,8
+tried,stimuli/images/Tried/tried_2.jpg,Soon afterwards she tried to call him. ,20,25
+tried,stimuli/images/Tried/tried_3.jpg,He corrected the mistake and fortunately tried again.,41,46
+tried,stimuli/images/Tried/tried_4.jpg,"He tried to close the door, this time forcibly.",3,8
+tried,stimuli/images/Tried/tried_5.jpg,She hurriedly tried to run after the cat. ,14,19
+tried,stimuli/images/Tried/tried_6.jpg,He abandoned the endeavor after she tried and failed. ,36,41
+typical,stimuli/images/Typical/typical_1.jpg,It is typical for her to get bored in lecture and rely on his notes. ,6,13
+typical,stimuli/images/Typical/typical_2.jpg,It was actually quite peculiar and not typical for him to act out like that.,39,46
+typical,stimuli/images/Typical/typical_3.jpg,"Regardless of the situation, it is typical for her to call him out. ",35,42
+typical,stimuli/images/Typical/typical_4.jpg,She assumed that this kind of weather was typical for the city.,42,49
+typical,stimuli/images/Typical/typical_5.jpg,"He preferred the typical, conventional kind of pants. ",17,24
+typical,stimuli/images/Typical/typical_6.jpg,She was accustomed to a more typical kind of interaction. ,29,36
+unaware,stimuli/images/Unaware/unaware_1.jpg,She was unaware of how oblivious he really was.,8,15
+unaware,stimuli/images/Unaware/unaware_2.jpg,"She was unashamed of her status, perhaps because she was unaware of it.",57,64
+unaware,stimuli/images/Unaware/unaware_3.jpg,"Unprejudiced and unaware, she went full throttle. ",17,24
+unaware,stimuli/images/Unaware/unaware_4.jpg,"Inarticulate and unaware of current issues, he makes a terrible candidate. ",17,24
+unaware,stimuli/images/Unaware/unaware_5.jpg,He was unaware of how uninterested she was. ,7,14
+unaware,stimuli/images/Unaware/unaware_6.jpg,He was unaware and unequipped for the gravity of the situation. ,7,14
+usable,stimuli/images/Usable/usable_1.jpg,The writing was barely usable and hardly publishable.,23,29
+usable,stimuli/images/Usable/usable_2.jpg,"More importantly, not only was the design usable, but reproducible. ",42,48
+usable,stimuli/images/Usable/usable_3.jpg,"At least, the product was usable and distinguishable. ",26,32
+usable,stimuli/images/Usable/usable_4.jpg,The microwave is recognizably usable for the average citizen.,30,36
+usable,stimuli/images/Usable/usable_5.jpg,It won't be marketable until it is universally usable. ,47,53
+usable,stimuli/images/Usable/usable_6.jpg,The usable parts are all salvageable. ,4,10
+useless,stimuli/images/Useless/useless_1.jpg,It was frustrating how useless calling Customer Service was.,23,30
+useless,stimuli/images/Useless/useless_2.jpg,The useless task was just busywork.,4,11
+useless,stimuli/images/Useless/useless_3.jpg,She found it irritating how useless his presentation was.,28,35
+useless,stimuli/images/Useless/useless_4.jpg,The trip was agonizing and quite useless. ,33,40
+useless,stimuli/images/Useless/useless_5.jpg,The grueling process turned out to be useless.,38,45
+useless,stimuli/images/Useless/useless_6.jpg,The excruciating demands at work made her feel useless. ,47,54
+vacation,stimuli/images/Vacation/vacation_1.jpg,The vacation started with a perfect sunset.,4,12
+vacation,stimuli/images/Vacation/vacation_2.jpg,The rest of her vacation was super relaxed.,16,24
+vacation,stimuli/images/Vacation/vacation_3.jpg,There's nothing like vacation in paradise.,21,29
+vacation,stimuli/images/Vacation/vacation_4.jpg,The vacation in Hawaii proved to be a luxury.,4,12
+vacation,stimuli/images/Vacation/vacation_5.jpg,"She enjoyed being on vacation, a hideaway from home. ",21,29
+vacation,stimuli/images/Vacation/vacation_6.jpg,"For their honeymoon, they had a vacation in France. ",32,40
+war,stimuli/images/War/war_1.jpg,The army was willing to lose the war. ,33,36
+war,stimuli/images/War/war_2.jpg,The camp is not safe from the war. ,30,33
+war,stimuli/images/War/war_3.jpg,The soldier was sent to war. ,24,27
+war,stimuli/images/War/war_4.jpg,He did not want to know of any casualty of the war. ,47,50
+war,stimuli/images/War/war_5.jpg,I don't know how you could rebel against a war. ,43,46
+war,stimuli/images/War/war_6.jpg,The battlefield of the war expanded quickly. ,23,26
+wash,stimuli/images/Wash/wash_1.jpg,"You can wash the counter as much as you'd like, it'll never be sterile.",8,12
+wash,stimuli/images/Wash/wash_2.jpg,The dishwasher can wash all the dishes.,32,38
+wash,stimuli/images/Wash/wash_3.jpg,He liked to wash himself with bar soap more. ,12,16
+wash,stimuli/images/Wash/wash_4.jpg,"After she could wash herself, she finally felt clean.",16,20
+wash,stimuli/images/Wash/wash_5.jpg,You have to wash your laundry before you can go. ,12,16
+wash,stimuli/images/Wash/wash_6.jpg,The maid was asked to wash the floor. ,22,26
+weak,stimuli/images/Weak/weak_1.jpg,She felt crummy and weak after the class.,20,24
+weak,stimuli/images/Weak/weak_2.jpg,The competition left her feeling weak and mediocre. ,33,37
+weak,stimuli/images/Weak/weak_3.jpg,He saw himself as weak and unattractive. ,18,22
+weak,stimuli/images/Weak/weak_4.jpg,The project had a weak foundation and overall was poorly managed.,18,22
+weak,stimuli/images/Weak/weak_5.jpg,The dismal building looked weak in the wind.,27,31
+weak,stimuli/images/Weak/weak_6.jpg,His pitch was weak and generally amateurish.  ,14,18
+wear,stimuli/images/Wear/wear_1.jpg,She wanted to wear a dress tonight. ,14,18
+wear,stimuli/images/Wear/wear_2.jpg,When you wear silk you have to be careful.,9,13
+wear,stimuli/images/Wear/wear_3.jpg,I want to wear a handkerchief tonight.,10,14
+wear,stimuli/images/Wear/wear_4.jpg,I can't wear something unbuttoned to meet his parents.,8,12
+wear,stimuli/images/Wear/wear_5.jpg,"If you wear bloomers one more time, I'll scream.",7,11
+wear,stimuli/images/Wear/wear_6.jpg,I like to wear sheath-like material. ,10,14
+weather,stimuli/images/Weather/weather_1.jpg,The cold weather almost ruined the trip.,9,16
+weather,stimuli/images/Weather/weather_2.jpg,Summer weather brightens everyone's mood.,7,14
+weather,stimuli/images/Weather/weather_3.jpg,The weather in autumn is bearable. ,4,11
+weather,stimuli/images/Weather/weather_4.jpg,The weather report did not predict the blizzard.,4,11
+weather,stimuli/images/Weather/weather_5.jpg,The monsoon was typical of New Delhi weather. ,37,44
+weather,stimuli/images/Weather/weather_6.jpg,The balmy weather was good for their skin. ,10,17
+willingly,stimuli/images/Willingly/willingly_1.jpg,"Not only did he willingly pick her up, he was happy to do so.",16,25
+willingly,stimuli/images/Willingly/willingly_2.jpg,She willingly listened as he complained incessantly. ,4,13
+willingly,stimuli/images/Willingly/willingly_3.jpg,"Against all odds, he willingly and earnestly committed the crime.",21,30
+willingly,stimuli/images/Willingly/willingly_4.jpg,She answered the prosecutor's questions openly and willingly.,51,60
+willingly,stimuli/images/Willingly/willingly_5.jpg,She fiercely defended him as he willingly took the blame. ,32,41
+willingly,stimuli/images/Willingly/willingly_6.jpg,The interviewer consistently attacked him as he willingly obliged. ,48,57
+word,stimuli/images/Word/word_1.jpg,She used the correct word on first try.,21,25
+word,stimuli/images/Word/word_2.jpg,The sentence was missing a word.,27,31
+word,stimuli/images/Word/word_3.jpg,Her nickname is a word commonly used to describe goats.,18,22
+word,stimuli/images/Word/word_4.jpg,That word is difficult to pronounce.,5,9
+word,stimuli/images/Word/word_5.jpg,The spelling of the word makes no sense.,20,24
+word,stimuli/images/Word/word_6.jpg,I can't seem to translate that word. ,31,35
