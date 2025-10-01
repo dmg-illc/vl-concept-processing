@@ -2,7 +2,8 @@
 
 This repo contains the code to replicate results from the paper _Vision-Language Models Align with Human Concept Processing_.
 
-[Experiment Overview Image.pdf](https://github.com/user-attachments/files/22643600/Experiment.Overview.Image.pdf)
+<img width="1004" height="300" alt="Experiment Overview Image" src="https://github.com/user-attachments/assets/d747cd7d-6e73-4406-8709-a751e4457cd1" />
+
 
 The content of this repository is structured as follows:
 ```
