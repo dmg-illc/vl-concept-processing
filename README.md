@@ -1,6 +1,6 @@
 # Vision-Language Models Align with Human Neural Representations in Concept Processing
 
-This repo contains the code to replicate results from the paper _Vision-Language Models Align with Human Neural Representations in Concept Processing_, by [Anna Bavaresco](https://annabavaresco.github.io/), [Marianne de Heer Kloots](https://mdhk.net/), [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
+This repo contains the code to replicate results from the paper [_Vision-Language Models Align with Human Neural Representations in Concept Processing_](https://aclanthology.org/2026.eacl-long.150/), by [Anna Bavaresco](https://annabavaresco.github.io/), [Marianne de Heer Kloots](https://mdhk.net/), [Sandro Pezzelle](https://sandropezzelle.github.io/) and [Raquel Fernández](https://staff.fnwi.uva.nl/r.fernandezrovira/).
 
 <img width="1004" height="300" alt="Experiment Overview Image" src="https://github.com/user-attachments/assets/d747cd7d-6e73-4406-8709-a751e4457cd1" />
 
